@@ -1,0 +1,4327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-27 23:00+0000\n"
+"PO-Revision-Date: 2022-01-20 09:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: wp-booking-system"
+
+#: includes/modules/pricing/functions-part-payments.php:394
+msgid " &#8211; Final Payment Link"
+msgstr ""
+"Vous pouvez configurer un email de rappel sous l'onglet <strong> "
+"Notifications de rappel de paiement </strong> lors de la modification d'un "
+"<strong> formulaire </strong>."
+
+#: includes/modules/pricing/functions-part-payments.php:367
+msgid " &#8211; Final Payment Method"
+msgstr "&#8211; Methode de payement finale"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:15
+msgid "\"Item\" Table Column"
+msgstr "\"Item\" Colonne du Tableau"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:7
+msgid "\"Payment Confirmation\" Heading"
+msgstr "En-tête \"Confirmation de paiement\""
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:23
+msgid "\"Subtotal\" Table Column"
+msgstr "\"Sous-total\" Colonne du tableau "
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:19
+msgid "\"Total\" Table Column"
+msgstr "\"Total\" Colonne du Tableau"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:11
+msgid "\"Your Order\" Heading"
+msgstr "\"Vos Commandes\" En tête "
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:101
+#, php-format
+msgid "%s legend item is now the default one."
+msgstr "%s élément de légende est maintenant celui par défaut."
+
+#. Description of the plugin
+msgid "A set-and-forget booking calendar for your rental business."
+msgstr "Un calendrier de réservation pour votre entreprise de location"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:235
+msgid "Accent Colour"
+msgstr "Couleur d'accent"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:143
+msgid "Accept Booking"
+msgstr "Accepter la réservation"
+
+#: includes/base/admin/addons/functions.php:126
+msgid "Accept credit cards and bank transfers using the GoPay payment gateway."
+msgstr ""
+"Accepter les cartes de crédit et les virements bancaires à l'aide de la "
+"passerelle de paiement GoPay "
+
+#: includes/base/admin/addons/functions.php:104
+msgid "Accept credit cards using the Authorize.Net payment gateway."
+msgstr ""
+"Acceptez les cartes de crédit en utilisant la passerelle de paiement "
+"Authorize.Net."
+
+#: includes/base/admin/addons/functions.php:71
+msgid "Accept credit cards using the Stripe payment gateway."
+msgstr ""
+"Acceptez les cartes de crédit en utilisant la passerelle de paiement Stripe."
+
+#: includes/base/admin/addons/functions.php:115
+msgid ""
+"Accept credit cards, bank transfers, iDEAL and many other payment methods "
+"with Mollie."
+msgstr ""
+"Accepter les cartes de crédit, virements bancaires, iDEAL et de nombreuses "
+"autres méthodes de paiement avec Mollie."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:78
+#: includes/base/admin/calendar/class-list-table-calendars.php:292
+msgid "Accepted"
+msgstr "Accepté"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:192
+msgid ""
+"Accepting, Updating or Deleting the booking will also update the calendar "
+"availability as per the form above."
+msgstr ""
+"Accepter, mettre a jour ou Supprimer de la réservation, mettra à jour la "
+"disponibilité dans le calendrier suivant le formulaire ci-dessus."
+
+#: includes/base/admin/addons/views/view-addons.php:42
+msgid "Activate"
+msgstr "Activer"
+
+#: includes/base/admin/form/class-list-table-forms.php:130
+#: includes/base/admin/calendar/class-list-table-calendars.php:131
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:10
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:10
+msgid "Active"
+msgstr "Activé"
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:34
+#: includes/base/admin/calendar/views/view-shortcode-generator.php:15
+#: includes/base/admin/calendar/views/view-add-calendar.php:64
+msgid "Add Calendar"
+msgstr "Ajouter un calendrier"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:231
+msgid "Add External Link"
+msgstr "Ajouter un lien externe"
+
+#: includes/base/admin/form/views/view-add-form.php:37
+msgid "Add Form"
+msgstr "Ajouter un formulaire"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:427
+msgid "Add iCal URL"
+msgstr "Ajouter une URL  iCal"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:8
+msgid "Add Legend Item"
+msgstr "Ajouter un élément de légende"
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:23
+#: includes/base/admin/calendar/views/view-calendars.php:12
+msgid "Add New Calendar"
+msgstr "Ajouter un nouveau calendrier"
+
+#: includes/base/admin/form/views/view-add-form.php:20
+#: includes/base/admin/form/views/view-forms.php:12
+msgid "Add New Form"
+msgstr "Ajouter un nouveau formulaire"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:6
+#: includes/base/admin/calendar/views/view-legend.php:14
+msgid "Add New Legend Item"
+msgstr "Ajouter un nouvel élément de légende"
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:128
+msgid "Add New Note"
+msgstr "Ajouter une nouvelle note"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:287
+msgid "Add new note"
+msgstr "Ajouter une nouvelle note"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:336
+msgid "Add New Template"
+msgstr "Ajouter un nouveau modèle"
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:134
+#: includes/base/admin/calendar/views/view-edit-calendar.php:289
+msgid "Add Note"
+msgstr "Ajouter une note"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:216
+msgid "Add some style to all the outgoing emails."
+msgstr "Ajouter un peu de style à tous les emails sortants."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:167
+msgid "Add Tax"
+msgstr "Ajouter une taxe"
+
+#: includes/base/admin/addons/class-submenu-page-addons.php:35
+msgid "Add-on successfully activated."
+msgstr "Module complémentaire activé avec succès."
+
+#: includes/base/admin/addons/class-submenu-page-addons.php:32
+msgid "Add-on successfully installed."
+msgstr "Module complémentaire installé avec succès."
+
+#: includes/base/admin/addons/functions.php:46
+#: includes/base/admin/addons/functions.php:47
+#: includes/base/admin/addons/views/view-addons.php:11
+msgid "Add-ons"
+msgstr "Modules complémentaires"
+
+#: includes/base/admin/addons/views/view-addons.php:17
+msgid "Add-ons are only available with a valid licence key."
+msgstr ""
+"Modules complémentaires uniquement disponibles  avec une clé de licence "
+"valide."
+
+#: includes/base/admin/booking/functions-ajax.php:254
+#: includes/base/admin/calendar/functions-notes.php:54
+#: includes/base/admin/booking/views/view-modal-booking-details.php:109
+msgid "Added on"
+msgstr "Ajouté"
+
+#: includes/base/admin/form/class-submenu-page-form.php:90
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:7
+msgid "Admin Notification"
+msgstr "Notification à l'administrateur"
+
+#: includes/base/admin/form/functions.php:72
+msgid "Advanced Form Elements"
+msgstr "Éléments de formulaire avancés"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:112
+msgid "Advanced Options"
+msgstr "Options Avancées"
+
+#: includes/modules/uninstaller/views/view-uninstaller.php:18
+msgid ""
+"After the uninstall process is complete the plugin will be automatically "
+"deactivated."
+msgstr ""
+"Une fois le processus de désinstallation terminé, le plugin sera "
+"automatiquement désactivé."
+
+#: includes/base/form/class-form-outputter.php:941
+msgid "Agreed"
+msgstr ""
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:20
+msgid "All Calendars"
+msgstr "Tous les calendriers"
+
+#: includes/base/admin/addons/functions.php:149
+msgid ""
+"Allow multiple bookings per day and automatically make the dates unavailable "
+"when the maximum number of bookings is reached."
+msgstr ""
+"Permettre  plusieurs réservations par jour et rendre automatiquement les "
+"dates indisponibles lorsque le nombre maximum de réservations est atteint."
+
+#: includes/base/admin/addons/functions.php:93
+msgid ""
+"Allow your customers to checkout with WooCommerce, using any of the payment "
+"gateways supported by WooCommerce."
+msgstr ""
+"Permettez à vos clients de payer avec WooCommerce, en utilisant l'une des "
+"passerelles de paiement prises en charge."
+
+#: includes/base/admin/addons/functions.php:219
+msgid ""
+"Allow your customers to switch between currencies when making a payment."
+msgstr ""
+"Permettez à vos clients de basculer entre les devises lors d'un paiement."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:76
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:87
+msgid "Amount"
+msgstr "Montant"
+
+#: includes/modules/pricing/functions-part-payments.php:466
+msgid "Amount Billed"
+msgstr "Montant facturé"
+
+#: includes/modules/pricing/functions-part-payments.php:486
+msgid "Amount Billed Label"
+msgstr "Etiquette du montant facturé"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:12
+msgid "Appears above the pricing table."
+msgstr "Apparaît au-dessus de la table des prix."
+
+#: includes/modules/pricing/functions-part-payments.php:492
+msgid "Appears in the Pricing Table"
+msgstr "Apparaît dans le tableau des tarifs"
+
+#: includes/modules/pricing/functions-part-payments.php:497
+msgid ""
+"Appears in the Pricing Table when the Final Payment method is set to 'Cash "
+"on Arrival'"
+msgstr ""
+"Apparaît dans le tableau des prix lorsque le mode de paiement final est "
+"défini sur `` Espèces  à l'arrivé''"
+
+#: includes/modules/pricing/functions-part-payments.php:502
+msgid ""
+"Appears in the Pricing Table when the Final Payment method is set to 'Same "
+"as initial payment'"
+msgstr ""
+"Apparaît dans le tableau des prix lorsque le mode de paiement final est "
+"défini sur «Identique au paiement initial»"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:16
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:20
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:24
+msgid "Appears in the pricing table."
+msgstr "Apparaît dans la table des prix."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:8
+msgid "Appears on the payment screen."
+msgstr "Apparaît sur l'écran de paiement."
+
+#: includes/modules/pricing/functions-pricing.php:102
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:127
+msgid "Applicable Period"
+msgstr "Période applicable"
+
+#: includes/modules/pricing/functions-part-payments.php:88
+msgid "Applicable period"
+msgstr "Période applicable"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:28
+msgid "Apply Changes"
+msgstr "Appliquer les modifications"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:111
+msgid "Apply tax to"
+msgstr "Appliquer la taxe à"
+
+#: includes/base/class-widget-calendar.php:262
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:108
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:97
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:51
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:29
+msgid "April"
+msgstr "Avril"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:248
+msgid "Are you sure you want to delete this calendar?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce calendrier?"
+
+#: includes/base/admin/form/class-list-table-forms.php:229
+msgid "Are you sure you want to delete this form?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce formulaire?"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:196
+msgid "Are you sure you want to delete this legend item?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet élément de légende?"
+
+#: includes/base/admin/backup/views/view-backup.php:65
+msgid "Are you sure you want to import data from the file?"
+msgstr ""
+"Êtes-vous sûr que vous voulez importer des données à partir du fichier?"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:424
+msgid "Are you sure you want to refresh this iCal feeds?"
+msgstr "Voulez-vous vraiment actualiser ces flux iCal?"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:293
+msgid "Are you sure you want to remove this iCal URL?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette URL iCal?"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:109
+msgid ""
+"Are you sure you want to reset the iCalendar feed link for this calendar?"
+msgstr ""
+"Voulez-vous vraiment réinitialiser le lien du flux iCalendar pour ce "
+"calendrier?"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:237
+msgid "Are you sure you want to send this calendar to the trash?"
+msgstr "Êtes-vous sûr de vouloir envoyer ce calendrier à la poubelle?"
+
+#: includes/base/admin/form/class-list-table-forms.php:218
+msgid "Are you sure you want to send this form to the trash?"
+msgstr "Êtes-vous sûr de vouloir envoyer ce formulaire à la poubelle?"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:185
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: includes/base/class-widget-calendar.php:266
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:112
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:101
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:55
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:33
+msgid "August"
+msgstr "Août"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:394
+msgid "Authorized"
+msgstr "Autorisé"
+
+#: includes/base/class-widget-calendar.php:245
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:128
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:162
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:68
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:46
+msgid "Auto (let WP choose)"
+msgstr "Auto (laissez WP choisir)"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:81
+msgid "Auto Accept as"
+msgstr "Accepter automatiquement comme"
+
+#: includes/base/class-widget-calendar.php:353
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:283
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:238
+msgid "Auto Accept Bookings"
+msgstr "Accepter automatiquement les réservations"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:91
+#, php-format
+msgid "Auto Accept for %s was updated."
+msgstr "L'acceptation automatique pour % s a été mise à jour."
+
+#: includes/base/admin/addons/functions.php:161
+msgid "Automatically email your customers to remind them about their bookings."
+msgstr ""
+"Envoyez automatiquement un email à vos clients pour leur rappeler leurs "
+"réservations."
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:54
+msgid ""
+"Automatically fill in the event description field when a booking is made. "
+"You can use Email Tags to populate with dynamic form values, eg. '{1:Your "
+"Name}'. This only works if the Auto Accept option is enabled."
+msgstr ""
+"Rempli automatiquement le champ de description de l'événement lors de la "
+"réservation. Vous pouvez utiliser des balises email pour remplir des valeurs "
+"de formulaire dynamiques, par exemple \"{1: Votre nom}\". Cela ne fonctionne "
+"que si l'option d'acceptation automatique est activée."
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:67
+msgid ""
+"Automatically fill in the event tooltip field when a booking is made. You "
+"can use Email Tags to populate with dynamic form values, eg. '{1:Your Name}'."
+" This only works if the Auto Accept option is enabled."
+msgstr ""
+"Rempli automatiquement le champ de l'info-bulle de l'événement lorsqu'une "
+"réservation est effectuée. Vous pouvez utiliser des balises email pour "
+"remplir des valeurs de formulaire dynamiques, par exemple \"{1: Votre nom}\"."
+" Cela ne fonctionne que si l'option d'acceptation automatique est activée."
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:277
+msgid "Automatically Load"
+msgstr "Charger Automatiquement"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:278
+msgid ""
+"Automatically load the contents of an email template in the email form, "
+"wihtout having to select it from the dropdown."
+msgstr ""
+"Charger automatiquement le contenu d'un modèle d'email dans le formulaire "
+"électronique, sans avoir à le sélectionner dans la liste déroulante."
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:262
+msgid "Availability"
+msgstr "Disponibilité"
+
+#: includes/base/legend/functions.php:202
+msgid "Available"
+msgstr "Disponible"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:50
+msgid "Back to all calendars"
+msgstr "Retour à tous les calendriers"
+
+#: includes/base/admin/form/views/view-edit-form.php:64
+msgid "Back to all forms"
+msgstr "Retour à tous les formulaires"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:20
+#: includes/base/admin/calendar/views/view-ical-import-export.php:27
+#: includes/base/admin/calendar/views/view-legend.php:18
+msgid "Back to Calendar"
+msgstr "Retour au calendrier"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:46
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:157
+msgid "Back to Legend"
+msgstr "Retour à la Légende"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:59
+msgid "Backend Start Day"
+msgstr "Jour de début du backend"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:66
+#: includes/base/admin/settings/views/view-settings-tab-form.php:80
+msgid "Background Color"
+msgstr "Couleur d'Arrière-Plan"
+
+#: includes/base/admin/backup/functions.php:40
+#: includes/base/admin/backup/functions.php:41
+#: includes/base/admin/backup/views/view-backup.php:11
+msgid "Backup/Restore"
+msgstr "Sauvegarde/Restauration"
+
+#: includes/modules/pricing/functions-bank-transfer.php:18
+#: includes/modules/pricing/functions-bank-transfer.php:30
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:5
+msgid "Bank Transfer"
+msgstr "Virement Bancaire"
+
+#: includes/base/admin/form/functions.php:71
+msgid "Basic Form Elements"
+msgstr " Éléments de base du Formulaire "
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:42
+msgid "Basic Options"
+msgstr "Options de Base"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:75
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:59
+#: includes/base/admin/booking/views/view-modal-email-customer.php:30
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:79
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:89
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:99
+msgid "BCC"
+msgstr "BCC"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:80
+msgid "Bookable"
+msgstr "Possibilité de réserver"
+
+#: includes/base/legend/functions.php:210
+msgid "Booked"
+msgstr "Réservé"
+
+#: includes/base/admin/form/functions.php:508
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:57
+msgid "Booked On"
+msgstr "Réservé le"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:200
+msgid "Booked on"
+msgstr "Réservé le"
+
+#: includes/base/admin/booking/views/view-modal.php:4
+msgid "Booking #"
+msgstr "Réservation #"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:24
+msgid "Booking Accept/Delete Email"
+msgstr "Réservation acceptée/Supprimer les emails"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:23
+msgid "Booking Custom Email"
+msgstr "Email de réservation personnalisé"
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:5
+msgid "Booking Data"
+msgstr " Données de réservation"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:81
+msgid "Booking Details"
+msgstr "Détails de La réservation"
+
+#: includes/base/class-widget-calendar.php:415
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:362
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:290
+msgid "Booking End Day"
+msgstr "Réservation de Fin de Journée"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:25
+msgid "Booking History Color"
+msgstr "Couleur de l'historique des réservations"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:36
+msgid "Booking Hover Color"
+msgstr "Couleur de survol des réservations"
+
+#: includes/base/admin/form/functions.php:507
+#: includes/base/admin/booking/class-booking-detail-outputter.php:177
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:45
+msgid "Booking ID"
+msgstr "Numéro de réservation"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:47
+msgid "Booking Selection Color"
+msgstr "Couleur de sélection de réservation"
+
+#: includes/base/class-widget-calendar.php:399
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:344
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:281
+msgid "Booking Start Day"
+msgstr "Date du Début de La Réservation"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:124
+msgid "Booking successfully deleted."
+msgstr "Réservation supprimé avec succès."
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:87
+#: includes/modules/upgrader/views/view-upgrader.php:54
+#: includes/base/admin/calendar/views/view-edit-calendar.php:87
+msgid "Bookings"
+msgstr "Réservations"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:429
+msgid "bookings"
+msgstr "réservations"
+
+#: includes/base/class-widget-calendar.php:194
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:59
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:67
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:70
+msgid "Bottom"
+msgstr "Bas"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:432
+msgid "Bulk Edit"
+msgstr "Modification groupée"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:340
+msgid "Bulk Edit Availability"
+msgstr "Modifications groupées des disponibilités"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:12
+msgid "Bulk Edit Dates"
+msgstr "Modification groupée des éléments"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:77
+msgid "Button Hover Style"
+msgstr "Style des Boutons survolés"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:63
+msgid "Button Style"
+msgstr "Style des Boutons"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:47
+msgid ""
+"By default we use our own styling to make sure everything looks fine. You "
+"can select 'Theme Styling' to disable the output of our custom CSS."
+msgstr ""
+"Par défaut, nous utilisons notre propre style pour s'assurer que tout semble "
+"parfait. Vous pouvez sélectionner le Thème \"Style\" pour désactiver la "
+"sortie de notre CSS personnalisé."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:98
+msgid "Calculation"
+msgstr "Calcul"
+
+#: includes/base/class-widget-calendar.php:158
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:16
+#: includes/base/admin/calendar/views/view-edit-calendar.php:315
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:98
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:116
+msgid "Calendar and Form Prices"
+msgstr "Calendrier et Formulaire de Prix"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:34
+msgid "Calendar created successfully."
+msgstr "Calendrier créé avec succès."
+
+#: includes/modules/facetwp/functions-integration-facet-wp.php:21
+msgid "Calendar Dates"
+msgstr "Dates du calendrier"
+
+#: includes/base/class-shortcodes.php:159
+msgid "Calendar does not exist."
+msgstr "Le Calendrier n'existe pas."
+
+#: includes/modules/upgrader/views/view-upgrader.php:52
+msgid "Calendar Events"
+msgstr "Calendrier des événements"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:49
+msgid "Calendar has been successfully deleted."
+msgstr "Le calendrier a été supprimé avec succès."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:46
+msgid "Calendar has been successfully restored."
+msgstr "Le calendrier a été restauré avec succès."
+
+#: includes/base/admin/calendar/views/view-csv-export.php:16
+#: includes/base/admin/calendar/views/view-ical-import-export.php:23
+#: includes/base/admin/calendar/views/view-legend.php:13
+#: includes/base/admin/calendar/views/view-edit-calendar.php:44
+#, php-format
+msgid "Calendar ID: %d"
+msgstr "Calendrier ID: %d"
+
+#: includes/base/admin/calendar/views/view-legend.php:13
+msgid "Calendar Legend"
+msgstr "Légendes du calendrier "
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:309
+#: includes/base/admin/calendar/views/view-add-calendar.php:32
+msgid "Calendar Name"
+msgstr "Nom du calendrier"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:7
+msgid "Calendar Options"
+msgstr "Options du calendrier"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:117
+msgid "Calendar Price Only"
+msgstr "Calendrier des prix"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:8
+msgid "Calendar Selection"
+msgstr "Sélection du calendrier"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:43
+msgid "Calendar successfully moved to Trash."
+msgstr "Le calendrier a bien été déplacé vers la corbeille."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:37
+msgid "Calendar updated successfully."
+msgstr "Calendrier mis à jour avec succès."
+
+#: includes/modules/pricing/functions-part-payments.php:101
+#: includes/base/admin/calendar/functions.php:88
+#: includes/base/admin/calendar/functions.php:89
+#: includes/modules/upgrader/views/view-upgrader.php:51
+#: includes/base/admin/calendar/views/view-calendars.php:11
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:148
+msgid "Calendars"
+msgstr "Calendriers"
+
+#: includes/base/admin/form/views/view-add-form.php:36
+#: includes/base/admin/booking/views/view-modal-booking-details.php:35
+#: includes/base/admin/booking/views/view-modal-booking-details.php:83
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:400
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:186
+#: includes/base/admin/calendar/views/view-add-calendar.php:63
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/modules/pricing/functions-part-payments.php:123
+#: includes/modules/pricing/functions-part-payments.php:368
+msgid "Cash on arrival"
+msgstr "En espèces à l'arrivée"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:67
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:51
+#: includes/base/admin/booking/views/view-modal-email-customer.php:22
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:71
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:81
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:91
+msgid "CC"
+msgstr "CC"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:307
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:261
+msgid ""
+"Change the way the selection of dates looks. Normal will highlight days "
+"entirely, while Split will make the first and last day of the selection "
+"appear as half days."
+msgstr ""
+"Changez l'apparence de la sélection de dates. Normal mettra en évidence des "
+"jours entiers, tandis que Split fera apparaître le premier et le dernier "
+"jour de la sélection sous forme de demi-journées."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:295
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:252
+msgid "Change the way the visitor selects dates in the calendar."
+msgstr ""
+"Changer la façon dont le visiteur sélectionne les dates dans le calendrier."
+
+#: includes/base/legend/functions.php:218
+msgid "Changeover 1"
+msgstr "Basculement 1"
+
+#: includes/base/legend/functions.php:226
+msgid "Changeover 2"
+msgstr "Basculement 2"
+
+#: includes/modules/update-checker/views/view-register-website.php:37
+msgid "Check for Updates"
+msgstr "Vérifier les mises à jour"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:179
+msgid "Check-in date"
+msgstr "Date d'arrivée"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:180
+msgid "Check-out date"
+msgstr "Date de départ"
+
+#: includes/base/admin/form/functions.php:249
+msgid "Checkbox Label"
+msgstr "Étiquette de case à cocher"
+
+#: includes/base/admin/form/functions.php:250
+msgid "Checkbox Link"
+msgstr "Lien de la case à cocher"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:25
+msgid "Classic Reminder"
+msgstr "Rappel classique"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:434
+msgid ""
+"Clicking the \"Undo\" link will undo the last bulk edit action you have made,"
+" just in case you have made a mistake."
+msgstr ""
+"Cliquer sur le lien \"Annuler\" permet d'annuler la dernière modification "
+"groupée que vous venez de faire, juste au cas où vous avez fait une erreur."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:76
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:81
+msgid "Color"
+msgstr "Couleur"
+
+#: includes/modules/pricing/functions-part-payments.php:169
+msgid "Confirmation Message"
+msgstr "Message de confirmation"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:22
+msgid "Confirmation Type"
+msgstr "Type de confirmation"
+
+#: includes/modules/upgrader/views/view-upgrader.php:75
+msgid "Continue to plugin"
+msgstr "Continuer vers le plugin"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:80
+msgid ""
+"Controls wether or not the visitor can book the date using this legend item."
+msgstr ""
+"Détermine si oui ou non le visiteur peut réserver la date à l'aide de cet "
+"élément de légende."
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:52
+#, php-format
+msgid "Copy from calendar #%d (%s)"
+msgstr "Copie à partir du calendrier #%d (%s)"
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:47
+msgid "Copy Legend"
+msgstr "Copier la légende"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:5
+msgid ""
+"Create a calendar overview that displays all selected calendars and their "
+"availability"
+msgstr ""
+"Créer un aperçu de calendrier qui affiche tous les calendriers sélectionnés "
+"et leur disponibilité"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:268
+msgid ""
+"Create default email templates you can re-use everytime you send an email "
+"from the Booking Manager. You can also include general email tags which are "
+"not related to forms, like {Start Date} or {Booking ID}."
+msgstr ""
+"Créez des modèles d'emails par défaut que vous pouvez réutiliser à chaque "
+"fois que vous envoyez un email depuis le gestionnaire de réservation. Vous "
+"pouvez également inclure des balises d'email générales qui ne sont pas liées "
+"aux formulaires, telles que {Date de début} ou {ID de réservation}."
+
+#: includes/base/admin/addons/functions.php:185
+msgid ""
+"Create discounts and coupon codes that are applied to the checkout form "
+"based on specific conditions."
+msgstr ""
+"Créer des réductions et codes promo qui sont appliqués au formulaire de "
+"réservation basés sur des conditions spécifiques."
+
+#: includes/base/admin/backup/views/view-backup.php:21
+msgid "Create export file"
+msgstr "Créer un fichier d'exportation"
+
+#: includes/base/admin/addons/functions.php:196
+msgid "Creates a dashboard with reports and statistics for your bookings."
+msgstr ""
+"Crée un tableau de bord avec les rapports et les statistiques de vos "
+"réservations."
+
+#: includes/base/admin/calendar/views/view-csv-export.php:16
+#: includes/base/admin/calendar/views/view-edit-calendar.php:497
+#: includes/base/admin/calendar/views/view-edit-calendar.php:503
+msgid "CSV Export"
+msgstr "Export CSV"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:6
+msgid "Currency"
+msgstr "Devise"
+
+#: includes/base/class-widget-calendar.php:258
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:104
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:93
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:47
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:25
+msgid "Current Month"
+msgstr "Mois en Cours"
+
+#: includes/base/class-widget-calendar.php:279
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:89
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:78
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:40
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:18
+msgid "Current Year"
+msgstr "Année en Cours"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:94
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: includes/modules/pricing/functions-pricing.php:99
+msgid "Custom \"Total\" Label"
+msgstr "Etiquette \"Total\" Personnalisée"
+
+#: includes/base/admin/form/functions.php:234
+msgid "Custom Class"
+msgstr "Classe Personnalisée"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:93
+msgid "Daily"
+msgstr "Quotidien"
+
+#: includes/base/admin/backup/class-submenu-page-backup.php:30
+msgid "Data from the file has been imported successfully."
+msgstr "Les données de ce fichier ont été importées avec succès."
+
+#: includes/modules/uninstaller/views/view-uninstaller.php:16
+msgid "Data related to versions lower than version 8 will not be removed."
+msgstr ""
+"Les données relatives aux versions inférieures à la version 8 ne seront pas "
+"supprimées."
+
+#: includes/modules/pricing/functions-payment-on-arrival.php:143
+#: includes/modules/pricing/functions-bank-transfer.php:143
+#: includes/base/admin/booking/class-bookings-outputter.php:178
+msgid "Date"
+msgstr "Date"
+
+#: includes/base/admin/form/class-list-table-forms.php:87
+#: includes/base/admin/calendar/class-list-table-calendars.php:88
+msgid "Date Created"
+msgstr "Date de Création"
+
+#: includes/base/admin/form/functions.php:239
+msgid "Date Format"
+msgstr ""
+
+#: includes/base/admin/form/class-list-table-forms.php:88
+#: includes/base/admin/calendar/class-list-table-calendars.php:89
+msgid "Date Modified"
+msgstr "Date de Modification"
+
+#: includes/base/class-widget-calendar.php:366
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:298
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:251
+msgid "Date Range"
+msgstr "Plage des Dates"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:73
+msgid "date, legend, description"
+msgstr "date, légende, description"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:68
+msgid "days before the booking starts"
+msgstr "jours avant le début de la réservation "
+
+#: includes/modules/pricing/functions-part-payments.php:93
+msgid "days from the current date"
+msgstr "Jours à compter de la date actuelle"
+
+#: includes/base/class-widget-calendar.php:270
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:116
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:105
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:59
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:37
+msgid "December"
+msgstr "Décembre"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:78
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:206
+msgid "Default \"BCC\""
+msgstr "\"BCC\" Par défaut "
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:197
+msgid "Default \"CC\""
+msgstr "\"CC Par défaut"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:179
+msgid "Default \"From Email\""
+msgstr " \"Email\" par défaut"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:170
+msgid "Default \"From Name\""
+msgstr "\"Nom\" par défaut "
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:188
+msgid "Default \"Reply To\""
+msgstr " \"Réponse\" par défaut "
+
+#: includes/modules/pricing/functions-pricing.php:331
+msgid "Default Price"
+msgstr "Prix par défaut"
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:37
+msgid "Default price"
+msgstr "Prix par défaut"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:46
+msgid "Default Styling"
+msgstr "Style par défaut"
+
+#: includes/base/admin/form/functions.php:232
+#: includes/base/admin/form/functions.php:233
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:196
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:189
+msgid "Delete Booking"
+msgstr "Supprimer la réservation"
+
+#: includes/base/admin/booking/functions-ajax.php:257
+#: includes/base/admin/booking/views/view-modal-booking-details.php:113
+msgid "delete note"
+msgstr "supprimer la note"
+
+#: includes/base/admin/form/class-list-table-forms.php:229
+#: includes/base/admin/calendar/class-list-table-calendars.php:248
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:82
+#: includes/base/admin/calendar/class-list-table-calendars.php:293
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: includes/modules/pricing/functions-part-payments.php:311
+#: includes/modules/pricing/functions-part-payments.php:355
+#: includes/modules/pricing/functions-part-payments.php:467
+msgid "Deposit"
+msgstr "Acompte"
+
+#: includes/modules/pricing/functions-part-payments.php:70
+msgid "Deposit amount"
+msgstr "Montant de l'acompte"
+
+#: includes/modules/pricing/functions-part-payments.php:491
+msgid "Deposit Label"
+msgstr "Étiquette de l'acompte"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:412
+msgid "Deposit Paid"
+msgstr "Acompte Versé"
+
+#: includes/modules/pricing/functions-part-payments.php:56
+msgid "Deposit type"
+msgstr "Type d'acompte"
+
+#: includes/modules/update-checker/views/view-register-website.php:23
+msgid "Deregister Website"
+msgstr "Se Désinscrire du Site Web"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:186
+msgid "Descending"
+msgstr "Descendant"
+
+#: includes/base/admin/form/functions.php:235
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:267
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:21
+#: includes/base/admin/calendar/views/view-edit-calendar.php:409
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:55
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:55
+msgid "Description"
+msgstr "Description"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:205
+msgid "Description Import"
+msgstr "Description de l'importation"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:222
+msgid "Disable Fancy Emails"
+msgstr "Désactiver les emails fantaisie"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:259
+msgid "Disable iCalendar Links"
+msgstr "Désactiver les Liens iCalendar"
+
+#: includes/base/class-widget-calendar.php:292
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:200
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:124
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:201
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:95
+msgid "Display booking history"
+msgstr "Affichage de l'historique de réservation"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:30
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:114
+msgid "Display Calendar Title"
+msgstr "Afficher le titre du calendrier"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:17
+msgid "Display Calendars"
+msgstr "Affichage des calendriers"
+
+#: includes/base/class-widget-calendar.php:200
+msgid "Display dropdown?"
+msgstr "Affichage de la liste déroulante?"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:42
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:51
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:122
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:58
+msgid "Display Legend"
+msgstr "Afficher les légendes"
+
+#: includes/base/class-widget-calendar.php:179
+msgid "Display legend"
+msgstr "Afficher les légendes"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:27
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:27
+msgid "Display name"
+msgstr "Nom d'affichage"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:173
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:178
+msgid "Display Selection Dropdown"
+msgstr "Sélection de l'Affichage de Liste Déroulante"
+
+#: includes/base/class-widget-calendar.php:169
+msgid "Display title"
+msgstr "Afficher le titre"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:215
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:134
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:209
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:103
+msgid "Display Tooltips"
+msgstr "Afficher les Info-Bulles"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:216
+msgid "Do not import the description"
+msgstr "Ne pas importer la description"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:45
+msgid "Do not include the &lt;script&gt; tags."
+msgstr "Ne pas inclure les balises &lt;script&gt;."
+
+#: includes/base/admin/backup/views/view-backup.php:34
+msgid "Download Export File"
+msgstr "Télécharger Le Fichier d'Exportation"
+
+#: includes/base/admin/form/class-list-table-forms.php:217
+msgid "Duplicate form"
+msgstr "Dupliquer le formulaire"
+
+#: includes/base/admin/form/functions-actions-form.php:382
+msgid "Duplicate of"
+msgstr "Duplicata de"
+
+#: includes/base/admin/form/functions.php:237
+msgid "Dynamic Population"
+msgstr "Population dynamique"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:193
+#: includes/base/admin/booking/views/view-modal-booking-details.php:32
+#: includes/base/admin/booking/views/view-modal-booking-details.php:80
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:235
+#: includes/base/admin/calendar/views/view-edit-calendar.php:44
+msgid "Edit Calendar"
+msgstr "Modifier le Calendrier"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:236
+msgid "Edit Calendar Legend"
+msgstr "Modifier la légende du calendrier"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:113
+msgid "Edit Dates"
+msgstr "Modifier les Dates"
+
+#: includes/base/admin/form/views/view-edit-form.php:58
+msgid "Edit Form"
+msgstr "Modifier le Formulaire "
+
+#: includes/base/admin/form/class-list-table-forms.php:216
+msgid "Edit form"
+msgstr "Modifier le Formulaire "
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:6
+msgid "Edit Legend Item"
+msgstr "Modifier l'élément de légende"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:474
+msgid "Edit Legend Items"
+msgstr "Modifier l'élément de légende"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:3
+msgid "Edit the calendar availability"
+msgstr "Modifier le calendrier de disponibilité"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:79
+msgid "Email Customer"
+msgstr "Email du Client"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:215
+msgid "Email Customization"
+msgstr " Personnalisation de l'email "
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:80
+msgid "Email Logs"
+msgstr "Journaux des emails"
+
+#: includes/base/admin/form/class-submenu-page-form.php:62
+msgid "Email Notifications"
+msgstr "Notifications par email"
+
+#: includes/modules/pricing/functions-part-payments.php:154
+#: includes/base/admin/booking/class-booking-detail-outputter.php:238
+msgid "Email Reminder"
+msgstr "Email de Rappel"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:42
+msgid "Email Strings"
+msgstr "Messages de emails"
+
+#: includes/base/admin/booking/functions-ajax.php:78
+msgid "Email successfully sent."
+msgstr "Email envoyé avec succès."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:42
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:30
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:56
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:56
+msgid "Email Tags"
+msgstr "Balises de messagerie"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:301
+msgid "Email Template #"
+msgstr "Modèle d'email #"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:6
+msgid "Email Type"
+msgstr "Type d'email"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:240
+#: includes/base/admin/booking/class-booking-detail-outputter.php:261
+msgid "Email will be sent only if the booking is Accepted."
+msgstr "L'email sera envoyé uniquement si la réservation est acceptée."
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:29
+msgid "Enable Email Logging"
+msgstr "Activer la Journalisation des emails"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:261
+msgid "Enable iCalendar Links"
+msgstr "Activer les liens iCalendar "
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:26
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:14
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:40
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:40
+msgid "Enable Notification"
+msgstr "Activer la Notification"
+
+#: includes/modules/pricing/functions-part-payments.php:38
+msgid "Enable Part Payments"
+msgstr "Activer les paiements partiels"
+
+#: includes/modules/pricing/functions-pricing.php:23
+msgid "Enable Pricing"
+msgstr "Activer le paiement"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:8
+msgid "Enable Taxes"
+msgstr "Activer les taxes"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:181
+msgid "Enable VAT"
+msgstr "Activer  la TVA"
+
+#: includes/modules/pricing/functions-pricing.php:24
+msgid ""
+"Enabling this option will allow you to add prices to calendar dates, add a "
+"price calculator to the form and enable the \"Payment on Arrival\" and "
+"\"Bank Transfer\" payment methods."
+msgstr ""
+"L'activation de cette option vous permettra d'ajouter des prix pour aux "
+"dates du calendrier, ajouter un calculateur de prix au formulaire et activer "
+"l'option \"Paiement à l'Arrivée\" et \"Transfert Bancaire\" comme méthodes "
+"de paiement."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:175
+msgid ""
+"Enabling this will deduct the VAT percentage from all your prices and add it "
+"back to the pricing table after the Subtotal is displayed."
+msgstr ""
+"L'activation de cette option déduira le pourcentage de TVA de tous vos prix "
+"et l'ajoutera à nouveau au tableau des prix une fois le sous-total affiché."
+
+#: includes/base/admin/form/functions.php:510
+#: includes/base/admin/booking/class-booking-detail-outputter.php:193
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:53
+#: includes/base/admin/calendar/views/view-edit-calendar.php:352
+msgid "End Date"
+msgstr "Date de Fin"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:138
+msgid "End date"
+msgstr "Date de fin"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:314
+msgid "Ending Changeover"
+msgstr "Fin du basculement"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:36
+msgid "Ending Day"
+msgstr "Fin de La Journée"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:389
+msgid "Error"
+msgstr "Erreur"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:53
+msgid "Event Description"
+msgstr "Description de L'Événement"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:66
+msgid "Event Tooltip"
+msgstr "Info-bulle d'événement"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:41
+#: includes/base/admin/calendar/views/view-ical-import-export.php:48
+msgid "Export"
+msgstr "Exportation"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:119
+msgid "Export CSV"
+msgstr "Export CSV"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:68
+msgid "Export Format"
+msgstr "Format d'Exportation"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:84
+msgid "Export Period"
+msgstr "Période d'exportation"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:156
+msgid "External"
+msgstr "Externe"
+
+#: includes/base/class-widget-calendar.php:260
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:106
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:95
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:49
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:27
+msgid "February"
+msgstr "Février"
+
+#: includes/modules/pricing/functions-part-payments.php:318
+#: includes/modules/pricing/functions-part-payments.php:359
+msgid "Final Payment"
+msgstr "Paiement Final"
+
+#: includes/modules/pricing/functions-part-payments.php:468
+msgid "Final Payment (on arrival)"
+msgstr "Paiement Final (à l'arrivée)"
+
+#: includes/modules/pricing/functions-part-payments.php:496
+msgid "Final Payment (on arrival) Label"
+msgstr "Etiquette du Paiement Final (à l'arrivée)"
+
+#: includes/modules/pricing/functions-part-payments.php:501
+msgid "Final Payment (online) Label"
+msgstr "Etiquette du Paiement Final (en ligne) "
+
+#: includes/modules/pricing/functions-part-payments.php:469
+msgid "Final Payment (online, before arrival)"
+msgstr "Paiement Final (en ligne, avant l'arrivée)"
+
+#: includes/modules/pricing/functions-part-payments.php:117
+msgid "Final Payment Method"
+msgstr "Méthode de Paiement Final"
+
+#: includes/modules/pricing/functions-part-payments.php:131
+msgid "Final Payment Options"
+msgstr "Options de Paiement final"
+
+#: includes/modules/pricing/form/functions.php:25
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:33
+#, fuzzy
+#| msgid "Payment Reminder Notification"
+msgid "Final Payment Reminder Notification"
+msgstr "Notification de rappel de paiement"
+
+#: includes/modules/pricing/form/functions.php:26
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:33
+msgid "Final Payment Success Notification"
+msgstr ""
+
+#: includes/modules/upgrader/views/view-upgrader.php:56
+msgid "Finished"
+msgstr "Terminé"
+
+#: includes/modules/upgrader/views/view-upgrader.php:48
+msgid "Finishing up..."
+msgstr "Finir"
+
+#: includes/modules/pricing/functions-part-payments.php:62
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:68
+msgid "Fixed Amount"
+msgstr "Montant Fixe"
+
+#: includes/modules/pricing/functions-pricing.php:103
+msgid "Fixed Date - Only between the selected dates"
+msgstr "Date fixe - Seulement entre les dates sélectionnées"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:26
+msgid "Follow Up"
+msgstr "Suivi"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:259
+msgid "Follow up Email"
+msgstr "Email de suivi"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:362
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:295
+msgid "Force the booking to end on a specific day."
+msgstr "Force la fin de la réservation à un jour spécifique."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:344
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:286
+msgid "Force the booking to start on a specific day."
+msgstr "Force le début de la réservation à un jour spécifique."
+
+#: includes/base/class-widget-calendar.php:341
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:268
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:106
+msgid "Form"
+msgstr "Formulaire"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:46
+msgid "Form & Email"
+msgstr "Formulaire & email"
+
+#: includes/base/admin/form/class-submenu-page-form.php:60
+#: includes/base/admin/form/views/view-edit-form-tab-form-builder.php:8
+msgid "Form Builder"
+msgstr "Générateur de Formulaire"
+
+#: includes/base/admin/form/class-submenu-page-form.php:87
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:15
+msgid "Form Confirmation"
+msgstr "Formulaire De Confirmation"
+
+#: includes/base/admin/form/class-submenu-page-form.php:30
+msgid "Form created successfully."
+msgstr "Formulaire créé avec succès."
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:47
+msgid "Form Data"
+msgstr "Données du Formulaire"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:164
+msgid "Form Defaults"
+msgstr "Valeurs par défaut des formulaires"
+
+#: includes/base/class-shortcodes.php:177
+msgid "Form does not exist."
+msgstr "La formulaire  n'existe pas."
+
+#: includes/base/admin/form/class-submenu-page-form.php:39
+msgid "Form has been successfully deleted."
+msgstr "Le formulaire a été supprimé avec succès."
+
+#: includes/base/admin/form/class-submenu-page-form.php:45
+msgid "Form has been successfully duplicated."
+msgstr "Le formulaire a été correctement reproduit"
+
+#: includes/base/admin/form/class-submenu-page-form.php:36
+msgid "Form has been successfully restored."
+msgstr "Le formulaire a été restauré avec succès."
+
+#: includes/base/admin/form/views/view-edit-form.php:58
+#, php-format
+msgid "Form ID: %d"
+msgstr "Formulaire ID: %d"
+
+#: includes/base/admin/form/views/view-add-form.php:29
+msgid "Form Name"
+msgstr "Nom du formulaire"
+
+#: includes/base/admin/form/class-submenu-page-form.php:61
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:255
+msgid "Form Options"
+msgstr "Options du formulaire"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:118
+msgid "Form Price Only"
+msgstr "Prix Uniquement"
+
+#: includes/base/admin/form/class-submenu-page-form.php:63
+msgid "Form Strings"
+msgstr "Chaînes de Formulaire"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:42
+msgid "Form Styling"
+msgstr "Style du Formulaire"
+
+#: includes/base/admin/form/class-submenu-page-form.php:33
+msgid "Form successfully moved to Trash."
+msgstr "Le formulaire a bien été déplacé vers la corbeille."
+
+#: includes/base/admin/form/functions.php:472
+msgid "Form Tags"
+msgstr "Balises de Formulaire"
+
+#: includes/base/admin/form/class-submenu-page-form.php:42
+msgid "Form updated successfully."
+msgstr "Formulaire mis à jour avec succès."
+
+#: includes/base/admin/form/functions.php:50
+#: includes/base/admin/form/functions.php:51
+#: includes/modules/upgrader/views/view-upgrader.php:53
+#: includes/base/admin/form/views/view-forms.php:11
+msgid "Forms"
+msgstr "Formulaires"
+
+#: includes/base/functions.php:70 includes/base/class-widget-calendar.php:217
+#: includes/base/class-widget-calendar.php:407
+#: includes/base/class-widget-calendar.php:423
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:163
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:352
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:370
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:80
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:91
+msgid "Friday"
+msgstr "Vendredi"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:94
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:78
+#: includes/base/admin/booking/views/view-modal-email-customer.php:49
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:98
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:108
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:118
+msgid "From Email"
+msgstr "Email"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:85
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:69
+#: includes/base/admin/booking/views/view-modal-email-customer.php:40
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:89
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:99
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:109
+msgid "From Name"
+msgstr "Nom"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:312
+msgid "Full Day"
+msgstr "Journée Complète"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:44
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:56
+msgid "General"
+msgstr "Général"
+
+#: includes/base/admin/form/class-submenu-page-form.php:86
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:2
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:14
+msgid "General Options"
+msgstr "Options Générales"
+
+#: includes/modules/pricing/settings/functions.php:40
+#: includes/base/admin/settings/views/view-settings-tab-form.php:23
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:1
+msgid "General Settings"
+msgstr "Paramètres Généraux"
+
+#: includes/modules/upgrader/views/view-upgrader.php:55
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: includes/base/admin/form/functions.php:458
+msgid "General Tags"
+msgstr "Balises générales"
+
+#: includes/base/admin/addons/functions.php:208
+msgid ""
+"Generate professional looking invoices and email them to your customers."
+msgstr ""
+"Générez des factures d'aspect professionnel et envoyez-les par email à vos "
+"clients."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:5
+msgid "Give the customer the option to pay with cash on arrival."
+msgstr "Donner au client la possibilité de payer en espèces à l'arrivée."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:5
+msgid ""
+"Give the customer the option to transfer money directly in your bank account."
+msgstr ""
+"Donner au client la possibilité de transférer de l'argent directement sur "
+"votre compte bancaire."
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:91
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:89
+msgid "Group Events by Description"
+msgstr "Grouper les évènements par description"
+
+#: includes/base/admin/form/functions.php:236
+msgid "Hide Label"
+msgstr "Cacher l'étiquette"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:174
+msgid "Hide past bookings"
+msgstr "Masquer les réservations passées"
+
+#: includes/base/class-widget-calendar.php:331
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:228
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:221
+msgid "Highlight Today"
+msgstr "Mettre aujourd'hui  en évidence "
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:92
+msgid "Hourly"
+msgstr "Horaire"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:112
+msgid "Hours"
+msgstr "Heures"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr "https://www.wpbookingsystem.com/"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:103
+msgid "iCal Custom Refresh Time"
+msgstr "Temps de Rafraîchissement Personnalisé de l'iCal "
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:112
+msgid "iCal events imported successfully into the calendar."
+msgstr "Evénements iCal importés avec succès dans le calendrier."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:115
+msgid "iCal feed URL added successfully."
+msgstr "URL du flux iCal ajoutée avec succès."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:118
+msgid "iCal feed URL removed successfully."
+msgstr "URL du flux iCal supprimée avec succès."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:121
+msgid "iCal feeds refreshed successfully."
+msgstr "flux iCal actualisé avec succès."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:23
+#: includes/base/admin/calendar/views/view-edit-calendar.php:482
+#: includes/base/admin/calendar/views/view-edit-calendar.php:488
+msgid "iCal Import/Export"
+msgstr "iCal Import/Export"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:86
+msgid "iCal Refresh Times"
+msgstr "iCal Temps d'Actualisation"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:150
+msgid "iCalendar File"
+msgstr "Fichier iCalendar"
+
+#: includes/base/admin/calendar/functions-actions-ical.php:35
+msgid "iCalendar library missing"
+msgstr "Bibliothèque iCalendar manquante"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:56
+msgid "iCalendar Link"
+msgstr "Lien iCalendar "
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:106
+msgid "iCalendar private link reset successful."
+msgstr "Réinitialisation du lien privé  de l'iCalendar réussie."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:320
+msgid "iCalendar URL"
+msgstr "URL iCalendar "
+
+#: includes/base/admin/calendar/functions-actions-ical.php:411
+msgid "iCalendarReader library missing"
+msgstr " Bibliothèque iCalendarReader manquante "
+
+#: includes/modules/pricing/functions-payment-on-arrival.php:144
+#: includes/modules/pricing/functions-bank-transfer.php:144
+#: includes/base/admin/form/class-list-table-forms.php:86
+#: includes/base/admin/calendar/class-list-table-calendars.php:86
+msgid "ID"
+msgstr "ID"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:90
+msgid ""
+"If selected, events that have the same description will be grouped into one "
+"event spaning over multiple days."
+msgstr ""
+"Si cette option est sélectionnée, les événements qui ont la même description,"
+" seront regroupés en un seul événement s'étendant sur plusieurs jours."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:355
+msgid ""
+"If selected, the start and end dates of the iCalendar Events will be "
+"displayed as Split Days. You will have to chose the legends to be used below."
+msgstr ""
+"Si cette option est sélectionnée, la date de début et de fin de évènement "
+"iCalendar seront affichés par demies journées. Vous aurez à choisir les "
+"légendes ci-dessous."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:185
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:192
+msgid ""
+"If set to yes and if the calendar displays multiple months, when the user "
+"uses the arrows to navigate the calendar, the calendar will switch the "
+"number of months selected, rather than just one month."
+msgstr ""
+"Si oui et si le calendrier affiche plusieurs mois, lorsque l'utilisateur "
+"utilise les flèches pour naviguer dans le calendrier, le calendrier va "
+"déplacer le nombre de mois sélectionnés, plutôt que tout juste un mois."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:147
+msgid ""
+"If set to yes, it will display a secondary calendar header for the dates "
+"(besides the day numbers), containing the first letter of the day's name. "
+"For example, Monday will display M."
+msgstr ""
+"Si oui, il va afficher un titre secondaire au calendrier pour les dates (à "
+"coter du numéro du  jour), contenant la première lettre du nom. Par exemple, "
+"le lundi affichera L."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:240
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:234
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:120
+msgid ""
+"If set to yes, it will display at the beginning of each week the week's "
+"number counted from the beginning of the year."
+msgstr ""
+"Si oui, il s'affiche au début de chaque semaine le numéro de semaine, compté "
+"à partir du début de l'année."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:173
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:183
+msgid ""
+"If set to yes, the calendar will display a month and year drop-down select "
+"field as a navigation alternative to the arrows."
+msgstr ""
+"Si oui, le calendrier affichera le mois et l'année sous forme de liste "
+"déroulante plutôt que les fleches."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:385
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:304
+msgid ""
+"If set to yes, the dates selected in the calendar will appear in the form as "
+"well. This just provides a visual confirmation of the dates selected."
+msgstr ""
+"Si oui, les dates sélectionnées dans le calendrier s'affichent dans le "
+"formulaire. Cela fournit une confirmation visuelle des dates sélectionnées."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:283
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:243
+msgid ""
+"If set to yes, when a booking is made, the dates in the calendar will "
+"automatically be changed to the 'Booked' legend"
+msgstr ""
+"Si oui, lorsqu'une réservation est faite, les dates dans le calendrier "
+"seront modifiées automatiquement suivant la légende \"Accepter "
+"automatiquement\""
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:424
+msgid ""
+"If this box is ticked, the empty fields in the bulk editor will be ignored "
+"and will not clear existing data from the calendar."
+msgstr ""
+"Si cette case est cochée, les champs vides de l'éditeur de modifications "
+"groupées seront ignorés et n'effacerons pas les données existantes du "
+"calendrier."
+
+#: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:44
+msgid ""
+"If you wish to allow certain users to edit this calendar, select them from "
+"the field below. The selected users will be able to edit only this calendar. "
+"If you select the same users in other calendars, they will be able to also "
+"edit those calendars."
+msgstr ""
+"Si vous souhaitez permettre à certains utilisateurs de modifier ce "
+"calendrier, sélectionnez-le dans le champ ci-dessous. Les utilisateurs "
+"sélectionnés seront en mesure de modifier ce calendrier. Si vous "
+"sélectionnez les mêmes utilisateurs dans d'autres calendriers, ils seront en "
+"mesure de les modifier également."
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:47
+msgid ""
+"If you wish to copy the legend items from one calendar to this new one, "
+"select from which calendar from the drop-down below."
+msgstr ""
+"Si vous souhaitez copier les éléments de la légende d'un calendrier à ce "
+"nouveau, sélectionnez le calendrier dans la liste déroulante ci-dessous."
+
+#: includes/modules/upgrader/views/view-upgrader.php:82
+#, php-format
+msgid ""
+"If you wish to start fresh and skip the migration of your calendars and "
+"settings, from the old version, %sclick here%s."
+msgstr ""
+"Si vous souhaitez recommencer à zéro, et de sauter la migration de vos "
+"calendriers et des paramètres, à partir de l'ancienne version, %scliquer "
+"ici%s."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:423
+msgid "Ignore empty fields"
+msgstr "Ignorer les champs vides"
+
+#: includes/base/admin/backup/views/view-backup.php:65
+msgid "Import Data"
+msgstr "Importer Des Données"
+
+#: includes/base/admin/backup/views/view-backup.php:50
+msgid "Import data from file"
+msgstr "Importer des données à partir d'un fichier"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:140
+msgid "Import from File"
+msgstr "Importer à partir d'un Fichier"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:255
+msgid "Import from iCal URL"
+msgstr "Importer à partir de l'URL iCal"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:162
+#: includes/base/admin/calendar/views/view-ical-import-export.php:332
+msgid "Import iCal Events As"
+msgstr "Importer des Événements iCal Comme"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:227
+msgid "Import iCal File"
+msgstr "Importation de Fichier iCal"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:215
+msgid "Import in both description and tooltip fields"
+msgstr "Importer à la fois la description et l'info-bulle"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:213
+msgid "Import only in the description field"
+msgstr "Importer uniquement le champ description"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:214
+msgid "Import only in the tooltip field"
+msgstr "Importer uniquement le champ info-bulle"
+
+#: includes/modules/uninstaller/views/view-uninstaller.php:10
+msgid "Important!"
+msgstr "Important!"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:141
+msgid ""
+"Importing from a .ics file will insert the iCal events into the calendar. "
+"You will then be able to edit the details for each imported date."
+msgstr ""
+"Importation à partir d'un fichier .ics va insérer les événements iCal dans "
+"le calendrier. Vous pourrez ensuite modifier les détails de chaque donnée "
+"importées."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:256
+msgid ""
+"Importing from an iCal URL will overlay the events from the URL. You will "
+"not be able to edit these events."
+msgstr ""
+"Importation à partir d'une URL iCal  va superposer les évènements à partir "
+"de l'URL. Vous ne serez pas en mesure de modifier ces événements."
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:263
+msgid "In this column you can see the bookings associated with each date."
+msgstr ""
+"Dans cette colonne, vous pouvez voir les réservations associées à chaque "
+"date."
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:97
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:146
+msgid "Include Booking Details"
+msgstr "Inclure les détails de la réservation"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:101
+msgid "Include iCalendar Events?"
+msgstr "Inclure les évènements  iCalendar ?"
+
+#: includes/modules/pricing/functions-part-payments.php:518
+msgid "Inexistent Payment ID."
+msgstr "ID de paiement inexistante."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:4
+msgid "Insert a Calendar"
+msgstr "Insérer un Calendrier"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:4
+msgid "Insert a Multiple Overview Calendar"
+msgstr "Insérer un aperçu de calendrier multiple "
+
+#: includes/base/class-widget-calendar.php:20
+msgid "Insert a WP Booking System Calendar"
+msgstr "Insérer un Calendrier WP Système de Réservation "
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:59
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:399
+msgid "Insert Calendar"
+msgstr "Insérer un Calendrier"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:185
+msgid "Insert Calendar Overview"
+msgstr "Insérer un aperçu de calendrier"
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:60
+msgid "Insert Overview Calendar"
+msgstr "Insérer un Aperçu du Calendrier"
+
+#: includes/base/admin/addons/views/view-addons.php:45
+msgid "Install"
+msgstr "Installer"
+
+#: includes/base/admin/addons/views/view-addons.php:40
+msgid "Installed"
+msgstr "Installé"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:84
+msgid ""
+"Instructions on how and where to send the money. Bank name, account number, "
+"etc. This information will be included in the form confirmation message and "
+"in the email if the {Bank Transfer Instructions} tag is used."
+msgstr ""
+"Instructions sur comment et où envoyer l'argent. Nom de la banque, numéro de "
+"compte, etc. Ces informations seront incluses dans le message de "
+"confirmation du formulaire et dans l'email si la balise {Bank Transfer "
+"Instructions} est utilisée."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:155
+msgid "Internal"
+msgstr "Interne"
+
+#: includes/base/admin/calendar/functions-actions-ical.php:29
+msgid "Invalid calendar ID"
+msgstr "ID de calendrier non valide"
+
+#: includes/base/admin/calendar/functions-actions-csv.php:22
+msgid "Invalid Calendar ID."
+msgstr "ID de calendrier non valide"
+
+#: includes/base/form/class-form-validator.php:256
+msgid "Invalid date."
+msgstr "Date non valide."
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:15
+msgid "Invalid Email"
+msgstr "Email non valide"
+
+#: includes/base/admin/form/functions.php:499
+msgid "Invalid email address."
+msgstr "Adresse email non valide."
+
+#: includes/modules/pricing/functions-part-payments.php:542
+msgid "Invalid Order ID."
+msgstr "numéro de Commande non valide"
+
+#: includes/modules/pricing/functions-part-payments.php:527
+#: includes/modules/pricing/functions-part-payments.php:547
+msgid "Invalid Payment ID."
+msgstr "ID de paiement non valide."
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:18
+msgid "Invalid Phone"
+msgstr "Numéro de téléphone non valide"
+
+#: includes/base/admin/form/functions.php:500
+msgid "Invalid phone number."
+msgstr "Numéro de téléphone non valide."
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:220
+msgid "IP Address"
+msgstr ""
+
+#: includes/base/form/class-form-validator.php:352
+msgid ""
+"It appears you have selected an unavailable date. Please refresh the "
+"calendar and try again."
+msgstr ""
+"Il semble que vous avez sélectionné une date non disponible. Veuillez "
+"actualiser le calendrier et essayez de nouveau."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:15
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:3
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:29
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:29
+msgid ""
+"It appears you made changes to the form. Make sure you save the form before "
+"you make any changes on this page to ensure all email tags are up to date."
+msgstr ""
+"Il semble que vous avez  apporté des modifications au formulaire. Assurez-"
+"vous d'enregistrer le formulaire avant de faire des modifications sur cette "
+"page afin de vous assurer tous les balise d'emails, sont à jour."
+
+#: includes/modules/pricing/functions-pricing.php:629
+#: includes/modules/pricing/class-payment.php:294
+msgid "Item"
+msgstr "Elément"
+
+#: includes/base/class-widget-calendar.php:259
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:105
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:94
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:48
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:26
+msgid "January"
+msgstr "Janvier"
+
+#: includes/base/class-widget-calendar.php:265
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:111
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:100
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:54
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:32
+msgid "July"
+msgstr "Juillet"
+
+#: includes/base/class-widget-calendar.php:321
+msgid "Jump Switch"
+msgstr "Commutateur"
+
+#: includes/base/class-widget-calendar.php:264
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:110
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:99
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:53
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:31
+msgid "June"
+msgstr "Juin"
+
+#: includes/base/admin/form/functions.php:227
+msgid "Label"
+msgstr "Étiquette"
+
+#: includes/base/class-widget-calendar.php:236
+#: includes/base/admin/booking/class-booking-detail-outputter.php:211
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:124
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:158
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:162
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:124
+msgid "Language"
+msgstr "Langue"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:45
+#: includes/base/admin/settings/views/view-settings-tab-languages.php:11
+msgid "Languages"
+msgstr "Langues"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:94
+msgid "Leave empty if you wish to export the entire calendar"
+msgstr "Laissez vide si vous souhaitez exporter l'ensemble du calendrier"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:454
+msgid "Legend"
+msgstr "Légende"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:15
+#: includes/base/admin/calendar/views/view-edit-calendar.php:384
+msgid "Legend Item"
+msgstr "Elément de la légende"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:81
+#, php-format
+msgid "Legend item %s is no longer bookable."
+msgstr "L'élément de légende %s n'est plus réservable."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:80
+#, php-format
+msgid "Legend item %s is now bookable."
+msgstr " L'élément de légende %s est maintenant réservable."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:70
+#, php-format
+msgid "Legend item %s is now hidden."
+msgstr "L'élément de légende  %s est maintenant caché."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:69
+#, php-format
+msgid "Legend item %s is now visible."
+msgstr " L'éélément de légende %s est maintenant visible."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:52
+msgid "Legend item created successfully."
+msgstr "L'élément de légende a été créé avec succès."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:58
+msgid "Legend item deleted successfully."
+msgstr "L'Élément de légende a été supprimé avec succès."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:55
+msgid "Legend item updated successfully."
+msgstr "L'élément de légende à été mis à jour avec succès."
+
+#: includes/base/admin/calendar/views/view-csv-export.php:49
+msgid "Legend Items to Export"
+msgstr "Eléments de  légende à exporter"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:67
+msgid "Legend Items to Export as Booked"
+msgstr "Eléments de la légende à exporter comme Réservé"
+
+#: includes/base/class-widget-calendar.php:189
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:54
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:63
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:130
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:66
+msgid "Legend Position"
+msgstr "Position de la Légende"
+
+#: includes/modules/upgrader/views/view-upgrader.php:71
+msgid "Let's start!"
+msgstr "Commençons !"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:137
+msgid "Link Calendar"
+msgstr "Lien Calendrier"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:148
+msgid "Link Type"
+msgstr "Type delLien"
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:82
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:131
+msgid "Load Template"
+msgstr "Charger un Modèle"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:244
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:258
+msgid "Logo Height"
+msgstr "Hauteur du logo"
+
+#: includes/modules/pricing/functions-part-payments.php:147
+msgid "Make sure to include the [wpbs-final-payment] shortcode on this page."
+msgstr ""
+"Assurez-vous d'inclure le shortcode [wpbs-final-payment] sur cette page"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:78
+msgid "Manage Booking"
+msgstr "Gérer la Réservation"
+
+#: includes/modules/update-checker/views/view-register-website.php:33
+msgid "Manual Update Check"
+msgstr "Vérification manuelle de la mise à jour"
+
+#: includes/base/class-widget-calendar.php:261
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:107
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:96
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:50
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:28
+msgid "March"
+msgstr "Mars"
+
+#: includes/modules/pricing/functions-bank-transfer.php:196
+#: includes/modules/pricing/functions-part-payments.php:436
+#: includes/modules/pricing/functions-part-payments.php:447
+msgid "mark as paid"
+msgstr "Marqué comme payé"
+
+#: includes/modules/pricing/functions-bank-transfer.php:195
+#: includes/modules/pricing/functions-part-payments.php:435
+#: includes/modules/pricing/functions-part-payments.php:446
+msgid "mark as unpaid"
+msgstr "Marquer comme non payé"
+
+#: includes/base/class-widget-calendar.php:391
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:28
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:333
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:273
+msgid "Maximum Days"
+msgstr "Nombre de jours maximum"
+
+#: includes/base/class-widget-calendar.php:263
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:109
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:98
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:52
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:30
+msgid "May"
+msgstr "Mai"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:320
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:35
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:143
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:105
+#: includes/base/admin/booking/views/view-modal-email-customer.php:73
+#: includes/base/admin/booking/views/view-modal-email-logs.php:8
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:122
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:157
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:167
+msgid "Message"
+msgstr "Message"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:267
+msgid "Message Templates"
+msgstr " Modèles de Messages"
+
+#: includes/modules/upgrader/views/view-upgrader.php:46
+msgid "Migrating bookings..."
+msgstr "Migration des réservations..."
+
+#: includes/modules/upgrader/views/view-upgrader.php:44
+msgid "Migrating calendar events..."
+msgstr "Migration des événements de calendrier..."
+
+#: includes/modules/upgrader/views/view-upgrader.php:43
+msgid "Migrating calendars..."
+msgstr "Migration des calendriers..."
+
+#: includes/modules/upgrader/views/view-upgrader.php:45
+msgid "Migrating forms..."
+msgstr "Migration des formulaires..."
+
+#: includes/modules/upgrader/views/view-upgrader.php:47
+msgid "Migrating general settings..."
+msgstr "Migration des paramètres généraux..."
+
+#: includes/base/class-widget-calendar.php:383
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:24
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:324
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:265
+msgid "Minimum Days"
+msgstr "Nombre Minimum de Jours "
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:111
+msgid "Minutes"
+msgstr "Minutes"
+
+#: includes/base/functions.php:66 includes/base/class-widget-calendar.php:213
+#: includes/base/class-widget-calendar.php:403
+#: includes/base/class-widget-calendar.php:419
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:159
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:348
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:366
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:76
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:87
+msgid "Monday"
+msgstr "Lundi"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:72
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:138
+msgid "Months to Display"
+msgstr "Mois à Afficher"
+
+#: includes/base/class-widget-calendar.php:225
+msgid "Months to display"
+msgstr "Mois à afficher"
+
+#: includes/modules/pricing/functions-pricing.php:101
+msgid "Multiplication"
+msgstr "Multiplication"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:21
+msgid "Multiplication Field"
+msgstr ""
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:22
+msgid ""
+"Multiply the calendar events price by the value of a form field (eg. number "
+"of people, inventory..)."
+msgstr ""
+
+#: includes/base/admin/form/class-list-table-forms.php:85
+#: includes/base/admin/calendar/class-list-table-legend-items.php:77
+#: includes/base/admin/calendar/class-list-table-calendars.php:85
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:62
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:41
+msgid "Name"
+msgstr "Nom"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:358
+msgid "New"
+msgstr "Nouveau"
+
+#: includes/base/admin/booking/functions.php:125
+msgid "New Booking"
+msgstr "Nouvelle Réservation"
+
+#: includes/base/admin/booking/functions.php:128
+msgid "New Bookings"
+msgstr "Nouvelles Réservations"
+
+#: includes/base/class-widget-calendar.php:173
+#: includes/base/class-widget-calendar.php:183
+#: includes/base/class-widget-calendar.php:204
+#: includes/base/class-widget-calendar.php:303
+#: includes/base/class-widget-calendar.php:314
+#: includes/base/class-widget-calendar.php:324
+#: includes/base/class-widget-calendar.php:334
+#: includes/base/class-widget-calendar.php:357
+#: includes/base/class-widget-calendar.php:434
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:34
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:46
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:177
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:189
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:218
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:232
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:244
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:287
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:389
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:55
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:137
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:151
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:118
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:126
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:182
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:191
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:214
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:225
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:233
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:242
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:303
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:62
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:108
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:119
+msgid "No"
+msgstr "Non"
+
+#: includes/base/class-shortcodes.php:268
+#: includes/base/admin/calendar/class-list-table-calendars.php:340
+msgid "No calendars found."
+msgstr "Aucun calendrier trouvé."
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:21
+msgid "No Date Selected"
+msgstr "Aucune date Sslectionnée"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:31
+msgid "No Dates Selected"
+msgstr "Aucunes dates délectionnées"
+
+#: includes/base/form/class-form-outputter.php:630
+#: includes/base/form/class-form-outputter.php:657
+msgid ""
+"No default price is defined for this calendar. Please define a default price "
+"in order to use payments."
+msgstr ""
+"Pas de prix par défaut défini pour ce calendrier. Veuillez définir un prix "
+"par défaut pour utiliser l'option de paiements."
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:40
+msgid "No emails sent yet."
+msgstr "Emails pas encore envoyés "
+
+#: includes/base/admin/calendar/functions-actions-csv.php:124
+msgid "No events matched your criteria."
+msgstr "Pas d'événements correspondant à vos critères."
+
+#: includes/base/class-widget-calendar.php:344
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:271
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:26
+msgid "No Form"
+msgstr "Aucun Formulaire"
+
+#: includes/base/admin/form/class-list-table-forms.php:303
+msgid "No forms found."
+msgstr "Pas de formulaire trouvé."
+
+#: includes/base/admin/booking/functions.php:122
+msgid "No New Bookings"
+msgstr "Pas de Nouvelles Réservations"
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:122
+msgid "No notes found for this booking."
+msgstr "Pas de notes pour cette réservation."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:379
+msgid "No Payment"
+msgstr "Aucun Paiement"
+
+#: includes/base/form/class-form-outputter.php:683
+msgid "No payment methods are available."
+msgstr "Méthodes de paiement non disponibles."
+
+#: includes/base/form/class-email-tags.php:208
+#: includes/base/form/class-email-tags.php:225
+#: includes/base/form/class-email-tags.php:240
+#: includes/base/form/class-email-tags.php:253
+#: includes/base/form/class-email-tags.php:266
+#: includes/modules/pricing/booking/functions.php:53
+msgid "No payment was received for this booking."
+msgstr "Aucun paiement n'a été reçu pour cette réservation."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:239
+#, php-format
+msgid "No results for %s."
+msgstr "Pas de résultats pour %s."
+
+#: includes/base/admin/form/functions.php:479
+msgid "no-label"
+msgstr "Pas d'Etiquette"
+
+#: includes/base/form/functions-ajax.php:22
+msgid "Nonce validation failed. Please refresh the page and try again."
+msgstr ""
+"La validation a échoué. Veuillez actualiser la page et essayez à nouveau."
+
+#: includes/base/class-widget-calendar.php:376
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:310
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:260
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:407
+msgid "Not Paid"
+msgstr "Pas Payé"
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:94
+#: includes/base/admin/calendar/views/view-edit-calendar.php:276
+msgid "Notes"
+msgstr "Notes"
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:94
+msgid ""
+"Notes are only visible to website administrators, they are not sent to the "
+"client."
+msgstr ""
+"Les Notes ne sont visibles que par les administrateurs de site web, ils ne "
+"sont pas envoyés au client."
+
+#: includes/base/class-widget-calendar.php:269
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:115
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:104
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:58
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:36
+msgid "November"
+msgstr "Novembre"
+
+#: includes/base/class-widget-calendar.php:268
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:114
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:103
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:57
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:35
+msgid "October"
+msgstr "Octobre"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:434
+msgid "of"
+msgstr "de"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:91
+msgid "On each page load"
+msgstr "A chaque chargement de la page"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:360
+msgid ""
+"Only select specific week days from the date range chosen above. Leave empty "
+"to select all days."
+msgstr ""
+"Sélectionnez uniquement des jours de la semaine spécifiques dans la plage de "
+"dates choisie ci-dessus. Laissez vide pour sélectionner tous les jours."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:357
+msgid "Oops... it seems there are no legend items"
+msgstr "Oups... il semble qu'il y a pas des éléments de légende"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:128
+msgid "Optional. The period in which the tax is applied."
+msgstr "Facultatif. La période dans laquelle la taxe est appliquée."
+
+#: includes/modules/pricing/functions-pricing.php:97
+#: includes/base/admin/form/functions.php:229
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:60
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:44
+#: includes/base/admin/booking/views/view-modal-email-customer.php:15
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:64
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:74
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:84
+msgid "Options"
+msgstr "Options"
+
+#: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:18
+msgid "Order Information"
+msgstr "Informations dee Commande"
+
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:10
+msgid "Overview Calendar"
+msgstr "Vue d'Ensemble du Calendrier"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:193
+msgid "Overwrite"
+msgstr "Remplacer"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:185
+msgid "Overwrite Existing Dates"
+msgstr "Écraser Les Dates"
+
+#: includes/modules/pricing/functions-part-payments.php:136
+msgid "Page"
+msgstr "Page"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:416
+msgid "Paid"
+msgstr "Payé"
+
+#: includes/modules/pricing/functions-bank-transfer.php:195
+#: includes/modules/pricing/functions-part-payments.php:419
+msgid "paid"
+msgstr "payé"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:280
+msgid "Part Payment Reminder"
+msgstr ""
+
+#: includes/modules/pricing/functions-part-payments.php:33
+msgid "Part Payments (Deposit)"
+msgstr "Paiements partiel (arrhes)"
+
+#: includes/modules/pricing/settings/functions.php:22
+msgid "Payment"
+msgstr "Paiement"
+
+#: includes/modules/pricing/functions-pricing.php:626
+msgid "Payment Confirmation"
+msgstr "Confirmation de Paiement"
+
+#: includes/modules/pricing/booking/functions.php:18
+msgid "Payment Details"
+msgstr "Détails du Paiement"
+
+#: includes/modules/pricing/functions-payment-on-arrival.php:142
+#: includes/modules/pricing/functions-bank-transfer.php:142
+msgid "Payment Gateway"
+msgstr "Passerelle De Paiement"
+
+#: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:3
+msgid "Payment Information"
+msgstr "Informations De Paiement"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:83
+msgid "Payment Instructions"
+msgstr "Instructions De Paiement"
+
+#: includes/modules/pricing/functions-payment-on-arrival.php:18
+#: includes/modules/pricing/functions-payment-on-arrival.php:30
+#: includes/base/admin/booking/class-bookings-outputter.php:384
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:5
+msgid "Payment on Arrival"
+msgstr "Paiement à l'arrivée"
+
+#: includes/modules/pricing/form/functions.php:63
+msgid "Payment Options"
+msgstr ""
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:27
+msgid "Payment Reminder"
+msgstr "Rappel de paiement"
+
+#: includes/modules/pricing/functions-part-payments.php:387
+#, php-format
+msgid "Payment Reminder email will be sent on %s."
+msgstr "L' email de rappel de paiement sera envoyé à %s."
+
+#: includes/modules/pricing/settings/functions.php:61
+msgid "Payment Strings"
+msgstr "Messages de Paiement"
+
+#: includes/base/admin/form/functions.php:465
+msgid "Payment Tags"
+msgstr "Balises de paiement"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:74
+#: includes/base/admin/booking/class-bookings-outputter.php:399
+#: includes/base/admin/calendar/class-list-table-calendars.php:291
+msgid "Pending"
+msgstr "En attente"
+
+#: includes/modules/pricing/functions-pricing.php:100
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:101
+msgid "Per Booking - Only add once per booking"
+msgstr "Par Réservation - Prendre en compte une seule fois par réservation"
+
+#: includes/modules/pricing/functions-pricing.php:100
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:102
+msgid "Per Day - Multiply by the number of booked days"
+msgstr "Par Jour - Multiplier par le nombre de jours réservés"
+
+#: includes/modules/pricing/functions-part-payments.php:61
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:67
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: includes/modules/pricing/functions-pricing.php:103
+msgid "Period Type"
+msgstr "Type de dériode"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:181
+msgid "Permanently delete booking"
+msgstr "Supprimer définitivement la réservation"
+
+#: includes/base/admin/form/functions.php:231
+msgid "Placeholder"
+msgstr "Espace réservé"
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:29
+#: includes/base/admin/calendar/functions-actions-legend-item.php:125
+msgid "Please add a name for your legend item."
+msgstr "Veuillez ajouter un nom pour votre élément de légende."
+
+#: includes/base/admin/calendar/functions-actions-calendar.php:20
+msgid "Please add a name for your new calendar."
+msgstr "Veuillez ajouter un nom pour votre nouveau calendrier."
+
+#: includes/base/admin/form/functions-actions-form.php:23
+msgid "Please add a name for your new form."
+msgstr "Veuillez ajouter un nom pour votre nouveau formulaire"
+
+#: includes/base/admin/calendar/functions-actions-ical.php:546
+msgid "Please add the iCal feed URL."
+msgstr "Veuillez ajouter une URL au flux iCal."
+
+#: includes/base/admin/form/functions.php:506
+msgid "Please check the fields below for errors."
+msgstr "Veuillez vérifier les erreurs ci-dessous."
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:38
+msgid ""
+"Please keep in mind that changing the dates will <strong>not</strong> change "
+"the availability in the calendar. You will need to do this manually."
+msgstr ""
+"N'oubliez pas que la modification des dates ne modifiera <strong> pas "
+"</strong> la disponibilité dans le calendrier. Vous devrez le faire "
+"manuellement."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:358
+msgid "Please make sure the selected file's format is .ics."
+msgstr "Assurez-vous que le fichier sélectionné est au .ics."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:526
+msgid "Please provide a name for your iCal calendar."
+msgstr "Veuillez donner un nom à votre calendrier iCal."
+
+#: includes/modules/update-checker/functions.php:97
+#: includes/modules/update-checker/functions.php:115
+msgid "Please provide a serial key."
+msgstr "Veuillez fournir un numéro de série."
+
+#: includes/modules/pricing/functions-pricing.php:632
+msgid "Please select a date first."
+msgstr "Veuillez d'abord sélectionner une date."
+
+#: includes/base/admin/form/functions.php:501
+msgid "Please select a date."
+msgstr "Veuillez sélectionner une date."
+
+#: includes/base/admin/backup/functions-actions-backup.php:73
+msgid "Please select a file."
+msgstr "Veuillez sélectionner un fichier."
+
+#: includes/base/admin/form/functions.php:503
+#, php-format
+msgid "Please select a maximum of %s days."
+msgstr "Veuillez sélectionner un nombre maximum de %s jours."
+
+#: includes/base/admin/form/functions.php:502
+#, php-format
+msgid "Please select a minimum of %s days."
+msgstr "Veuillez sélectionner un nombre minimum de %s jours."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:39
+#: includes/base/admin/calendar/functions-actions-legend-item.php:135
+msgid "Please select a type for your legend item."
+msgstr "Veuillez sélectionner un type d'élément de légende."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:348
+msgid "Please select an iCal file."
+msgstr "Veuillez sélectionner un fichier iCal."
+
+#: includes/base/admin/calendar/functions-actions-csv.php:32
+msgid "Please select at least one legend item to export."
+msgstr "Veuillez sélectionner au moins un élément de légende à exporter."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:53
+#: includes/base/admin/calendar/functions-actions-legend-item.php:149
+msgid "Please select the color for your legend item."
+msgstr "Veuillez sélectionner la couleur de votre élément de légende."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:559
+msgid "Please select the legend item for starting Split Day."
+msgstr ""
+"Veuillez sélectionner l'élément de légende pour le début de la demie journée."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:568
+msgid "Please select the legend item for the ending Split Day."
+msgstr ""
+"Veuillez sélectionner l'élément de légende pour la fin de la demie journée."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:368
+msgid "Please select the legend item for the iCal file import."
+msgstr ""
+"Veuillez sélectionner l'élément de légende pour le fichier d'importation  "
+"iCal."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:536
+msgid "Please select the legend item for the iCal URL import."
+msgstr ""
+"Veuillez sélectionner l'élément de légende pour l'URL d'importation iCal."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:378
+msgid ""
+"Please select whether or not to overwrite data for dates that already "
+"contain information."
+msgstr ""
+"Veuillez choisir si oui ou non écraser les données pour les dates qui "
+"contiennent déjà des informations."
+
+#: includes/base/admin/backup/views/view-backup.php:57
+msgid ""
+"Please take into account that this action will firstly remove all data that "
+"you currently have in the plugin, then import the data from the export file."
+msgstr ""
+"Veuillez prendre en compte que cette action va d'abord supprimer toutes les "
+"données que vous avez actuellement dans le plugin, puis importer les données "
+"à partir du fichier d'exportation."
+
+#: includes/modules/update-checker/functions.php:122
+#, php-format
+msgid ""
+"Please visit the %sPlugins page%s to check if a new update is available for "
+"WP Booking System."
+msgstr ""
+"Veuillez visiter le %sPlugins page%s pour vérifier si une nouvelle mise à "
+"jour est disponible pour WP Système de Réservation."
+
+#: includes/modules/upgrader/views/view-upgrader.php:72
+msgid "Please wait..."
+msgstr "Veuillez patienter..."
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:52
+msgid "Plugin Styling"
+msgstr "Plugin de style"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:109
+msgid "Preferences saved successfully."
+msgstr "Préférences enregistrées avec succès."
+
+#: includes/modules/pricing/functions-pricing.php:49
+#: includes/modules/pricing/functions-pricing.php:98
+#: includes/modules/pricing/functions-pricing.php:386
+msgid "Price"
+msgstr "Prix"
+
+#: includes/modules/pricing/functions-pricing.php:100
+msgid "Price Calculation"
+msgstr "Calcul du prix"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:21
+msgid "Price Format"
+msgstr "Format du prix"
+
+#: includes/modules/pricing/functions-pricing.php:327
+msgid "Pricing"
+msgstr "Tarification"
+
+#: includes/base/admin/form/functions.php:76
+msgid "Pricing Form Elements"
+msgstr "La Tarification Des Éléments De Formulaire"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:27
+msgid "Processing Payment Message"
+msgstr "Le Traitement Des Messages De Paiement"
+
+#: includes/modules/pricing/functions-pricing.php:630
+msgid "Processing payment, please wait..."
+msgstr "Traitement de paiement en cours, veuillez patienter..."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:38
+msgid "Product Name"
+msgstr "Nom Du Produit"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:96
+msgid "reCAPTCHA Type"
+msgstr "Type reCAPTCHA"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:101
+msgid "reCAPTCHA v2 Tickbox"
+msgstr "reCAPTCHA v2 une case à cocher"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:102
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:7
+msgid "Recepient"
+msgstr "Destinataire"
+
+#: includes/modules/pricing/functions-pricing.php:103
+msgid "Recurring - Between the selected dates, but each year"
+msgstr "Récurrents entre les dates choisies, mais chaque année"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:27
+msgid "Redirect to a Page"
+msgstr "Rediriger vers une Page"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:63
+msgid "Redirect URL"
+msgstr "URL de redirection"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:424
+msgid "Refresh iCal Data"
+msgstr "Actualisation des données iCal"
+
+#: includes/modules/update-checker/functions.php:62
+#: includes/modules/update-checker/views/view-register-website.php:21
+msgid "Register Website"
+msgstr "Enregistrer le site Web"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:302
+#: includes/base/admin/calendar/views/view-ical-import-export.php:293
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:34
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:34
+msgid "Remove"
+msgstr "Supprimer"
+
+#: includes/base/admin/calendar/functions-notes.php:53
+msgid "remove"
+msgstr "supprimer"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:252
+msgid "remove image"
+msgstr "supprimer l'image"
+
+#: includes/base/class-widget-calendar.php:293
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:201
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:125
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:202
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:96
+msgid "Replace booking history with the default legend item"
+msgstr ""
+"Remplacer l'historique de réservation par l'élément de légende par défaut"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:103
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:87
+#: includes/base/admin/booking/views/view-modal-email-customer.php:58
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:107
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:117
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:127
+msgid "Reply To"
+msgstr "Répondre à"
+
+#: includes/base/admin/form/functions.php:228
+msgid "Required"
+msgstr "Requis"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:12
+msgid "Required Field"
+msgstr "Champ Obligatoire"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:109
+msgid "Reset Private Link"
+msgstr "Réinitialiser le lien privé"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:145
+msgid "Restore Booking"
+msgstr "Restauration de la réservation"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:247
+msgid "Restore Calendar"
+msgstr "Restaurer le calendrier"
+
+#: includes/base/admin/form/class-list-table-forms.php:228
+msgid "Restore form"
+msgstr "Restaurer le formulaire"
+
+#: includes/modules/pricing/functions-part-payments.php:124
+#: includes/modules/pricing/functions-part-payments.php:368
+msgid "Same as initial payment"
+msgstr "Idem au paiement initial"
+
+#: includes/base/functions.php:71 includes/base/class-widget-calendar.php:218
+#: includes/base/class-widget-calendar.php:408
+#: includes/base/class-widget-calendar.php:424
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:164
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:353
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:371
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:81
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:92
+msgid "Saturday"
+msgstr "Samedi"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:30
+msgid ""
+"Save a log of all emails sent to a customer. Logs will be available in the "
+"Booking modal popup."
+msgstr ""
+"Enregistrer un journal de tous les emails envoyés à un client. Les journaux "
+"seront disponibles dans le popup modal de la réservation"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:53
+#: includes/base/admin/calendar/views/view-edit-calendar.php:531
+msgid "Save Calendar"
+msgstr "Enregistrer le calendrier"
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:34
+#: includes/base/admin/booking/views/view-modal-booking-details.php:82
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: includes/base/admin/form/views/view-edit-form.php:67
+#: includes/base/admin/form/views/view-edit-form.php:153
+msgid "Save Form"
+msgstr "Enregistrer le formulaire"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:8
+msgid "Save Legend Item"
+msgstr "Enregistrer l'élément de légende"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:110
+msgid "Save Preferences"
+msgstr "Enregistrer les préférences"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:132
+#: includes/base/admin/settings/views/view-settings-tab-languages.php:42
+#: includes/base/admin/settings/views/view-settings-tab-form.php:357
+#: includes/modules/pricing/settings/views/view-payment-settings.php:75
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:239
+#: includes/base/admin/booking/class-booking-detail-outputter.php:260
+#: includes/base/admin/booking/class-booking-detail-outputter.php:281
+#, php-format
+msgid "Scheduled to be sent sent on <strong>%s</strong>."
+msgstr ""
+
+#: includes/base/admin/booking/class-bookings-outputter.php:201
+msgid "Search bookings"
+msgstr "Recherche de réservations"
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:49
+msgid "Select calendar..."
+msgstr "Sélectionner calendrier..."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:29
+msgid "Select Calendars"
+msgstr "Sélectionner calendriers"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:112
+msgid ""
+"Select how to apply the tax. To all pricing items (calendar price per day "
+"and form product fields) or to calendar price only (calendar price per day)."
+msgstr ""
+"Sélectionnez comment appliquer la taxe. À tous les éléments de tarification "
+"(prix du calendrier par jour et champs de produit du formulaire) ou au prix "
+"du calendrier uniquement (prix du calendrier par jour). "
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:206
+msgid ""
+"Select how you wish the description of each event from the .ics file to be "
+"imported into the plugin."
+msgstr ""
+"Sélectionnez la façon dont vous souhaitez que la description de chaque "
+"événement du fichier .ics soit importée dans le plugin. "
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:170
+msgid "Select Internal Link"
+msgstr "Sélectionner un lien interne"
+
+#: includes/modules/pricing/functions-part-payments.php:102
+msgid ""
+"Select the calendars the part payments apply to. If no calendars are "
+"selected, the part payments will be applied to all calendars."
+msgstr ""
+"Sélectionnez les calendriers auxquels s'appliquent les paiements partiels. "
+"Si aucun calendrier n'est sélectionné, les paiements partiels seront "
+"appliqués à tous les calendriers. "
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:149
+msgid ""
+"Select the calendars the tax applies to. If no calendars are selected, the "
+"tax will be applied to all calendars."
+msgstr ""
+"Sélectionnez les calendriers auxquels s'applique la taxe. Si aucun "
+"calendrier n'est sélectionné, la taxe sera appliquée à tous les calendriers."
+
+#: includes/modules/user-restrictions/views/view-settings-tab-general-fields.php:15
+msgid ""
+"Select the user roles you wish to have calendar editing capabilities. All "
+"users that have the selected user roles will be able to edit all calendars."
+msgstr ""
+"Sélectionnez les rôles d'utilisateur pour lesquels vous souhaitez avoir des "
+"capacités d'édition de calendrier. Tous les utilisateurs disposant des rôles "
+"utilisateur sélectionnés pourront modifier tous les calendriers."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:186
+msgid ""
+"Select whether or not to overwrite data for dates in the calendar that "
+"already contain information. Selecting \"Overwrite\" will add all events "
+"present in the iCal file, regardless of the existing information for the "
+"calendar dates. Selecting \"Skip\" will add data only for dates that do not "
+"have any information set."
+msgstr ""
+"Sélectionnez s'il faut ou non remplacer les données des dates du calendrier "
+"qui contiennent déjà des informations. La sélection de «Écraser» ajoutera "
+"tous les événements présents dans le fichier iCal, quelles que soient les "
+"informations existantes pour les dates du calendrier. La sélection de "
+"\"Ignorer\" ajoutera des données uniquement pour les dates pour lesquelles "
+"aucune information n'est définie."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:5
+msgid ""
+"Select which calendar you wish to insert and use the options to customize it "
+"to your needs."
+msgstr ""
+"Sélectionnez le calendrier que vous souhaitez insérer et utilisez les "
+"options pour le personnaliser selon vos besoins. "
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:169
+#: includes/base/admin/calendar/views/view-ical-import-export.php:192
+#: includes/base/admin/calendar/views/view-ical-import-export.php:212
+#: includes/base/admin/calendar/views/view-ical-import-export.php:338
+#: includes/base/admin/calendar/views/view-ical-import-export.php:380
+#: includes/base/admin/calendar/views/view-ical-import-export.php:402
+#: includes/base/admin/calendar/views/view-edit-calendar.php:181
+#: includes/base/admin/calendar/views/view-edit-calendar.php:208
+msgid "Select..."
+msgstr "Sélectionner..."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:21
+msgid "Selected Calendars"
+msgstr "Calendriers sélectionnés"
+
+#: includes/base/class-widget-calendar.php:373
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:307
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:256
+msgid "Selection Style"
+msgstr "Style de sélection"
+
+#: includes/base/class-widget-calendar.php:363
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:295
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:247
+msgid "Selection Type"
+msgstr "Type de sélection"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:41
+msgid ""
+"Send a confirmation email to the person who made the booking after "
+"completing the final payment."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:27
+msgid "Send a confirmation email to the person who made the booking."
+msgstr ""
+"Envoyer un email de confirmation à la personne qui a fait la réservation."
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:41
+msgid "Send a payment reminder email to the person who made the booking."
+msgstr ""
+"Envoyer un rappel de paiement par email à la personne qui a fait la "
+"réservation."
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:4
+msgid "Send an email to the customer"
+msgstr "Envoyer un email au client"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:159
+msgid "Send an email to the customer when accepting the booking"
+msgstr "Envoyer un email au client lors de l'acceptation de la réservation"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:161
+msgid "Send an email to the customer when updating the booking"
+msgstr "Envoyer un email au client lors de la mise à jour de la réservation"
+
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:15
+msgid ""
+"Send an email to yourself (the website administrator) whenever a booking is "
+"made."
+msgstr ""
+"Envoyer un email à vous-même (l'administrateur du site web) à chaque fois "
+"qu'une réservation est faite."
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:5
+msgid "Send Date"
+msgstr "Envoyer Date"
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:109
+msgid "Send Email"
+msgstr "Envoyer un email"
+
+#: includes/modules/pricing/functions-part-payments.php:155
+msgid ""
+"Send the customer an email X days before the booking to remind him about the "
+"final payment."
+msgstr ""
+"Envoyer au client un email X jours avant la réservation pour lui rappeler "
+"sur le paiement final."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:51
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:40
+#: includes/base/admin/booking/views/view-modal-email-customer.php:10
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:59
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:65
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:75
+msgid "Send To"
+msgstr "Envoyer à"
+
+#: includes/base/class-widget-calendar.php:267
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:113
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:102
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:56
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:34
+msgid "September"
+msgstr "Septembre"
+
+#: includes/modules/update-checker/views/view-register-website.php:14
+msgid "Serial Key"
+msgstr "Clé logicielle"
+
+#: includes/base/admin/addons/functions.php:173
+msgid ""
+"Set advanced booking restrictions like minimum or maximum days, enforce a "
+"day of the week, and more."
+msgstr ""
+"Définissez des restrictions de réservation avancées telles que des jours "
+"minimum ou maximum, appliquez un jour de la semaine, etc."
+
+#: includes/modules/pricing/functions-pricing.php:341
+msgid "Set Default Price"
+msgstr "Définir le prix par défaut"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:165
+msgid ""
+"Set some default values so you won't have to fill in your name and email "
+"address everytime you send an email from the Booking Manager."
+msgstr ""
+"Définissez des valeurs par défaut pour ne pas avoir à renseigner votre nom "
+"et votre adresse email à chaque fois que vous envoyez un email du "
+"gestionnaire de réservation."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:358
+msgid "Set Up A Legend Item"
+msgstr "Définir un élément de légende"
+
+#: includes/base/admin/settings/functions.php:36
+#: includes/base/admin/settings/functions.php:37
+#: includes/base/admin/settings/views/view-settings.php:19
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/base/admin/form/functions.php:252
+msgid "Settings Page"
+msgstr "Page de paramétrage"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:28
+msgid "Settings saved successfully."
+msgstr "Paramètres enregistrés avec succès."
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:26
+msgid "Show a Message"
+msgstr "Afficher un message"
+
+#: includes/base/class-widget-calendar.php:431
+msgid "Show Date Selection"
+msgstr "Afficher La sélection des dates"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:147
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:115
+msgid "Show Day Abbreviations"
+msgstr "Afficher l'abréviation des jours"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:197
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:121
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:196
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:90
+msgid "Show History"
+msgstr "Afficher L'Historique"
+
+#: includes/base/class-widget-calendar.php:289
+msgid "Show history"
+msgstr "Afficher l'historique"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:385
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:299
+msgid "Show Selected Dates"
+msgstr "Afficher les dates sélectionnées"
+
+#: includes/base/class-widget-calendar.php:300
+msgid "Show Tooltip"
+msgstr "Afficher les Infos-Bulles"
+
+#: includes/base/class-widget-calendar.php:311
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:240
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:229
+msgid "Show Week Numbers"
+msgstr "Afficher les numéros de semaine"
+
+#: includes/base/class-widget-calendar.php:192
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:57
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
+msgid "Side"
+msgstr "Côté"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:73
+msgid "Single"
+msgstr "Unique"
+
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:10
+msgid "Single Calendar"
+msgstr "Calendrier unique"
+
+#: includes/base/class-widget-calendar.php:367
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:299
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:251
+msgid "Single Day"
+msgstr "Journée unique"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:194
+msgid "Skip"
+msgstr "Passer"
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:19
+msgid "Something went wrong. Could not add the legend item."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible d'ajouter l'élément de légende."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:82
+msgid "Something went wrong. Could not add the legend item. Please try again."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible d'ajouter l'élément de légende. "
+"Merci d'essayer de nouveau."
+
+#: includes/modules/update-checker/functions.php:95
+#: includes/modules/update-checker/functions.php:113
+msgid "Something went wrong. Could not complete the operation."
+msgstr "Quelque chose s'est mal passé. Impossible de terminer l'opération."
+
+#: includes/modules/update-checker/functions.php:117
+msgid ""
+"Something went wrong. Could not connect to our server to deregister your "
+"website."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de se connecter à notre serveur de "
+"révocation de l'enregistrement de votre site web."
+
+#: includes/modules/update-checker/functions.php:99
+msgid ""
+"Something went wrong. Could not connect to our server to register your "
+"website."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de se connecter à notre serveur "
+"pour inscrire votre site web."
+
+#: includes/base/admin/calendar/functions-actions-calendar.php:42
+msgid "Something went wrong. Could not create the calendar. Please try again."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de créer le calendrier. Merci "
+"d'essayer de nouveau."
+
+#: includes/base/admin/form/functions-actions-form.php:45
+msgid "Something went wrong. Could not create the form. Please try again."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de créer le formulaire. Merci "
+"d'essayer de nouveau."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:216
+#: includes/base/admin/calendar/functions-actions-legend-item.php:231
+#: includes/base/admin/calendar/functions-actions-legend-item.php:246
+msgid ""
+"Something went wrong. Could not delete the legend item. Please try again."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de supprimer l'élément de légende. "
+"Merci d'essayer de nouveau."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:388
+#: includes/base/admin/calendar/functions-actions-ical.php:402
+#: includes/base/admin/calendar/functions-actions-ical.php:625
+msgid "Something went wrong. Could not import the iCal file."
+msgstr "Quelque chose s'est mal passé. Impossible d'importer le fichier iCal."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:611
+msgid "Something went wrong. Could not import the iCal URL."
+msgstr "Quelque chose s'est mal passé. Impossible d'importer l'URL iCal."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:730
+#: includes/base/admin/calendar/functions-actions-ical.php:744
+msgid "Something went wrong. Could not refresh the iCal feeds."
+msgstr "Quelque chose s'est mal passé. Impossible d'actualiser les flux iCal."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:671
+#: includes/base/admin/calendar/functions-actions-ical.php:681
+#: includes/base/admin/calendar/functions-actions-ical.php:698
+msgid "Something went wrong. Could not remove the iCal URL."
+msgstr "Quelque chose s'est mal passé. Impossible de supprimer l'URL iCal."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:251
+#: includes/base/admin/calendar/functions-actions-ical.php:271
+msgid "Something went wrong. Could not reset the private link."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de réinitialiser le lien privé."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:300
+msgid "Something went wrong. Could not save the Export preferences."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible d'enregistrer les préférences "
+"d'exportation."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:61
+msgid "Something went wrong. Could not sort the legend items."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de trier les éléments de la "
+"légende."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:40
+msgid "Something went wrong. Could not update the calendar."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de mettre à jour le calendrier."
+
+#: includes/base/admin/form/functions-actions-form.php:78
+msgid "Something went wrong. Could not update the form."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de mettre à jour le formulaire."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:170
+msgid ""
+"Something went wrong. Could not updated the legend item. Please try again."
+msgstr ""
+"Quelque chose s'est mal passé. Impossible de mettre à jour l'élément de "
+"légende. Merci d'essayer de nouveau."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:75
+msgid "Sort"
+msgstr "Trier"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:177
+msgid "Sort by"
+msgstr "Trier par"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:184
+msgid "Sort order"
+msgstr "Ordre de tri"
+
+#: includes/base/class-widget-calendar.php:377
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:311
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:74
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:260
+msgid "Split"
+msgstr "Fractionnée"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:396
+msgid "Split Day End"
+msgstr "Fin de journée fractionnée "
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:374
+msgid "Split Day Start"
+msgstr "Début de journée fractionnée"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-builder.php:12
+#, fuzzy
+#| msgid ""
+#| "Start building yor form by adding a form element. Click on any of the "
+#| "elements on the right to add them here!"
+msgid ""
+"Start building your form by adding a form element. Click on any of the "
+"elements on the right to add them here!"
+msgstr ""
+"Commencez à créer votre formulaire en ajoutant un élément de formulaire. "
+"Cliquez sur l'un des éléments à droite pour les ajouter ici! "
+
+#: includes/base/admin/form/functions.php:509
+#: includes/base/admin/booking/class-booking-detail-outputter.php:185
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:49
+#: includes/base/admin/calendar/views/view-edit-calendar.php:346
+msgid "Start Date"
+msgstr "Date de début"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:132
+msgid "Start date"
+msgstr "Date de début"
+
+#: includes/base/class-widget-calendar.php:255
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:101
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:90
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:154
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:82
+msgid "Start Month"
+msgstr "Mois de début"
+
+#: includes/base/admin/addons/functions.php:82
+msgid ""
+"Start receiving payments with PayPal Smart Payment Buttons. Your visitors "
+"can pay with their PayPal account or with their Credit Cards."
+msgstr ""
+"Commencer à recevoir des paiements avec PayPal. Vos visiteurs peuvent payer "
+"avec leur compte PayPal ou avec leurs Cartes de Crédit."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:288
+msgid "Start writing your note here..."
+msgstr "Commencez à écrire votre note ici..."
+
+#: includes/base/class-widget-calendar.php:276
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:86
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:75
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:146
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:74
+msgid "Start Year"
+msgstr "Année de début"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:313
+msgid "Starting Changeover"
+msgstr "Début de basculement"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:32
+msgid "Starting Day"
+msgstr "Jour de Début"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:309
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:114
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:96
+#: includes/base/admin/booking/views/view-modal-email-customer.php:66
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:115
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:128
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:138
+msgid "Subject"
+msgstr "Sujet"
+
+#: includes/base/form/class-form-outputter.php:1207
+#: includes/base/admin/form/functions-actions-form.php:52
+msgid "Submit"
+msgstr "Soumettre"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:9
+msgid "Submit Button Label"
+msgstr "Etiquette du bouton Soumettre"
+
+#: includes/modules/pricing/functions-pricing.php:628
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: includes/base/functions.php:72 includes/base/class-widget-calendar.php:219
+#: includes/base/class-widget-calendar.php:409
+#: includes/base/class-widget-calendar.php:425
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:165
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:354
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:372
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:82
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:93
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:33
+msgid "Tax"
+msgstr "Taxe"
+
+#: includes/modules/pricing/settings/functions.php:41
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:3
+msgid "Taxes"
+msgstr "Taxes"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:285
+msgid "Template #"
+msgstr "Modèle #"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:71
+#: includes/base/admin/settings/views/view-settings-tab-form.php:84
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:91
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:25
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:29
+#, php-format
+msgid ""
+"The \"%s\" will be replaced by the number of days set in the widget or "
+"shortcode."
+msgstr ""
+"Le \"%s\" sera remplacé par le nombre de jours défini dans le widget ou le "
+"shortcode."
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:33
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:37
+#, php-format
+msgid ""
+"The \"%s\" will be replaced by the week day set in the widget or shortcode."
+msgstr ""
+"Le \"%s\" sera remplacé par le jour de la semaine défini dans le widget ou "
+"le shortcode."
+
+#: includes/modules/pricing/functions-part-payments.php:71
+msgid "The amount that the customer will be charged when making the booking."
+msgstr "Le montant qui sera facturé au client au moment de la réservation."
+
+#: includes/base/admin/form/functions.php:505
+#, php-format
+msgid "The booking must end on a %s."
+msgstr "La réservation doit se terminer un %s."
+
+#: includes/base/admin/form/functions.php:504
+#, php-format
+msgid "The booking must start on a %s."
+msgstr "La réservation doit commencer un %s."
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:47
+msgid "The color of the calendar dates after they have been selected."
+msgstr ""
+"La couleur des dates du calendrier après qu'elles ont été sélectionnées."
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:36
+msgid "The color of the calendar dates when hovering over them."
+msgstr ""
+"La couleur des dates du calendrier lorsque vous passez la souris au-dessus "
+"d'elles."
+
+#: includes/modules/pricing/functions-part-payments.php:170
+msgid ""
+"The confirmation message that appears after the final payment has succeeded."
+msgstr ""
+"Le message de confirmation qui s'affiche une fois le paiement final a réussi."
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:58
+msgid ""
+"The date the booking was made on. This appears in the email if the {All "
+"Fields} tag is used."
+msgstr ""
+"La date à laquelle la réservation a été effectuée. Cela apparaît dans "
+"l'email si la balise {All Fields} est utilisée."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:163
+msgid ""
+"The dates from the iCal events present in the file will be assigned the "
+"legend item that you choose here."
+msgstr ""
+"Les dates des événements iCal présents dans le fichier va être affecté à "
+"l'élément de légende que vous choisissez ici."
+
+#: includes/base/admin/backup/views/view-backup.php:28
+msgid ""
+"The export file will contain all information saved by the plugin, including "
+"calendars, bookings and general settings."
+msgstr ""
+"Le fichier d'exportation contient toutes les informations enregistrées par "
+"le plugin, y compris les calendriers, les réservations et les paramètres "
+"généraux."
+
+#: includes/base/admin/backup/functions-actions-backup.php:83
+msgid ""
+"The file you are trying to import does not have a valid extension. The "
+"extension of the file should be \".wpbs\"."
+msgstr ""
+"Le fichier que vous essayez d'importer n'a pas une extension valide. "
+"L'extension du fichier doit être \".wpbs\"."
+
+#: includes/base/admin/backup/functions-actions-backup.php:96
+msgid ""
+"The file you are trying to import is not compatible with this version of the "
+"plugin."
+msgstr ""
+"Le fichier que vous essayez d'importer n'est pas compatible avec cette "
+"version du plugin."
+
+#: includes/modules/pricing/functions-part-payments.php:174
+#: includes/modules/pricing/functions-part-payments.php:618
+#: includes/base/admin/form/functions-actions-form.php:54
+msgid "The form was successfully submitted."
+msgstr "Le formulaire a été soumis avec succès."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:590
+#: includes/base/admin/calendar/functions-actions-ical.php:601
+msgid "The iCal feed URL is not valid or could not be opened."
+msgstr "L'URL de flux iCal n'est pas valide ou n'a pas pu être ouvert."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:578
+msgid "The iCal feed URL is not valid."
+msgstr "L'URL de flux iCal n'est pas valide."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:427
+msgid "The iCal file has no events to import."
+msgstr "Le fichier iCal ne contient pas d'événements a importer."
+
+#: includes/modules/pricing/functions-part-payments.php:487
+msgid "The label for the Amount Billed in the payment form."
+msgstr ""
+"L'étiquette pour le Montant de la facture dans le formulaire de paiement."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:28
+msgid "The loading message while the payment is being processed."
+msgstr "Le message de chargement pendant le traitement du paiement."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:333
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:277
+msgid ""
+"The maximum number of days of a booking. If you are using the \"Split\" "
+"selection type, the number of nights will be counted instead."
+msgstr ""
+"Le nombre maximum de jours d'une réservation. Si vous utilisez le type de "
+"sélection «Fractionné», le nombre de nuits sera compté à la place. "
+
+#: includes/modules/update-checker/functions.php:105
+#, php-format
+msgid ""
+"The maximum number of websites have been registered for this serial key. To "
+"upgrade your license, %splease visit our website%s."
+msgstr ""
+"Le nombre maximal de sites web ont été enregistrés pour cette clé logicielle."
+" Pour mettre à niveau votre licence, %sveuillez visitez notre site%s."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:32
+msgid "The message that appears in the pricing table if no dates are selected."
+msgstr ""
+"Le message qui s'affiche dans la table des prix si aucune date n'est "
+"sélectionné."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:324
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:269
+msgid ""
+"The minimum number of days of a booking. If you are using the \"Split\" "
+"selection type, the number of nights will be counted instead."
+msgstr ""
+"Le nombre minimum de jours d'une réservation. Si vous utilisez le type de "
+"sélection «Fractionné», le nombre de nuits sera compté à la place."
+
+#: index.php:155
+#, php-format
+msgid ""
+"The minimum required version for the <strong>%s</strong> Add-on is %s or "
+"greater. Please <a href=\"%s\">update</a> to the latest version."
+msgstr ""
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:56
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:56
+msgid "The payment method description that appears on the booking form."
+msgstr ""
+"La description du mode de paiement qui apparaît sur le formulaire de "
+"réservation. "
+
+# stop translation here
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:28
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:28
+msgid "The payment method name that appears on the booking form."
+msgstr ""
+"Le nom du mode de paiement qui apparaît sur le formulaire de réservation."
+
+#: includes/modules/update-checker/views/view-register-website.php:33
+#, php-format
+msgid ""
+"The plugin by default checks once a day if there is an update available for "
+"it and displays if there is one in the %1$sPlugins page%2$s. If you want to "
+"do a manual update check and not wait for the automatic one, press the Check "
+"for Updates button and then check the %1$sPlugins page%2$s."
+msgstr ""
+"Le plugin par défaut vérifie une fois par jour si il y a une mise à jour est "
+"disponible et affiche si il y en a un dans l' %1$sPlugins page%2$s. Si vous "
+"voulez faire une mise à jour manuelle de vérifier et de ne pas attendre pour "
+"l'automatique, appuyez sur le bouton Vérifier les Mises à jour et de "
+"vérifier ensuite l' %1$sPlugins page%2$s."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:39
+msgid ""
+"The product name to show in the price calculator for date selections. For eg."
+" \"Days\". If the users selects 4 days in the calendar, the price "
+"calculation will show \"Days &times; 4: 100 EUR\""
+msgstr ""
+"Le nom du produit pour afficher le calculateur de prix pour les sélections "
+"de date. Pour eg. \"Jours\". Si l'utilisateur sélectionne 4 jours dans le "
+"calendrier, le prix calcul \"Jours × 4: 100 EUR\""
+
+#: includes/modules/update-checker/functions.php:103
+#, php-format
+msgid ""
+"The provided serial key is either invalid or expired. You cannot register a "
+"website with an invalid or expired serial key. %sPlease visit our website to "
+"set up or renew your WP Booking System license%s."
+msgstr ""
+"La série de la clé n'est pas valide ou a expiré. Vous ne pouvez pas "
+"enregistrer un site web avec pas valide ou a expiré numéro de série. "
+"%sPlease visitez notre site web pour établir ou renouveler votre WP Système "
+"de Réservation de licence de%s."
+
+#: includes/modules/upgrader/views/view-upgrader.php:26
+msgid ""
+"The setup should take just a few moments. For safe keeping, your old data "
+"will not be removed."
+msgstr ""
+"L'installation devrait prendre que quelques instants. Pour garder en toute "
+"sécurité, vos anciennes données ne seront pas supprimés."
+
+#: includes/modules/uninstaller/views/view-uninstaller.php:12
+msgid ""
+"The uninstaller will remove all WP Booking System information stored in the "
+"database for version 8 and higher."
+msgstr ""
+"Le programme de désinstallation supprime tous les WP Système de Réservation "
+"les informations stockées dans la base de données pour la version 8 et plus."
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:53
+msgid "Theme Styling"
+msgstr "Thème De Style"
+
+#: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:67
+msgid "There are no users that can be assigned to the calendar."
+msgstr "Il n'y a pas que les utilisateurs peuvent être affectés à l'agenda."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:81
+msgid ""
+"These legend items will be used to automatically book the calendar dates if "
+"\"Auto Accept\" parameter in the shortcode is set to \"Yes\"."
+msgstr ""
+"Ces éléments de la légende sera automatiquement utilisé pour réserver les "
+"dates du calendrier si \"Accepter automatiquement les paramètres\" dans le "
+"\"shortcode\" est réglé sur \"Oui\"."
+
+#: includes/base/admin/addons/functions.php:137
+msgid ""
+"This Add-on allows you to create a search widget so website visitors can "
+"search through calendars."
+msgstr ""
+"Cet Add-on vous permet de créer un widget de recherche donc les visiteurs du "
+"site peuvent rechercher à travers les calendriers."
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:46
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:50
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:54
+msgid "This appears in the email if the {All Fields} tag is used."
+msgstr "Cela apparaît dans l'email si la balise {All Fields} est utilisée. "
+
+#: includes/base/form/class-email-tags.php:245
+#: includes/base/form/class-email-tags.php:258
+msgid "This booking does not have a Part Payment."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:498
+msgid "This field is required."
+msgstr "Ce champ est requis."
+
+#: includes/modules/uninstaller/views/view-uninstaller.php:14
+msgid ""
+"This includes, but is not limited to, all calendars, all legend items, all "
+"bookings, all plugin settings."
+msgstr ""
+"Cela inclut, mais n'est pas limité à, tous les calendriers, tous les "
+"éléments de la légende, toutes les réservations, tous les paramètres de plug-"
+"in."
+
+#: includes/modules/pricing/functions-part-payments.php:137
+msgid ""
+"This is the page which will hold the payment form for the final payment. You "
+"will need to add the [wpbs-final-payment] shortcode to this page."
+msgstr ""
+"C'est la page qui contiendra le formulaire de paiement pour le paiement "
+"final. Vous devrez ajouter le shortcode [wpbs-final-payment] à cette page. "
+
+#: includes/modules/upgrader/views/view-upgrader.php:24
+msgid ""
+"This new version was written from the ground up to make the plugin easier to "
+"use, more flexible and more stable."
+msgstr ""
+"Cette nouvelle version a été écrite à partir du sol pour rendre le plugin "
+"facile à utiliser, plus souple et plus stable."
+
+#: includes/modules/pricing/functions-part-payments.php:89
+msgid ""
+"This option allows you to charge a deposit only if the booking is X days in "
+"the future. For example, if you set the applicable period to 14 days, and "
+"someone makes a booking starting one week from today, they will be charged "
+"the full amount. If they make a booking starting from 14 or more days in the "
+"future, they will be asked to pay the deposit. Zero days means the option is "
+"disabled, and deposit will always be charged."
+msgstr ""
+"Cette option vous permet de facturer un dépôt de garantie uniquement si la "
+"réservation est X jours dans le futur. Par exemple, si vous définissez la "
+"période de 14 jours, et quelqu'un fait une réservation une semaine à partir "
+"d'aujourd'hui, ils devront payer le plein montant. Si ils font une "
+"réservation à partir de 14 jours ou plus dans l'avenir, il leur sera demandé "
+"de payer un acompte. Zéro jours signifie que l'option est désactivée, et la "
+"caution sera toujours chargée."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:197
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:121
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:205
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:99
+msgid ""
+"This option lets you decide how past dates are being displayed for the user "
+"in the front-end."
+msgstr ""
+"Cette option vous permet de décider comment les dernières dates sont "
+"affichées pour l'utilisateur dans le front-end."
+
+#: includes/modules/update-checker/functions.php:101
+#, php-format
+msgid ""
+"This website is already registered with the provided serial key. Please log "
+"into %syour account on our website%s to view all your registered websites."
+msgstr ""
+"Ce site est déjà enregistré avec le numéro de série. Veuillez vous connecter "
+"en %syour compte sur notre site%s pour afficher tous vos sites web "
+"enregistrés."
+
+#: includes/base/functions.php:69 includes/base/class-widget-calendar.php:216
+#: includes/base/class-widget-calendar.php:406
+#: includes/base/class-widget-calendar.php:422
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:162
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:351
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:369
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:79
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:90
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:501
+msgid "To configure the CSV export settings please click the button below. "
+msgstr ""
+"Pour configurer l'exportation CSV réglages, veuillez cliquer sur le bouton "
+"ci-dessous. "
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:486
+msgid ""
+"To configure the iCal import & export settings and have access to the iCal "
+"export link please click the button below."
+msgstr ""
+"Pour configurer iCal l'importation et l'exportation de paramètres et d'avoir "
+"accès à la iCal export lien s'il vous plaît cliquez sur le bouton ci-dessous."
+
+#: includes/modules/uninstaller/views/view-uninstaller.php:24
+msgid ""
+"To confirm that you really want to uninstall WP Booking System, please type "
+"REMOVE in the field below."
+msgstr ""
+"Pour confirmer que vous souhaitez désinstaller WP Système de Réservation, "
+"merci de nous la RETIRER dans le champ ci-dessous."
+
+#: includes/base/admin/backup/views/view-backup.php:26
+msgid ""
+"To export a backup file for WP Booking System, please click the Download "
+"Export File button."
+msgstr ""
+"Pour exporter un fichier de sauvegarde pour WP Système de Réservation, "
+"veuillez cliquer sur le bouton de Téléchargement de Fichier d'Exportation "
+"bouton."
+
+#: includes/base/admin/backup/views/view-backup.php:55
+msgid ""
+"To import all data from a WP Booking System export file, browse for that "
+"file and click the Import Data button."
+msgstr ""
+"Pour importer toutes les données à partir d'un WP Système de Réservation "
+"d'exportation de fichier, recherchez le fichier et cliquez sur le bouton "
+"d'Importation de Données."
+
+#: includes/modules/upgrader/views/view-upgrader.php:25
+msgid ""
+"To start using the new version we will have to do a quick setup to migrate "
+"your existing data to the new format."
+msgstr ""
+"Pour commencer à utiliser la nouvelle version, il faudra faire un réglage "
+"rapide pour migrer vos données existantes vers le nouveau format."
+
+#: includes/base/admin/form/functions.php:252
+msgid "To use reCAPTCHA you must add your API Keys in the"
+msgstr "Pour utiliser reCAPTCHA vous devez ajouter votre clef API dans le"
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:268
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:25
+#: includes/base/admin/calendar/views/view-edit-calendar.php:415
+msgid "Tooltip"
+msgstr "Info-bulle"
+
+#: includes/base/class-widget-calendar.php:193
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:58
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:66
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:70
+msgid "Top"
+msgstr "Top"
+
+#: includes/modules/pricing/functions-pricing.php:627
+#: includes/modules/pricing/class-payment.php:717
+msgid "Total"
+msgstr "Total"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:39
+msgid "Tracking Script"
+msgstr "Script De Tracking"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:40
+msgid ""
+"Tracking script code (eg. Google Analytics) that's executed after the form "
+"was successfully submitted."
+msgstr ""
+"Script de Tracking code (par exemple. Google Analytics) qui est exécuté une "
+"fois que le formulaire a été soumis avec succès."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:68
+msgid "Translate calendar title"
+msgstr "Traduire calendrier"
+
+#: includes/modules/pricing/functions-part-payments.php:175
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:39
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:67
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:84
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:118
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:147
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:13
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:111
+#: includes/base/admin/calendar/views/view-edit-calendar.php:190
+#: includes/base/admin/calendar/views/view-edit-calendar.php:240
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:44
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-strings.php:50
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:33
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:61
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:44
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:219
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:33
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:61
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:90
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:132
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:161
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:142
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:171
+msgid "Translations"
+msgstr "Traductions"
+
+#: includes/base/admin/form/class-list-table-forms.php:131
+#: includes/base/admin/form/class-list-table-forms.php:218
+#: includes/base/admin/calendar/class-list-table-calendars.php:132
+#: includes/base/admin/calendar/class-list-table-calendars.php:237
+msgid "Trash"
+msgstr "Corbeille"
+
+#: includes/base/functions.php:67 includes/base/class-widget-calendar.php:214
+#: includes/base/class-widget-calendar.php:404
+#: includes/base/class-widget-calendar.php:420
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:160
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:349
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:367
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:77
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:88
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:70
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:64
+msgid "Type"
+msgstr "Type"
+
+#: includes/base/admin/form/views/view-edit-form.php:47
+msgid ""
+"Uh-oh! It looks like you some of your fields have the same ID. Not sure how "
+"this happened. Please delete one of the fields and try creating it again."
+msgstr ""
+"Uh-oh! Il semble que certains de vos champs ont le même ID. Pas sûr de "
+"savoir comment cela s'est passé. S'il vous plaît supprimer l'un des champs "
+"et essayer de le créer encore une fois."
+
+#: includes/base/admin/form/views/view-edit-form.php:40
+msgid ""
+"Uh-oh! You are using email tags in your notifications that are not available "
+"in the form anymore."
+msgstr ""
+"Oh-oh! Vous utilisez des balises email dans vos notifications qui ne sont "
+"plus disponibles dans le formulaire. "
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:433
+msgid "Undo"
+msgstr "Annuler"
+
+#: includes/modules/uninstaller/views/view-uninstaller.php:30
+msgid "Uninstall Plugin"
+msgstr "Désinstallation Du Plugin"
+
+#: includes/modules/uninstaller/functions.php:17
+msgid "Uninstaller"
+msgstr "Programme de désinstallation"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:147
+msgid "Update Booking"
+msgstr "Mise À Jour De La Réservation"
+
+#: includes/base/admin/addons/views/view-addons.php:37
+msgid "Upgrade your licence"
+msgstr "Mise à niveau de votre licence"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:251
+msgid "Upload Image"
+msgstr "Télécharger L'Image"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:185
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:187
+msgid "Use Jump Switch"
+msgstr "Utilisez Le Saut De L'Interrupteur"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:354
+msgid "Use Split Days"
+msgstr "L'Utilisation De Split Jours"
+
+#: includes/base/class-widget-calendar.php:294
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:202
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:126
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:203
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:97
+msgid "Use the Booking History Color from the Settings"
+msgstr ""
+"Utilisez la couleur de l'historique des réservations dans les paramètres"
+
+#: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:50
+msgid "User Assign"
+msgstr "Attribuer un utilisateur"
+
+#: includes/base/admin/form/class-submenu-page-form.php:91
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:19
+#: includes/base/admin/booking/views/view-modal-email-logs.php:22
+msgid "User Notification"
+msgstr "Notification De L'Utilisateur"
+
+#: includes/modules/user-restrictions/views/view-settings-tab-general-fields.php:14
+msgid "User Role Permissions"
+msgstr "Rôle De L'Utilisateur, Les Autorisations"
+
+#: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:44
+msgid "Users Editing Permissions"
+msgstr "Les Utilisateurs Les Autorisations De Modification"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:125
+msgid "v2 Secret Key"
+msgstr "v2 Clé Secrète"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:114
+msgid "v2 Site Key"
+msgstr "la v2 du Site de la Clé"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:152
+msgid "v3 Secret Key"
+msgstr "v3 Clé Secrète"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:141
+msgid "v3 Site Key"
+msgstr "v3 Site Clé"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:9
+msgid "Validation Errors"
+msgstr "Les Erreurs De Validation"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:6
+msgid "Validation Strings"
+msgstr "La Validation De Chaînes De Caractères"
+
+#: includes/modules/pricing/class-vat.php:96
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:174
+msgid "VAT"
+msgstr "La TVA"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:214
+msgid "VAT Name"
+msgstr "Nom de la TVA"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:197
+msgid "VAT Percentage"
+msgstr "Pourcentage de la TVA"
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:34
+msgid "View email body"
+msgstr "Afficher le corps du message"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:79
+msgid "Visible"
+msgstr "Visible"
+
+#: includes/modules/update-checker/functions.php:119
+msgid "Website successfully deregistered."
+msgstr "Site web avec succès radiées."
+
+#: includes/modules/update-checker/functions.php:107
+#, php-format
+msgid ""
+"Website successfully registered. To view all your registered websites, "
+"please check %syour account page on our website%s."
+msgstr ""
+"Site internet enregistré avec succès. Pour afficher tous vos sites web "
+"enregistrés, veuillez vérifiez %syour page de compte sur notre site%s."
+
+#: includes/base/functions.php:68 includes/base/class-widget-calendar.php:215
+#: includes/base/class-widget-calendar.php:405
+#: includes/base/class-widget-calendar.php:421
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:161
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:350
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:368
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:78
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:89
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:359
+msgid "Week Days"
+msgstr "Les Jours De La Semaine"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:156
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:170
+msgid "Week Start Day"
+msgstr "Premier Jour De La Semaine"
+
+#: includes/base/class-widget-calendar.php:210
+msgid "Week starts on"
+msgstr "La semaine commence sur"
+
+#: includes/modules/upgrader/functions.php:57
+#: includes/modules/upgrader/functions.php:58
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: includes/modules/upgrader/views/view-upgrader.php:18
+msgid "Welcome to WP Booking System v.5"
+msgstr "Bienvenue sur WP Système de Réservation v. 5"
+
+#: includes/base/admin/settings/views/view-settings-tab-languages.php:13
+msgid "What languages do you wish to use?"
+msgstr "Quelle langue souhaitez-vous utiliser?"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:79
+msgid ""
+"When exporting changeover days, do not include the ending changeover in the "
+"list above."
+msgstr ""
+"Lors de l'exportation de passage des jours, ne comprennent pas la fin de "
+"basculement dans la liste ci-dessus."
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:64
+msgid "When to send"
+msgstr "Quand envoyer"
+
+#. Name of the plugin
+#: includes/modules/facetwp/functions-integration-facet-wp.php:19
+msgid "WP Booking System"
+msgstr "WP Système de Réservation"
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:92
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:141
+msgid "WP Booking System -> Settings -> Form"
+msgstr "WP Booking System -> Settings -> Form"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:74
+msgid "year, month, day, legend, description"
+msgstr "année, mois, jour, légende, description"
+
+#: includes/base/class-widget-calendar.php:172
+#: includes/base/class-widget-calendar.php:182
+#: includes/base/class-widget-calendar.php:203
+#: includes/base/class-widget-calendar.php:304
+#: includes/base/class-widget-calendar.php:315
+#: includes/base/class-widget-calendar.php:325
+#: includes/base/class-widget-calendar.php:335
+#: includes/base/class-widget-calendar.php:356
+#: includes/base/class-widget-calendar.php:435
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:33
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:45
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:176
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:188
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:219
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:231
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:243
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:286
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:388
+#: includes/base/admin/calendar/views/view-ical-import-export.php:97
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:54
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:138
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:150
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:118
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:126
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:182
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:191
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:215
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:225
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:233
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:242
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:303
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:62
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:109
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:119
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/base/class-widget-calendar.php:305
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:220
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:139
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:216
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:110
+msgid "Yes, with red indicator"
+msgstr "Oui, avec indicateur rouge"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:137
+msgid ""
+"You can attach a post/page from your WordPress website or an external link "
+"to this calendar. If the calendar has a link attached, everywhere the "
+"calendar's title is displayed, the link will automatically be added to the "
+"title."
+msgstr ""
+"Vous pouvez joindre un post/page à partir de votre site WordPress ou un lien "
+"externe à ce calendrier. Si le calendrier a un lien est attaché, partout le "
+"calendrier du titre est affiché, le lien sera automatiquement ajouté au "
+"titre."
+
+#: includes/modules/pricing/functions-part-payments.php:118
+msgid ""
+"You can charge a deposit and receive the rest of the amount in cash, or ask "
+"for the final payment to be done online using the same method (PayPal or "
+"Stripe) as the initial payment, for which you will have some extra options "
+"below."
+msgstr ""
+"Vous pouvez charger un dépôt et recevez le reste de la somme en espèces, ou "
+"d'en demander le paiement final à faire en ligne à l'aide de la même méthode "
+"(PayPal ou Bande) que le paiement initial, pour lequel vous aurez quelques "
+"options supplémentaires ci-dessous."
+
+#: includes/modules/update-checker/views/view-register-website.php:14
+#, php-format
+msgid ""
+"You can find your serial key in your WP Booking System account. %sClick here "
+"to go to your account.%s"
+msgstr ""
+"Vous pouvez trouver votre clé de série de votre WP Système de Réservation de "
+"compte. %sClick ici pour accéder à votre compte.%s"
+
+#: includes/modules/pricing/functions-part-payments.php:160
+msgid ""
+"You can set up an email reminder under the <strong>Payment Reminder "
+"Notifications</strong> tab when editing a <strong>Form</strong>."
+msgstr ""
+"Vous pouvez configurer un email de rappel sous l'onglet <strong> "
+"Notifications de rappel de paiement </strong> lors de la modification d'un "
+"<strong> formulaire </strong>."
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:92
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:141
+msgid "You can set up message templates in"
+msgstr "Vous pouvez définir des modèles de messages dans"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:89
+msgid ""
+"You can use the <span class=\"wpbs-small-print-tag wpbs-select-on-click\">"
+"{Amount}</span> tag to show the total amount needed to be paid by the "
+"customer, or the <span class=\"wpbs-small-print-tag wpbs-select-on-click\">"
+"{Booking ID}</span> tag to add a transaction reference number."
+msgstr ""
+"Vous pouvez utiliser la balise <span class = \"wpbs-small-print-tag wpbs-"
+"select-on-click\"> {Amount} </span> pour afficher le montant total à payer "
+"par le client, ou la balisse <span class = \"wpbs-small-print-tag wpbs-"
+"select-on-click\"> {Booking ID} </span> pour ajouter un numéro de référence "
+"de transaction. "
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:267
+msgid ""
+"You can use the description field of the date to add private information "
+"regarding your booking. This information will not be displayed anywhere else,"
+" but here."
+msgstr ""
+"Vous pouvez utiliser le champ de description de la date à ajouter des "
+"informations privées concernant votre réservation. Cette information ne sera "
+"pas affichée nulle part ailleurs"
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:268
+msgid ""
+"You can use the tooltip field of the date to add information that you wish "
+"users to see when they hover over the calendar date in the front-end part of "
+"your website."
+msgstr ""
+"Vous pouvez utiliser le champ info-bulle de la date pour les informations "
+"que vous souhaitez que les utilisateurs voient lorsqu'ils passent la souris "
+"sur la date du calendrier dans la partie front-end de votre site web."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:43
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:31
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:57
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:57
+msgid ""
+"You can use these dynamic tags in any of the fields. They will be replaced "
+"with the values submitted in the form."
+msgstr ""
+"Vous pouvez utiliser ces balises dynamiques dans l'un des champs. Elles "
+"seront remplacées par les valeurs présentent dans le formulaire."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:238
+#, php-format
+msgid "You don't have any %s bookings."
+msgstr "Vous n'avez pas de %s réservations."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:271
+msgid ""
+"You don't have any iCal URL's included. Use the form below to add an iCal "
+"feed URL."
+msgstr ""
+"Vous n'avez pas d'URL iCal incluse. Utilisez le formulaire ci-dessous pour "
+"ajouter une URL de flux iCal ."
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:22
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:22
+msgid ""
+"You must add an Email field to the form in order to configure payment "
+"reminders."
+msgstr ""
+"Vous devez ajouter un champ Email dans le formulaire afin de configurer des "
+"rappels de paiement."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:8
+msgid ""
+"You must add an Email field to the form in order to configure user "
+"notifications."
+msgstr ""
+"Vous devez ajouter un champ Email dans le formulaire de commande pour "
+"configurer les notifications à l'utilisateur."
+
+#: includes/modules/pricing/functions-pricing.php:631
+msgid "Your Order"
+msgstr "Votre commande"
+
+#: includes/modules/update-checker/functions.php:151
+#, php-format
+msgid ""
+"Your version of WP Booking System installed on this website is not "
+"registered. Plugin updates are not available without a valid license key. "
+"%sPlease click here to register your website%s."
+msgstr ""
+"Votre version de WP Système de Réservation disponible sur ce site web n'est "
+"pas enregistré. Les mises à jour ne sont pas disponibles sans une clé de "
+"licence valide. %sVeuillez cliquer ici pour inscrire votre site%s."
+
+#: includes/modules/update-checker/functions.php:184
+#, php-format
+msgid ""
+"Your WP Booking System serial key has expired. Plugin updates are not "
+"available without a valid serial key. %sPlease click here to purchase a new "
+"license%s."
+msgstr ""
+"Votre license WP Système de Réservation a expirée. Les mises à jour ne sont "
+"pas disponibles sans clé valide. %sVeuillez cliquer ici pour acheter une "
+"nouvelle licence de%s."

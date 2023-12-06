@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Search Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-11 23:19+0000\n"
+"PO-Revision-Date: 2021-11-22 22:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: wp-booking-system-search"
+
+#: index.php:131
+msgid "\">update</a> to the latest version."
+msgstr "\"> actualizar </a> a la última versión."
+
+#. Description of the plugin
+msgid "A search add-on for WP Booking System"
+msgstr "Un complemento de búsqueda para WP Booking System"
+
+#: includes/base/class-widget-search.php:111
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:20
+msgid "All Calendars"
+msgstr "Todos los calendarios"
+
+#: includes/base/class-widget-search.php:139
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:56
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:23
+msgid "Auto (let WP choose)"
+msgstr "Auto (deja que WP elija)"
+
+#: includes/base/class-widget-search.php:175
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:104
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:60
+msgid "Automatically Mark Selection"
+msgstr "Marcar automáticamente la selección"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:45
+msgid "Basic Options"
+msgstr "Opciones básicas"
+
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:10
+msgid "Calendar Search"
+msgstr "Búsqueda de calendario"
+
+#: includes/base/class-widget-search.php:108
+#: includes/base/class-widget-search.php:118
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:17
+msgid "Calendars"
+msgstr "Calendarios"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:193
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:5
+msgid ""
+"Create a search widget that allows the visitor to search for available dates "
+"in your calendars"
+msgstr ""
+"Cree un widget de búsqueda que le permita al visitante buscar fechas "
+"disponibles en sus calendarios."
+
+#: includes/base/search-widget/functions.php:43
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:24
+msgid "Date Label"
+msgstr "Etiqueta de fecha"
+
+#: includes/base/class-widget-search.php:190
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:123
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:72
+msgid "Date Range"
+msgstr "Rango de fechas"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:48
+msgid "Details Button Label"
+msgstr "Etiqueta del botón de detalles"
+
+#: includes/base/search-widget/functions.php:41
+msgid "End Date"
+msgstr "Fecha final"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:18
+msgid "End Date Label"
+msgstr "Etiqueta de fecha final"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:21
+msgid "End Date Placeholder"
+msgstr "Marcador de posición de fecha final"
+
+#: includes/base/class-widget-search.php:156
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:84
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:35
+msgid "Friday"
+msgstr "Viernes"
+
+#: includes/base/class-widget-search.php:224
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:154
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:104
+msgid "Grid"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr ""
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:4
+msgid "Insert a Calendar Search Widget"
+msgstr "Insertar un widget de búsqueda de calendario"
+
+#: includes/base/class-widget-search.php:16
+msgid "Insert a WP Booking System Search Widget"
+msgstr "Insertar un widget de búsqueda del WP Booking System"
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:12
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:192
+msgid "Insert Search Widget"
+msgstr "Insertar widget de búsqueda"
+
+#: includes/base/search-widget/functions.php:48
+msgid "Invalid end date"
+msgstr "Fecha de finalización no válida"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:39
+msgid "Invalid End Date Error"
+msgstr "Error de fecha de finalización no válida"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:36
+msgid "Invalid Start Date Error"
+msgstr "Error de fecha de inicio no válida"
+
+#: includes/base/search-widget/functions.php:47
+msgid "Invalid start date."
+msgstr "Fecha de inicio no válida."
+
+#: includes/base/class-widget-search.php:130
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:54
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:76
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/base/class-widget-search.php:223
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:153
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:104
+msgid "List"
+msgstr "Lista"
+
+#: includes/base/class-widget-search.php:152
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:80
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:31
+msgid "Monday"
+msgstr "Lunes"
+
+#: includes/base/search-widget/functions.php:54
+msgid "Next"
+msgstr "Próximo"
+
+#: includes/base/class-widget-search.php:169
+#: includes/base/class-widget-search.php:180
+#: includes/base/class-widget-search.php:202
+#: includes/base/class-widget-search.php:213
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:97
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:107
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:134
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:144
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:48
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:64
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:88
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:96
+msgid "No"
+msgstr "No"
+
+#: includes/base/search-widget/functions.php:50
+msgid "No available dates were found."
+msgstr "No se encontraron fechas disponibles."
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:33
+msgid "No End Date Error"
+msgstr "Sin error de fecha de finalización"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:45
+msgid "No Results Warning"
+msgstr "Advertencia sin resultados"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:30
+msgid "No Start Date Error"
+msgstr "Sin error de fecha de inicio"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:57
+msgid "Pagination - Next"
+msgstr "Paginación - Siguiente"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:54
+msgid "Pagination - Previous"
+msgstr "Paginación - Anterior"
+
+#: includes/base/search-widget/functions.php:45
+msgid "Please select a starting date."
+msgstr "Seleccione una fecha de inicio."
+
+#: includes/base/search-widget/functions.php:46
+msgid "Please select an ending date."
+msgstr "Seleccione una fecha de finalización."
+
+#: includes/base/search-widget/functions.php:53
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:51
+msgid "Price"
+msgstr "Precio"
+
+#: includes/base/class-widget-search.php:237
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:174
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:115
+msgid "Redirect"
+msgstr "Redirigir"
+
+#: includes/base/class-widget-search.php:219
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:151
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:100
+msgid "Results Layout"
+msgstr "Diseño de resultados"
+
+#: includes/base/class-widget-search.php:230
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:167
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:108
+msgid "Results per Page"
+msgstr "Resultados por página"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:42
+msgid "Results Title"
+msgstr "Título de los resultados"
+
+#: includes/base/class-widget-search.php:157
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:85
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:36
+msgid "Saturday"
+msgstr "Sábado"
+
+#: includes/base/search-widget/functions.php:38
+#: includes/base/search-widget/functions.php:44
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:27
+msgid "Search Button Label"
+msgstr "Etiqueta del botón de búsqueda"
+
+#: includes/base/search-widget/functions.php:49
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:8
+msgid "Search Widget"
+msgstr "Widget de búsqueda"
+
+#: includes/base/admin/settings/functions.php:16
+msgid "Search Widget Strings"
+msgstr ""
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:9
+msgid "Search Widget Title"
+msgstr "Título del widget de búsqueda"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:29
+msgid "Select Calendars"
+msgstr "Seleccionar calendarios"
+
+#: includes/base/class-widget-search.php:112
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:21
+msgid "Selected Calendars"
+msgstr "Calendarios seleccionados"
+
+#: includes/base/class-widget-search.php:186
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:121
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:68
+msgid "Selection Type"
+msgstr "Tipo de selección"
+
+#: includes/base/class-widget-search.php:197
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:131
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:84
+msgid "Show Featured Image"
+msgstr "Mostrar imagen destacada"
+
+#: includes/base/class-widget-search.php:208
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:141
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:92
+msgid "Show Starting Price"
+msgstr "Mostrar precio inicial"
+
+#: includes/base/class-widget-search.php:191
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:124
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:72
+msgid "Single Day"
+msgstr "Un solo día"
+
+#: includes/base/search-widget/functions.php:39
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:12
+msgid "Start Date Label"
+msgstr "Etiqueta de fecha de inicio"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:15
+msgid "Start Date Placeholder"
+msgstr "Marcador de posición de fecha de inicio"
+
+#: includes/base/class-widget-search.php:149
+msgid "Start Day of the Week"
+msgstr "Día de inicio de la semana"
+
+#: includes/base/search-widget/functions.php:52
+msgid "Starting from $% per day."
+msgstr "A partir de $% por día."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:180
+msgid "Strings"
+msgstr "Cadenas de texto"
+
+#: includes/base/class-widget-search.php:158
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:86
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:37
+msgid "Sunday"
+msgstr "Domingo"
+
+#: includes/base/class-widget-search.php:155
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:83
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:34
+msgid "Thursday"
+msgstr "Jueves"
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-search-widget.php:74
+msgid "Translations"
+msgstr "Traducciones"
+
+#: includes/base/class-widget-search.php:153
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:81
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:32
+msgid "Tuesday"
+msgstr "Martes"
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr ""
+
+#: includes/base/search-widget/functions.php:51
+msgid "View"
+msgstr "Vista"
+
+#: includes/base/class-widget-search.php:154
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:82
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:33
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:77
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:52
+msgid "Week Start Day"
+msgstr "Día de inicio de la semana"
+
+#: includes/base/class-widget-search.php:164
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:94
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:44
+msgid "Widget Title"
+msgstr "Título del widget"
+
+#. Name of the plugin
+msgid "WP Booking System - Search Add-on"
+msgstr ""
+
+#: includes/base/class-widget-search.php:168
+#: includes/base/class-widget-search.php:179
+#: includes/base/class-widget-search.php:201
+#: includes/base/class-widget-search.php:212
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:96
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:106
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:133
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:143
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:48
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:64
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:88
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:96
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:185
+#, php-format
+msgid ""
+"You can configure strings like labels and error messages from the <a "
+"target=\"_blank\" href=\"%s\">settings page</a>."
+msgstr ""
+"Puede configurar cadenas como etiquetas y mensajes de error desde la <a "
+"target=\"_blank\" href=\"%s\">página de configuración</a> ."

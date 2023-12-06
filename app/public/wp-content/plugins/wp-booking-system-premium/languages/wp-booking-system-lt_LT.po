@@ -1,0 +1,4806 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-01 06:01+0000\n"
+"PO-Revision-Date: 2022-06-07 07:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0\n"
+"X-Domain: wp-booking-system"
+
+#: includes/modules/pricing/functions-part-payments.php:452
+msgid " &#8211; Final Payment Link"
+msgstr "&#8211; Galutinio Mokėjimo Nuoroda"
+
+#: includes/modules/pricing/functions-part-payments.php:425
+msgid " &#8211; Final Payment Method"
+msgstr "&#8211; Galutinis mokėjimo būdas"
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:23
+msgid "\"Edit Order\" Link"
+msgstr "\"Redaguoti užsakymą\" Nuoroda"
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:27
+msgid "\"Item\" Table Column"
+msgstr "„Prekė“ Lentelės stulpelis "
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:15
+msgid "\"Payment Confirmation\" Heading"
+msgstr "„Mokėjimo patvirtinimas“ Antraštė"
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:35
+msgid "\"Subtotal\" Table Column"
+msgstr "„Tarpinė suma“ Lentelės stulpelis "
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:31
+msgid "\"Total\" Table Column"
+msgstr "„Iš viso“ Lentelės stulpelis"
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:19
+msgid "\"Your Order\" Heading"
+msgstr "„Jūsų užsakymas“ Antraštė"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:101
+#, php-format
+msgid "%s legend item is now the default one."
+msgstr "%s įrašo elementas dabar yra numatytasis."
+
+#. Description of the plugin
+msgid "A set-and-forget booking calendar for your rental business."
+msgstr "\"Nustatyk ir pamiršk\" rezervacijos kalendorius jūsų nuomos verslui."
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:142
+msgid "Accent Colour"
+msgstr "Akcentinė spalva"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:144
+msgid "Accept Booking"
+msgstr "Priimti Rezervaciją"
+
+#: includes/base/admin/addons/functions.php:126
+msgid "Accept credit cards and bank transfers using the GoPay payment gateway."
+msgstr ""
+"Priimkite kredito korteles ir banko pervedimus naudodami „GoPay“ mokėjimo "
+"sistemą."
+
+#: includes/base/admin/addons/functions.php:104
+msgid "Accept credit cards using the Authorize.Net payment gateway."
+msgstr "Priimkite kredito korteles naudodami Authorize.Net mokėjimo sistemą."
+
+#: includes/base/admin/addons/functions.php:71
+msgid "Accept credit cards using the Stripe payment gateway."
+msgstr "Priimkite kredito korteles naudodami „Stripe“ mokėjimo sistemą."
+
+#: includes/base/admin/addons/functions.php:115
+msgid ""
+"Accept credit cards, bank transfers, iDEAL and many other payment methods "
+"with Mollie."
+msgstr ""
+"Su Mollie priimkite kredito korteles, banko pavedimus, iDEAL ir daugelį kitų "
+"mokėjimo būdų."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:78
+#: includes/base/admin/calendar/class-list-table-calendars.php:293
+msgid "Accepted"
+msgstr "Priimta"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:192
+msgid ""
+"Accepting, Updating or Deleting the booking will also update the calendar "
+"availability as per the form above."
+msgstr ""
+"Priėmus, Atnaujinus arba Ištrynus rezervaciją, taip pat bus atnaujintas "
+"kalendorius, kaip nurodyta aukščiau pateiktoje formoje."
+
+#: includes/base/admin/addons/views/view-addons.php:42
+msgid "Activate"
+msgstr "Suaktyvinti"
+
+#: includes/base/admin/form/class-list-table-forms.php:130
+#: includes/base/admin/calendar/class-list-table-calendars.php:131
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:10
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:10
+msgid "Active"
+msgstr "Aktyvus"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:116
+#: includes/base/admin/booking/views/view-add-booking.php:11
+msgid "Add Booking"
+msgstr "Pridėti Rezervaciją"
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:34
+#: includes/base/admin/calendar/views/view-shortcode-generator.php:15
+#: includes/base/admin/calendar/views/view-add-calendar.php:64
+msgid "Add Calendar"
+msgstr "Pridėti kalendorių"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:237
+msgid "Add External Link"
+msgstr "Pridėti Išorinę Nuorodą"
+
+#: includes/base/admin/form/views/view-add-form.php:37
+msgid "Add Form"
+msgstr "Pridėti formą"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:434
+msgid "Add iCal URL"
+msgstr "Pridėti iCal URL"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:8
+msgid "Add Legend Item"
+msgstr "Pridėti Įrašo Elementą"
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:23
+#: includes/base/admin/calendar/views/view-calendars.php:12
+msgid "Add New Calendar"
+msgstr "Pridėti naują kalendorių"
+
+#: includes/base/admin/form/views/view-add-form.php:20
+#: includes/base/admin/form/views/view-forms.php:12
+msgid "Add New Form"
+msgstr "Pridėti naują formą"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:6
+#: includes/base/admin/calendar/views/view-legend.php:14
+msgid "Add New Legend Item"
+msgstr "Pridėti Naują Įrašo Elementą"
+
+#: includes/base/admin/booking/views/view-modal-notes.php:39
+msgid "Add New Note"
+msgstr "Pridėti Naują Pastabą"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:293
+msgid "Add new note"
+msgstr "Pridėti naują pastabą"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:232
+msgid "Add New Template"
+msgstr "Pridėti Naują Šabloną"
+
+#: includes/base/admin/booking/views/view-modal-notes.php:45
+#: includes/base/admin/calendar/views/view-edit-calendar.php:295
+msgid "Add Note"
+msgstr "Pridėti Pastabą"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:96
+msgid "Add some style to all the outgoing emails."
+msgstr "Pridėkite šiek tiek stiliaus visiems siunčiamiems el. laiškams."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:219
+msgid "Add Tax"
+msgstr "Pridėti Mokestį"
+
+#: includes/base/admin/addons/class-submenu-page-addons.php:35
+msgid "Add-on successfully activated."
+msgstr "Priedas sėkmingai suaktyvintas."
+
+#: includes/base/admin/addons/class-submenu-page-addons.php:32
+msgid "Add-on successfully installed."
+msgstr "Priedas sėkmingai įdiegtas."
+
+#: includes/base/admin/addons/functions.php:46
+#: includes/base/admin/addons/functions.php:47
+#: includes/base/admin/addons/views/view-addons.php:11
+msgid "Add-ons"
+msgstr "Priedai"
+
+#: includes/base/admin/addons/views/view-addons.php:17
+msgid "Add-ons are only available with a valid licence key."
+msgstr "Priedai pasiekiami tik su galiojančiu licencijos raktu."
+
+#: includes/base/admin/booking/functions-ajax.php:385
+#: includes/base/admin/calendar/functions-notes.php:54
+#: includes/base/admin/booking/views/view-modal-notes.php:20
+msgid "Added on"
+msgstr "Pridėta"
+
+#: includes/base/admin/form/class-submenu-page-form.php:90
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:7
+msgid "Admin Notification"
+msgstr "Administratoriaus Pranešimas"
+
+#: includes/base/admin/form/functions.php:72
+msgid "Advanced Form Elements"
+msgstr "Išplėstiniai Formos Elementai"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:112
+msgid "Advanced Options"
+msgstr "Išplėstiniai nustatymai"
+
+#: includes/modules/tools/views/view-tools.php:20
+msgid ""
+"After the uninstall process is complete the plugin will be automatically "
+"deactivated."
+msgstr "Pasibaigus pašalinimo procesui, papildinys bus automatiškai išjungtas."
+
+#: includes/base/form/class-form-outputter.php:1006
+msgid "Agreed"
+msgstr "Sutiko"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:32
+msgid "All bookings and booking related data were successfully removed."
+msgstr ""
+"Visi užsakymai ir su rezervavimu susiję duomenys buvo sėkmingai pašalinti."
+
+#: includes/base/class-widget-overview-calendar.php:137
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:20
+msgid "All Calendars"
+msgstr "Visi kalendoriai"
+
+#: includes/base/admin/addons/functions.php:149
+msgid ""
+"Allow multiple bookings per day and automatically make the dates unavailable "
+"when the maximum number of bookings is reached."
+msgstr ""
+"Leiskite kelias rezervacijas per dieną ir automatiškai paverskite datas "
+"užimtomis, kai pasiekiamas maksimalus rezervacijų skaičius."
+
+#: includes/base/admin/addons/functions.php:93
+msgid ""
+"Allow your customers to checkout with WooCommerce, using any of the payment "
+"gateways supported by WooCommerce."
+msgstr ""
+"Leiskite savo klientams atsiskaityti naudodami „WooCommerce“, naudodami bet "
+"kurią „WooCommerce“ palaikomą mokėjimo sistemą"
+
+#: includes/base/admin/addons/functions.php:219
+msgid ""
+"Allow your customers to switch between currencies when making a payment."
+msgstr "Leiskite klientams pakeisti valiutą, kai atlieka mokėjimą."
+
+#: includes/base/admin/booking/views/view-add-booking.php:87
+msgid ""
+"Allows you to create bookings on any dates, even if you have validation "
+"rules set up."
+msgstr ""
+"Leidžia kurti užsakymus bet kuriomis dienomis, net jei nustatėte "
+"patvirtinimo taisykles."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:96
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:107
+msgid "Amount"
+msgstr "Suma"
+
+#: includes/modules/pricing/functions-part-payments.php:524
+msgid "Amount Billed"
+msgstr "Sąskaitos Suma"
+
+#: includes/modules/pricing/functions-part-payments.php:544
+msgid "Amount Billed Label"
+msgstr "Sąskaitos Sumos Etiketė"
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:24
+msgid ""
+"Appears above the pricing table as a link which takes you back to the "
+"booking form."
+msgstr ""
+"Virš kainodaros lentelės rodoma kaip nuoroda, nukreipianti atgal į užsakymo "
+"formą."
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:20
+msgid "Appears above the pricing table."
+msgstr "Rodomas virš kainodaros lentelės."
+
+#: includes/modules/pricing/functions-part-payments.php:550
+msgid "Appears in the Pricing Table"
+msgstr "Rodomas kainų lentelėje"
+
+#: includes/modules/pricing/functions-part-payments.php:555
+msgid ""
+"Appears in the Pricing Table when the Final Payment method is set to 'Cash "
+"on Arrival'"
+msgstr ""
+"Rodomas kainų lentelėje, kai galutinio mokėjimo būdas nustatytas į "
+"„Grynaisiais pinigais atvykus“"
+
+#: includes/modules/pricing/functions-part-payments.php:560
+msgid ""
+"Appears in the Pricing Table when the Final Payment method is set to 'Same "
+"as initial payment'"
+msgstr ""
+"Rodomas kainų lentelėje, kai galutinio mokėjimo būdas nustatytas į „Tas pats "
+"kaip ir pradinis mokėjimas“"
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:28
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:32
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:36
+msgid "Appears in the pricing table."
+msgstr "Rodomas kainų lentelėje."
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:16
+msgid "Appears on the payment screen."
+msgstr "Atsiranda mokėjimo ekrane."
+
+#: includes/modules/pricing/functions-part-payments.php:115
+msgid "Applicability"
+msgstr "Pritaikomumas"
+
+#: includes/modules/pricing/functions-pricing.php:102
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:145
+msgid "Applicable Period"
+msgstr "Taikomas Laikotarpis"
+
+#: includes/modules/pricing/functions-part-payments.php:102
+msgid "Applicable period"
+msgstr "Taikomas laikotarpis"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:28
+msgid "Apply Changes"
+msgstr "Taikyti pakeitimus"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:130
+msgid "Apply tax to"
+msgstr "Taikyti mokesčius"
+
+#: includes/base/class-widget-overview-calendar.php:184
+#: includes/base/class-widget-calendar.php:264
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:108
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:97
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:51
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:29
+msgid "April"
+msgstr "Balandis"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:249
+msgid "Are you sure you want to delete this calendar?"
+msgstr "Ar tikrai norite ištrinti šį kalendorių?"
+
+#: includes/base/admin/form/class-list-table-forms.php:229
+msgid "Are you sure you want to delete this form?"
+msgstr "Ar tikrai norite ištrinti šią formą?"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:196
+msgid "Are you sure you want to delete this legend item?"
+msgstr "Ar tikrai norite ištrinti šį įrašo elementą?"
+
+#: includes/base/admin/backup/views/view-backup.php:65
+msgid "Are you sure you want to import data from the file?"
+msgstr "Ar tikrai norite importuoti duomenis iš failo?"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:431
+msgid "Are you sure you want to refresh this iCal feeds?"
+msgstr "Ar tikrai norite atnaujinti šiuos „iCal“ kanalus?"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:300
+msgid "Are you sure you want to remove this iCal URL?"
+msgstr "Ar tikrai norite pašalinti šį „iCal“ URL?"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:109
+msgid ""
+"Are you sure you want to reset the iCalendar feed link for this calendar?"
+msgstr ""
+"Ar tikrai norite iš naujo nustatyti šio kalendoriaus „iCalendar“ "
+"informacijos santraukos nuorodą?"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:238
+msgid "Are you sure you want to send this calendar to the trash?"
+msgstr "Ar tikrai norite nusiųsti šį kalendorių į šiukšliadėžę? "
+
+#: includes/base/admin/form/class-list-table-forms.php:218
+msgid "Are you sure you want to send this form to the trash?"
+msgstr "Ar tikrai norite nusiųsti šią formą į šiukšliadėžę?"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:189
+msgid "Ascending"
+msgstr "Kylantis"
+
+#: includes/base/class-widget-overview-calendar.php:188
+#: includes/base/class-widget-calendar.php:268
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:112
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:101
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:55
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:33
+msgid "August"
+msgstr "Rugpjūtis"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:418
+msgid "Authorized"
+msgstr "Autorizuotas"
+
+#: includes/base/class-widget-overview-calendar.php:253
+#: includes/base/class-widget-calendar.php:247
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:128
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:162
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:68
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:46
+msgid "Auto (let WP choose)"
+msgstr "Automatinis (leisti pasirinkti WP)"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:81
+msgid "Auto Accept as"
+msgstr "Automatiškai Priimti kaip"
+
+#: includes/base/admin/booking/views/view-add-booking.php:56
+msgid "Auto Accept Booking"
+msgstr "Automatiškai Priimti Rezervaciją"
+
+#: includes/base/class-widget-calendar.php:367
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:294
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:247
+msgid "Auto Accept Bookings"
+msgstr "Automatinis Užsakymų priėmimas"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:91
+#, php-format
+msgid "Auto Accept for %s was updated."
+msgstr "Automatinis Priėmimas dėl %s buvo atnaujintas."
+
+#: includes/base/admin/addons/functions.php:161
+msgid "Automatically email your customers to remind them about their bookings."
+msgstr ""
+"Automatiškai siųskite el. laišką savo klientams, kad primintumėte apie jų "
+"užsakymus."
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:62
+msgid ""
+"Automatically fill in the event description field when a booking is made. "
+"You can use Email Tags to populate with dynamic form values, eg. '{1:Your "
+"Name}'. This only works if the Auto Accept option is enabled."
+msgstr ""
+"Užsakymo metu automatiškai užpildykite įvykio aprašymo laukelį. El. pašto "
+"žymas galite naudoti norėdami užpildyti dinamines formos reikšmes, pvz. '{1:"
+"Your Name}' - (Jūsų Vardas). Tai veikia tik jei įjungta parinktis "
+"Automatinis priėmimas."
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:75
+msgid ""
+"Automatically fill in the event tooltip field when a booking is made. You "
+"can use Email Tags to populate with dynamic form values, eg. '{1:Your Name}'."
+" This only works if the Auto Accept option is enabled."
+msgstr ""
+"Užsakymo metu automatiškai užpildykite įvykio patarimo lauką. El. pašto "
+"žymas galite naudoti norėdami užpildyti dinamines formos reikšmes, pvz. '{1:"
+"Your Name}' - (Jūsų Vardas). Tai veikia tik jei įjungta parinktis "
+"Automatinis priėmimas."
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:173
+msgid "Automatically Load"
+msgstr "Automatiškai įkelti"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:174
+msgid ""
+"Automatically load the contents of an email template in the email form, "
+"wihtout having to select it from the dropdown."
+msgstr ""
+"Automatiškai įkelkite el. laiško šablono turinį į el. pašto formą, "
+"nepasirinkdami jo išskleidžiamajame meniu."
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:262
+msgid "Availability"
+msgstr "Prieinamumas"
+
+# nevercia
+#: includes/base/legend/functions.php:202
+msgid "Available"
+msgstr "Laisvasss"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:56
+msgid "Back to all calendars"
+msgstr "Atgal į visus kalendorius"
+
+#: includes/base/admin/form/views/view-edit-form.php:64
+msgid "Back to all forms"
+msgstr "Atgal į visas Formas"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:20
+#: includes/base/admin/calendar/views/view-ical-import-export.php:27
+#: includes/base/admin/calendar/views/view-legend.php:18
+msgid "Back to Calendar"
+msgstr "Grįžti į Kalendorių"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:46
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:157
+msgid "Back to Legend"
+msgstr "Atgal į Įrašus"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:71
+msgid "Backend Start Day"
+msgstr "Posistemės pradžios diena"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:47
+#: includes/base/admin/settings/views/view-settings-tab-form.php:61
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: includes/base/admin/backup/functions.php:40
+#: includes/base/admin/backup/functions.php:41
+#: includes/base/admin/backup/views/view-backup.php:11
+msgid "Backup/Restore"
+msgstr "Atsarginės kopijos/Atsarginės kopijos atkūrimas"
+
+#: includes/modules/pricing/functions-bank-transfer.php:18
+#: includes/modules/pricing/functions-bank-transfer.php:30
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:5
+msgid "Bank Transfer"
+msgstr "Banko pervedimas"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:87
+msgid "Bank Transfer Payment Instructions"
+msgstr "Mokėjimo banko pavedimu instrukcijos"
+
+#: includes/base/admin/form/functions.php:71
+msgid "Basic Form Elements"
+msgstr "Pagrindiniai formos elementai"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:42
+msgid "Basic Options"
+msgstr "Pagrindinės parinktys"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:75
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:59
+#: includes/base/admin/booking/views/view-modal-email-customer.php:30
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:79
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:89
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:99
+msgid "BCC"
+msgstr "BCC"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:80
+msgid "Bookable"
+msgstr "Galima Rezervuoti"
+
+#: includes/base/legend/functions.php:210
+msgid "Booked"
+msgstr "Užimtasss"
+
+#: includes/base/admin/form/functions.php:517
+#: includes/base/admin/form/functions.php:584
+msgid "Booked On"
+msgstr "Rezervuota"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:208
+msgid "Booked on"
+msgstr "Rezervuota"
+
+#: includes/base/admin/booking/views/view-modal.php:4
+msgid "Booking #"
+msgstr "Rezervavimas"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:24
+msgid "Booking Accept/Delete Email"
+msgstr "Priimti Rezervaciją/ Ištrinti El. Laišką"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:23
+msgid "Booking Custom Email"
+msgstr "Rezervavimo Individualus El. paštas"
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:5
+msgid "Booking Data"
+msgstr "Rezervacijos data"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:79
+msgid "Booking Details"
+msgstr "Detali rezervacija"
+
+#: includes/base/class-widget-calendar.php:429
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:373
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:299
+msgid "Booking End Day"
+msgstr "Užsakymo Pabaigos Diena"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:26
+msgid "Booking History Color"
+msgstr "Užsakymo Istorijos Spalva"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:37
+msgid "Booking Hover Color"
+msgstr "Užsakymo spalva užvedus pelytę"
+
+#: includes/base/admin/form/functions.php:516
+#: includes/base/admin/form/functions.php:572
+#: includes/base/admin/booking/class-booking-detail-outputter.php:178
+msgid "Booking ID"
+msgstr "Užsakymo ID"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:48
+msgid "Booking Selection Color"
+msgstr "Užsakymo pasirinkimo spalva"
+
+#: includes/base/class-widget-calendar.php:413
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:355
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:290
+msgid "Booking Start Day"
+msgstr "Užsakymo Pradžios Diena"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:124
+msgid "Booking successfully deleted."
+msgstr "Užsakymas sėkmingai ištrintas."
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:87
+#: includes/modules/upgrader/views/view-upgrader.php:54
+#: includes/base/admin/calendar/views/view-edit-calendar.php:93
+msgid "Bookings"
+msgstr "Rezervacijos"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:453
+msgid "bookings"
+msgstr "užsakymai"
+
+#: includes/base/class-widget-overview-calendar.php:170
+#: includes/base/class-widget-calendar.php:196
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:59
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:67
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:67
+msgid "Bottom"
+msgstr "Apačia"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:439
+msgid "Bulk Edit"
+msgstr "Masinis Redagavimas"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:347
+msgid "Bulk Edit Availability"
+msgstr "Masinio Redagavimo Prieinamumas"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:12
+msgid "Bulk Edit Dates"
+msgstr "Masinis datų redagavimas"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:58
+msgid "Button Hover Style"
+msgstr "Užvedimo ant Mygtuko Stilius"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:44
+msgid "Button Style"
+msgstr "Mygtuko Stilius"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:28
+msgid ""
+"By default we use our own styling to make sure everything looks fine. You "
+"can select 'Theme Styling' to disable the output of our custom CSS."
+msgstr ""
+"Pagal numatytuosius nustatymus naudojame savo pačių stilių, kad įsitikintume,"
+" jog viskas atrodo gerai. Galite pasirinkti „Temos stilius“, kad "
+"išjungtumėte mūsų CSS išvestį."
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:156
+msgid ""
+"By default, the scripts and styles required by the plugin are loaded on all "
+"pages. By enabling this option, the scripts and styles will only be enqueued "
+"on the pages you select below. Please note that this option may not work "
+"well on websites that use AJAX to navigate between pages."
+msgstr ""
+"Pagal numatytuosius nustatymus įskiepiui reikalingi scenarijai ir stiliai "
+"įkeliami visuose puslapiuose. Įjungus šią parinktį, scenarijai ir stiliai "
+"bus įrašyti tik į toliau pasirinktų puslapių eilę. Atminkite, kad ši "
+"parinktis gali neveikti svetainėse, kuriose naršyti puslapiuose naudojamas "
+"AJAX."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:118
+msgid "Calculation"
+msgstr "Skaičiavimas"
+
+#: includes/base/class-widget-calendar.php:160
+#: includes/base/admin/booking/class-booking-detail-outputter.php:185
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:16
+#: includes/base/admin/calendar/views/view-edit-calendar.php:321
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:98
+msgid "Calendar"
+msgstr "Kalendorius"
+
+#: includes/modules/pricing/functions-part-payments.php:93
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:135
+msgid "Calendar and Form Prices"
+msgstr "Kalendoriaus ir Formų Kainos"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:34
+msgid "Calendar created successfully."
+msgstr "Kalendorius sėkmingai sukurtas."
+
+#: includes/modules/facetwp/functions-integration-facet-wp.php:21
+msgid "Calendar Dates"
+msgstr "Kalendoriaus Datos"
+
+#: includes/base/class-shortcodes.php:168
+msgid "Calendar does not exist."
+msgstr "Kalendoriaus neegzistuoja."
+
+#: includes/modules/upgrader/views/view-upgrader.php:52
+msgid "Calendar Events"
+msgstr "Kalendoriaus įvykiai"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:49
+msgid "Calendar has been successfully deleted."
+msgstr "Kalendorius sėkmingai ištrintas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:127
+msgid "Calendar has been successfully duplicated."
+msgstr "Kalendorius sėkmingai nukopijuotas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:46
+msgid "Calendar has been successfully restored."
+msgstr "Kalendorius sėkmingai atkurtas."
+
+#: includes/base/admin/calendar/views/view-csv-export.php:16
+#: includes/base/admin/calendar/views/view-ical-import-export.php:23
+#: includes/base/admin/calendar/views/view-legend.php:13
+#: includes/base/admin/calendar/views/view-edit-calendar.php:50
+#, php-format
+msgid "Calendar ID: %d"
+msgstr "Kalendorius ID: %d"
+
+#: includes/base/admin/calendar/views/view-legend.php:13
+msgid "Calendar Legend"
+msgstr "Kalendoriaus Įrašai"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:316
+#: includes/base/admin/calendar/views/view-add-calendar.php:32
+msgid "Calendar Name"
+msgstr "Kalendoriaus pavadinimas"
+
+#: includes/base/admin/booking/views/view-add-booking.php:17
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:7
+msgid "Calendar Options"
+msgstr "Kalendoriaus parinktys"
+
+#: includes/modules/pricing/functions-part-payments.php:94
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:136
+msgid "Calendar Price Only"
+msgstr "Tik Kalendoriaus Kaina"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:8
+msgid "Calendar Selection"
+msgstr "Kalendoriaus Pasirinkimas"
+
+#: includes/base/admin/booking/views/view-add-booking.php:41
+msgid "Calendar Selection Style"
+msgstr "Kalendoriaus Pasirinkimo Stilius"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:43
+msgid "Calendar successfully moved to Trash."
+msgstr "Kalendorius sėkmingai perkeltas į šiukšliadėžę."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:37
+msgid "Calendar updated successfully."
+msgstr "Kalendorius sėkmingai atnaujintas."
+
+#: includes/modules/pricing/functions-part-payments.php:131
+#: includes/base/admin/calendar/functions.php:88
+#: includes/base/admin/calendar/functions.php:89
+#: includes/modules/upgrader/views/view-upgrader.php:51
+#: includes/base/admin/calendar/views/view-calendars.php:11
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:201
+msgid "Calendars"
+msgstr "Kalendoriai"
+
+#: includes/base/admin/form/views/view-add-form.php:36
+#: includes/base/admin/booking/views/view-modal-booking-details.php:39
+#: includes/base/admin/booking/views/view-modal-booking-details.php:83
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:411
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:186
+#: includes/base/admin/calendar/views/view-add-calendar.php:63
+#: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:60
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: includes/modules/pricing/functions-part-payments.php:153
+#: includes/modules/pricing/functions-part-payments.php:426
+msgid "Cash on arrival"
+msgstr "Grynieji pinigai atvykus"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:67
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:51
+#: includes/base/admin/booking/views/view-modal-email-customer.php:22
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:71
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:81
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:91
+msgid "CC"
+msgstr "CC"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:318
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:270
+msgid ""
+"Change the way the selection of dates looks. Normal will highlight days "
+"entirely, while Split will make the first and last day of the selection "
+"appear as half days."
+msgstr ""
+"Pakeiskite datų pasirinkimo išvaizdą. Įprasta paryškins visas dienas, o "
+"Padalinta pirmoji ir paskutinė pasirinkimo diena bus rodoma kaip pusė dienų."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:306
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:261
+msgid "Change the way the visitor selects dates in the calendar."
+msgstr "Pakeiskite, kaip lankytojas pasirenka datas kalendoriuje."
+
+#: includes/base/legend/functions.php:218
+msgid "Changeover 1"
+msgstr "Keitimas 1"
+
+#: includes/base/legend/functions.php:226
+msgid "Changeover 2"
+msgstr "Keitimas 2"
+
+#: includes/modules/update-checker/views/view-register-website.php:37
+msgid "Check for Updates"
+msgstr "Tikrinti, ar yra atnaujinimų"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:183
+msgid "Check-in date"
+msgstr "Įsiregistravimo data"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:184
+msgid "Check-out date"
+msgstr "Išsiregistravimo data"
+
+#: includes/base/admin/form/functions.php:255
+msgid "Checkbox Label"
+msgstr "Žymės laukelis Etiketė"
+
+#: includes/base/admin/form/functions.php:256
+msgid "Checkbox Link"
+msgstr "Žymės laukelio Nuoroda"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:167
+msgid ""
+"Choose to apply the tax only if the start date is contained in the "
+"Applicable Period, or the entire date selection is contained in the "
+"Applicable Period."
+msgstr ""
+"Pasirinkite taikyti mokestį tik tuo atveju, jei pradžios data įtraukta į "
+"Taikomą laikotarpį arba visas datos pasirinkimas yra įtrauktas į Taikomą "
+"laikotarpį."
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:25
+msgid "Classic Reminder"
+msgstr "Klasikinis Priminimas"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:441
+msgid ""
+"Clicking the \"Undo\" link will undo the last bulk edit action you have made,"
+" just in case you have made a mistake."
+msgstr ""
+"Spustelėjus nuorodą „Anuliuoti“, bus anuliuotas paskutinis masinio "
+"redagavimo veiksmas, jei netyčia suklydote."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:42
+msgid "Code (eg. USD, GBP)"
+msgstr "Kodas (pvz., USD, GBP)"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:76
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:81
+msgid "Color"
+msgstr "Spalva"
+
+#: includes/modules/pricing/functions-part-payments.php:199
+msgid "Confirmation Message"
+msgstr "Patvirtinimo Žinutė"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:22
+msgid "Confirmation Type"
+msgstr "Patvirtinimo tipas"
+
+#: includes/modules/upgrader/views/view-upgrader.php:75
+msgid "Continue to plugin"
+msgstr "Tęsti į įskiepį"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:80
+msgid ""
+"Controls wether or not the visitor can book the date using this legend item."
+msgstr ""
+"Kontroliuoja, ar lankytojas gali rezervuoti datą naudodamas šį įrašo "
+"elementą."
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:52
+#, php-format
+msgid "Copy from calendar #%d (%s)"
+msgstr "Kopijuoti iš kalendoriaus #%d (%s)"
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:47
+msgid "Copy Legend"
+msgstr "Kopijuoti Įrašą"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:5
+msgid ""
+"Create a calendar overview that displays all selected calendars and their "
+"availability"
+msgstr ""
+"Sukurkite kalendoriaus apžvalgą, kurioje būtų rodomi visi pasirinkti "
+"kalendoriai ir jų užimtumas"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:164
+msgid ""
+"Create default email templates you can re-use everytime you send an email "
+"from the Booking Manager. You can also include general email tags which are "
+"not related to forms, like {Start Date} or {Booking ID}."
+msgstr ""
+"Sukurkite numatytuosius el. pašto šablonus, kuriuos galėsite pakartotinai "
+"naudoti kiekvieną kartą, kai išsiųsite el. laišką iš Rezervacijų tvarkyklės. "
+"Taip pat galite įtraukti bendrąsias el. pašto žymas, nesusijusias su "
+"formomis, pvz., {Start Date} arba {Booking ID}."
+
+#: includes/base/admin/addons/functions.php:185
+msgid ""
+"Create discounts and coupon codes that are applied to the checkout form "
+"based on specific conditions."
+msgstr ""
+"Sukurkite nuolaidas ir kuponų kodus, kurie taikomi atsiskaitymo formai pagal "
+"konkrečias sąlygas."
+
+#: includes/base/admin/backup/views/view-backup.php:21
+msgid "Create export file"
+msgstr "Sukurti eksporto failą"
+
+#: includes/base/admin/addons/functions.php:230
+msgid "Create PDF contracts or agreements and email them to your customers."
+msgstr ""
+"Sukurkite PDF sutartis ar susitarimus ir išsiųskite juos savo klientams el. "
+"paštu."
+
+#: includes/base/admin/addons/functions.php:196
+msgid "Creates a dashboard with reports and statistics for your bookings."
+msgstr ""
+"Sukuria informacijos suvestinę su jūsų užsakymų ataskaitomis ir statistika."
+
+#: includes/base/admin/calendar/views/view-csv-export.php:16
+#: includes/base/admin/calendar/views/view-edit-calendar.php:504
+#: includes/base/admin/calendar/views/view-edit-calendar.php:510
+msgid "CSV Export"
+msgstr "CSV eksportavimas"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:6
+msgid "Currency"
+msgstr "Valiuta"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:37
+msgid "Currency Format"
+msgstr "Valiutos Formatas"
+
+#: includes/base/class-widget-overview-calendar.php:180
+#: includes/base/class-widget-calendar.php:260
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:104
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:93
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:47
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:25
+msgid "Current Month"
+msgstr "Šis Mėnuo"
+
+#: includes/base/class-widget-overview-calendar.php:201
+#: includes/base/class-widget-calendar.php:281
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:89
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:78
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:40
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:18
+msgid "Current Year"
+msgstr "Šie Metai"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:106
+msgid "Custom"
+msgstr "Pasirinktinis"
+
+#: includes/modules/pricing/functions-pricing.php:99
+msgid "Custom \"Total\" Label"
+msgstr "Pasirinktinė Etiketė „Iš viso“."
+
+#: includes/base/admin/form/functions.php:234
+msgid "Custom Class"
+msgstr "Pasirinktinė klasė"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:105
+msgid "Daily"
+msgstr "Kasdien"
+
+#: includes/base/admin/backup/class-submenu-page-backup.php:30
+msgid "Data from the file has been imported successfully."
+msgstr "Duomenys iš failo buvo sėkmingai importuoti."
+
+#: includes/modules/tools/views/view-tools.php:18
+#| msgid "Data related to versions lower than version 2 will not be removed."
+msgid "Data related to versions lower than version 5 will not be removed."
+msgstr ""
+"Duomenys, susiję su senesnDuomenys, susiję su senesne nei 5 versija, nebus "
+"pašalinti.e nei 2 versija, nebus pašalinti."
+
+#: includes/modules/pricing/functions-payment-on-arrival.php:143
+#: includes/modules/pricing/functions-bank-transfer.php:142
+#: includes/base/admin/booking/class-bookings-outputter.php:182
+msgid "Date"
+msgstr "Data"
+
+#: includes/base/admin/form/class-list-table-forms.php:87
+#: includes/base/admin/calendar/class-list-table-calendars.php:88
+msgid "Date Created"
+msgstr "Sukūrimo data"
+
+#: includes/base/admin/form/functions.php:239
+msgid "Date Format"
+msgstr "Datos Formatas"
+
+#: includes/base/admin/form/class-list-table-forms.php:88
+#: includes/base/admin/calendar/class-list-table-calendars.php:89
+msgid "Date Modified"
+msgstr "Modifikavimo data"
+
+#: includes/base/class-widget-calendar.php:380
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:309
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:260
+msgid "Date Range"
+msgstr "Datos Diapazonas"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:73
+msgid "date, legend, description"
+msgstr "data, įrašas, aprašymas"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:68
+msgid "days before the booking starts"
+msgstr "dienos iki užsakymo pradžios"
+
+#: includes/modules/pricing/functions-part-payments.php:107
+msgid "days from the current date"
+msgstr "dienos nuo dabartinės datos"
+
+#: includes/base/class-widget-overview-calendar.php:192
+#: includes/base/class-widget-calendar.php:272
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:116
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:105
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:59
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:37
+msgid "December"
+msgstr "Gruodis"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:78
+msgid "Default"
+msgstr "Numatytas"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:86
+msgid "Default \"BCC\""
+msgstr "Numatytas \"BCC\""
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:77
+msgid "Default \"CC\""
+msgstr "Numatytas \"BCC\""
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:59
+msgid "Default \"From Email\""
+msgstr "Numatytas „Iš el. pašto“"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:50
+msgid "Default \"From Name\""
+msgstr "Numatytas „Nuo vardo“"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:68
+msgid "Default \"Reply To\""
+msgstr "Numatytas „Atsakyti“"
+
+#: includes/modules/pricing/functions-pricing.php:364
+msgid "Default Price"
+msgstr "Numatytoji Kaina"
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:37
+msgid "Default price"
+msgstr "Numatytoji kaina"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:27
+msgid "Default Styling"
+msgstr "Numatytas Stilius"
+
+#: includes/base/admin/form/functions.php:232
+#: includes/base/admin/form/functions.php:233
+msgid "Default Value"
+msgstr "Numatytoji reikšmė"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:196
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:189
+msgid "Delete Booking"
+msgstr "Ištrinti rezervaciją"
+
+#: includes/base/admin/booking/functions-ajax.php:388
+#: includes/base/admin/booking/views/view-modal-notes.php:24
+msgid "delete note"
+msgstr "ištrinti pastabą"
+
+#: includes/base/admin/form/class-list-table-forms.php:229
+#: includes/base/admin/calendar/class-list-table-calendars.php:249
+msgid "Delete Permanently"
+msgstr "Ištrinti visam laikui"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:82
+#: includes/base/admin/calendar/class-list-table-calendars.php:294
+msgid "Deleted"
+msgstr "Ištrinta"
+
+#: includes/modules/pricing/functions-part-payments.php:362
+#: includes/modules/pricing/functions-part-payments.php:410
+#: includes/modules/pricing/functions-part-payments.php:525
+msgid "Deposit"
+msgstr "Depozitas"
+
+#: includes/modules/pricing/functions-part-payments.php:70
+msgid "Deposit amount"
+msgstr "Depozito suma"
+
+#: includes/modules/pricing/functions-part-payments.php:549
+msgid "Deposit Label"
+msgstr "Depozito Etiketė"
+
+#: includes/modules/pricing/functions-part-payments.php:956
+msgid "Deposit Only Option"
+msgstr "Tik Depozito Galimybė"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:436
+msgid "Deposit Paid"
+msgstr "Depozitas Sumokėtas"
+
+#: includes/modules/pricing/functions-part-payments.php:88
+msgid "Deposit source"
+msgstr "Depozito Šaltinis"
+
+#: includes/modules/pricing/functions-part-payments.php:56
+msgid "Deposit type"
+msgstr "Depozito Tipas"
+
+#: includes/modules/update-checker/views/view-register-website.php:23
+msgid "Deregister Website"
+msgstr "Išregistruoti Interneto Svetainę"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:190
+msgid "Descending"
+msgstr "Mažėjantis"
+
+#: includes/base/admin/form/functions.php:235
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:267
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:21
+#: includes/base/admin/calendar/views/view-edit-calendar.php:416
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:55
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:55
+msgid "Description"
+msgstr "Aprašymas"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:205
+msgid "Description Import"
+msgstr "Importo Aprašymas"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:102
+msgid "Disable Fancy Emails"
+msgstr "Išjungti įmantrius el. laiškus"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:259
+msgid "Disable iCalendar Links"
+msgstr "Išjungti „iCalendar“ nuorodas"
+
+#: includes/base/class-widget-overview-calendar.php:214
+#: includes/base/class-widget-calendar.php:294
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:200
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:124
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:201
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:92
+msgid "Display booking history"
+msgstr "Rodyti rezervacijų istoriją"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:30
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:114
+msgid "Display Calendar Title"
+msgstr "Rodyti kalendoriaus pavadinimą"
+
+#: includes/base/class-widget-overview-calendar.php:134
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:17
+msgid "Display Calendars"
+msgstr "Rodyti Kalendorius"
+
+#: includes/base/class-widget-calendar.php:202
+msgid "Display dropdown?"
+msgstr "Rodyti išskleidžiamąjį meniu?"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:42
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:51
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:122
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:55
+msgid "Display Legend"
+msgstr "Rodyti Įrašą"
+
+#: includes/base/class-widget-overview-calendar.php:156
+#: includes/base/class-widget-calendar.php:181
+msgid "Display legend"
+msgstr "Rodyti įrašą"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:27
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:27
+msgid "Display name"
+msgstr "Rodyti pavadinimą"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:173
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:178
+msgid "Display Selection Dropdown"
+msgstr "Rodyti pasirinkimo išskleidžiamasis meniu"
+
+#: includes/base/class-widget-calendar.php:171
+msgid "Display title"
+msgstr "Rodyti pavadinimą"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:215
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:134
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:209
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:100
+msgid "Display Tooltips"
+msgstr "Rodyti patarimus"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:216
+msgid "Do not import the description"
+msgstr "Neimportuokite aprašymo"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:53
+msgid "Do not include the &lt;script&gt; tags."
+msgstr "Neįtraukite &lt;skripto&gt; žymių."
+
+#: includes/base/admin/backup/views/view-backup.php:34
+msgid "Download Export File"
+msgstr "Atsisiųskite eksporto failą"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:237
+msgid "Duplicate Calendar"
+msgstr "Kalendoriaus Kopija"
+
+#: includes/base/admin/form/class-list-table-forms.php:217
+msgid "Duplicate form"
+msgstr "Formos Kopija"
+
+#: includes/base/admin/form/functions-actions-form.php:391
+#: includes/base/admin/calendar/functions-actions-calendar.php:400
+msgid "Duplicate of"
+msgstr "Kopija"
+
+#: includes/base/admin/form/functions.php:237
+msgid "Dynamic Population"
+msgstr "Dinaminis Gyventojų Skaičius"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:42
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:30
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:3
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:56
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:56
+msgid "Dynamic Tags"
+msgstr "Dinaminės žymos"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:193
+#: includes/base/admin/booking/views/view-modal-booking-details.php:32
+#: includes/base/admin/booking/views/view-modal-booking-details.php:80
+#: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:53
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:235
+#: includes/base/admin/calendar/views/view-edit-calendar.php:50
+msgid "Edit Calendar"
+msgstr "Koreguoti kalendorių"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:236
+msgid "Edit Calendar Legend"
+msgstr "Redaguoti Kalendoriaus Įrašus"
+
+#: includes/base/admin/booking/views/view-add-booking.php:12
+msgid "Edit Calendar Options"
+msgstr "Redaguoti Kalendoriaus Parinktis"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:119
+msgid "Edit Dates"
+msgstr "Koreguoti datas"
+
+#: includes/base/admin/form/views/view-edit-form.php:58
+msgid "Edit Form"
+msgstr "Redaguoti Formą"
+
+#: includes/base/admin/form/class-list-table-forms.php:216
+msgid "Edit form"
+msgstr "Redaguoti formą"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:6
+msgid "Edit Legend Item"
+msgstr "Redaguoti Įrašo Elementą"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:481
+msgid "Edit Legend Items"
+msgstr "Koreguoti įrašus"
+
+#: includes/modules/pricing/functions-pricing.php:710
+msgid "edit order"
+msgstr "redaguoti užsakymą"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:3
+msgid "Edit the calendar availability"
+msgstr "Redaguoti kalendoriaus užimtumą"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:49
+msgid "Email"
+msgstr "El. paštas"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:80
+msgid "Email Customer"
+msgstr "El. paštu Klientui"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:95
+msgid "Email Customization"
+msgstr "El. pašto Pritaikymas"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:151
+msgid "Email Footer"
+msgstr "El. pašto Poraštė"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:81
+#| msgid "Email Tags"
+msgid "Email Logs"
+msgstr "El. pašto žurnalai"
+
+#: includes/base/admin/form/class-submenu-page-form.php:62
+msgid "Email Notifications"
+msgstr "El. pašto Pranešimai"
+
+#: includes/modules/pricing/functions-part-payments.php:184
+#: includes/base/admin/booking/class-booking-detail-outputter.php:248
+msgid "Email Reminder"
+msgstr "El. pašto Priminimas"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:23
+msgid "Email Settings"
+msgstr "El. pašto Nustatymai"
+
+#: includes/base/admin/booking/functions-ajax.php:78
+msgid "Email successfully sent."
+msgstr "El. laiškas sėkmingai išsiųstas."
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:197
+msgid "Email Template #"
+msgstr "El. pašto šablonas #"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:6
+msgid "Email Type"
+msgstr "El. pašto Tipas"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:250
+#: includes/base/admin/booking/class-booking-detail-outputter.php:271
+#: includes/base/admin/booking/class-booking-detail-outputter.php:293
+msgid "Email will be sent only if the booking is Accepted."
+msgstr "El. laiškas bus išsiųstas tik tuo atveju, jei užsakymas bus priimtas."
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:29
+msgid "Enable Email Logging"
+msgstr "Įgalinti El. pašto Registravimą"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:261
+msgid "Enable iCalendar Links"
+msgstr "Įgalinti „iCalendar“ nuorodas"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:26
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:14
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:40
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:40
+msgid "Enable Notification"
+msgstr "Įgalinti pranešimą"
+
+#: includes/modules/pricing/functions-part-payments.php:38
+msgid "Enable Part Payments"
+msgstr "Įgalinti Dalinius Mokėjimus"
+
+#: includes/modules/pricing/functions-pricing.php:23
+msgid "Enable Pricing"
+msgstr "Įgalinti Kainodarą"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:29
+msgid "Enable Taxes"
+msgstr "Įgalinti mokesčius"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:233
+msgid "Enable VAT"
+msgstr "Įgalinti PVM"
+
+#: includes/modules/pricing/functions-pricing.php:24
+msgid ""
+"Enabling this option will allow you to add prices to calendar dates, add a "
+"price calculator to the form and enable the \"Payment on Arrival\" and "
+"\"Bank Transfer\" payment methods."
+msgstr ""
+"Įjungus šią parinktį, galėsite pridėti kainas prie kalendorinių datų, į "
+"formą įtraukti kainų skaičiuoklę ir įjungti mokėjimo būdus „Mokėjimas "
+"atvykus“ ir „Banko pavedimas“."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:227
+msgid ""
+"Enabling this will deduct the VAT percentage from all your prices and add it "
+"back to the pricing table after the Subtotal is displayed."
+msgstr ""
+"Įgalinus tai, PVM procentas bus išskaičiuotas iš visų kainų ir vėl įtrauktas "
+"į kainodaros lentelę, kai bus parodyta tarpinė suma."
+
+#: includes/base/admin/form/functions.php:519
+#: includes/base/admin/form/functions.php:580
+#: includes/base/admin/booking/class-booking-detail-outputter.php:201
+#: includes/base/admin/calendar/views/view-edit-calendar.php:359
+msgid "End Date"
+msgstr "Pabaigos data"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:156
+msgid "End date"
+msgstr "Pabaigos data"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:314
+msgid "Ending Changeover"
+msgstr "Pakeitimo Pabaiga"
+
+#: includes/base/admin/form/functions.php:563
+msgid "Ending Day"
+msgstr "Pabaigos Diena"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:410
+#: includes/base/admin/booking/class-bookings-outputter.php:416
+msgid "Error"
+msgstr "Klaida"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:61
+msgid "Event Description"
+msgstr "Renginio Aprašymas"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:74
+msgid "Event Tooltip"
+msgstr "Įvykio Patarimas"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:41
+#: includes/base/admin/calendar/views/view-ical-import-export.php:48
+msgid "Export"
+msgstr "Eksportuoti"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:119
+msgid "Export CSV"
+msgstr "Eksportuoti CSV"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:68
+msgid "Export Format"
+msgstr "Eksporto Formatas"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:84
+msgid "Export Period"
+msgstr "Eksporto Laikotarpis"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:162
+msgid "External"
+msgstr "Išorinis"
+
+#: includes/base/class-widget-overview-calendar.php:182
+#: includes/base/class-widget-calendar.php:262
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:106
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:95
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:49
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:27
+msgid "February"
+msgstr "Vasaris"
+
+#: includes/modules/pricing/functions-part-payments.php:371
+#: includes/modules/pricing/functions-part-payments.php:417
+msgid "Final Payment"
+msgstr "Galutinis Mokėjimas"
+
+#: includes/modules/pricing/functions-part-payments.php:526
+msgid "Final Payment (on arrival)"
+msgstr "Galutinis Mokėjimas (atvykus)"
+
+#: includes/modules/pricing/functions-part-payments.php:554
+msgid "Final Payment (on arrival) Label"
+msgstr "Galutinis Mokėjimas (atvykus) Etiketė"
+
+#: includes/modules/pricing/functions-part-payments.php:559
+msgid "Final Payment (online) Label"
+msgstr "Galutinis Mokėjimas (internetu) Etiketė"
+
+#: includes/modules/pricing/functions-part-payments.php:527
+msgid "Final Payment (online, before arrival)"
+msgstr "Galutinis Mokėjimas (internetu, prieš atvykstant)"
+
+#: includes/modules/pricing/functions-part-payments.php:147
+msgid "Final Payment Method"
+msgstr "Galutinis Mokėjimo Būdas"
+
+#: includes/modules/pricing/functions-part-payments.php:161
+msgid "Final Payment Options"
+msgstr "Galutinės Mokėjimo Parinktys"
+
+#: includes/modules/pricing/form/functions.php:29
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:33
+msgid "Final Payment Reminder Notification"
+msgstr "Paskutinio Mokėjimo Priminimas"
+
+#: includes/modules/pricing/form/functions.php:30
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:33
+msgid "Final Payment Success Notification"
+msgstr "Pranešimas Apie Sėkmingą Mokėjimą"
+
+#: includes/modules/upgrader/views/view-upgrader.php:56
+msgid "Finished"
+msgstr "Baigta"
+
+#: includes/modules/upgrader/views/view-upgrader.php:48
+msgid "Finishing up..."
+msgstr "Baigiama..."
+
+#: includes/modules/pricing/functions-part-payments.php:62
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:89
+msgid "Fixed Amount"
+msgstr "Nustatyta Suma"
+
+#: includes/modules/pricing/functions-pricing.php:103
+msgid "Fixed Date - Only between the selected dates"
+msgstr "Fiksuota Data – Tik tarp pasirinktų datų"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:26
+msgid "Follow Up"
+msgstr "Sekti"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:269
+msgid "Follow up Email"
+msgstr "Sekti el. paštą"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:373
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:304
+msgid "Force the booking to end on a specific day."
+msgstr "Priverskite užsakymą baigti konkrečią dieną."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:355
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:295
+msgid "Force the booking to start on a specific day."
+msgstr "Priverskite užsakymą pradėti konkrečią dieną."
+
+#: includes/base/class-widget-calendar.php:355
+#: includes/base/admin/settings/class-submenu-page-settings.php:48
+#: includes/base/admin/booking/views/view-add-booking.php:25
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:279
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:106
+msgid "Form"
+msgstr "Forma"
+
+#: includes/base/admin/form/class-submenu-page-form.php:60
+#: includes/base/admin/form/views/view-edit-form-tab-form-builder.php:8
+msgid "Form Builder"
+msgstr "Formų kūrėjas"
+
+#: includes/base/admin/form/class-submenu-page-form.php:87
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:15
+msgid "Form Confirmation"
+msgstr "Formos patvirtinimas"
+
+#: includes/base/admin/form/class-submenu-page-form.php:30
+msgid "Form created successfully."
+msgstr "Forma sėkmingai sukurta."
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:47
+msgid "Form Data"
+msgstr "Formos duomenys"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:44
+msgid "Form Defaults"
+msgstr "Formos Numatytieji Nustatymai"
+
+#: includes/base/class-shortcodes.php:186
+msgid "Form does not exist."
+msgstr "Forma neegzistuoja."
+
+#: includes/base/admin/form/class-submenu-page-form.php:39
+msgid "Form has been successfully deleted."
+msgstr "Forma sėkmingai ištrinta."
+
+#: includes/base/admin/form/class-submenu-page-form.php:45
+msgid "Form has been successfully duplicated."
+msgstr "Forma sėkmingai nukopijuota."
+
+#: includes/base/admin/form/class-submenu-page-form.php:36
+msgid "Form has been successfully restored."
+msgstr "Forma sėkmingai atkurta."
+
+#: includes/base/admin/form/views/view-edit-form.php:58
+#, php-format
+msgid "Form ID: %d"
+msgstr "Forma ID: %d"
+
+#: includes/base/admin/form/views/view-add-form.php:29
+msgid "Form Name"
+msgstr "Formos pavadinimas"
+
+#: includes/base/admin/form/class-submenu-page-form.php:61
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:266
+msgid "Form Options"
+msgstr "Formos parinktys"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:137
+msgid "Form Price Only"
+msgstr "Tik Formos Kaina"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:22
+msgid "Form Settings"
+msgstr "Formos Nustatymai"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:71
+#: includes/base/admin/form/class-submenu-page-form.php:63
+#: includes/base/admin/settings/views/view-settings-tab-strings-form.php:10
+msgid "Form Strings"
+msgstr "Formų eilutės"
+
+#: includes/base/admin/form/class-submenu-page-form.php:33
+msgid "Form successfully moved to Trash."
+msgstr "Forma sėkmingai perkelta į šiukšliadėžę."
+
+#: includes/base/admin/form/functions.php:481
+msgid "Form Tags"
+msgstr "Formos Žymos"
+
+#: includes/base/admin/form/class-submenu-page-form.php:42
+msgid "Form updated successfully."
+msgstr "Forma sėkmingai atnaujinta."
+
+#: includes/base/admin/form/functions.php:50
+#: includes/base/admin/form/functions.php:51
+#: includes/modules/upgrader/views/view-upgrader.php:53
+#: includes/base/admin/form/views/view-forms.php:11
+msgid "Forms"
+msgstr "Formos"
+
+#: includes/base/functions.php:73 includes/base/class-widget-calendar.php:219
+#: includes/base/class-widget-calendar.php:421
+#: includes/base/class-widget-calendar.php:437
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:163
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:363
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:381
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:80
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:91
+msgid "Friday"
+msgstr "Penktadienis"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:94
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:78
+#: includes/base/admin/booking/views/view-modal-email-customer.php:49
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:98
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:108
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:118
+msgid "From Email"
+msgstr "Iš el. pašto"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:85
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:69
+#: includes/base/admin/booking/views/view-modal-email-customer.php:40
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:89
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:99
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:109
+msgid "From Name"
+msgstr "Iš Vardo"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:312
+msgid "Full Day"
+msgstr "Pilna Diena"
+
+#: includes/modules/pricing/functions-part-payments.php:953
+msgid "Full Payment Option"
+msgstr "Pilno Mokėjimo Parinktys"
+
+#: includes/base/admin/form/functions.php:249
+msgid "Full width"
+msgstr "Visas plotis"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:46
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:56
+msgid "General"
+msgstr "Bendrieji"
+
+#: includes/base/admin/form/class-submenu-page-form.php:86
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:10
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:18
+msgid "General Options"
+msgstr "Bendrosios Parinktys"
+
+#: includes/modules/pricing/settings/functions.php:40
+#: includes/base/admin/settings/views/view-settings-tab-general.php:21
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:1
+msgid "General Settings"
+msgstr "Bendrieji Nustatymai"
+
+#: includes/modules/upgrader/views/view-upgrader.php:55
+msgid "General settings"
+msgstr "Bendrieji nustatymai"
+
+#: includes/base/admin/form/functions.php:467
+msgid "General Tags"
+msgstr "Bendrosios Žymos"
+
+#: includes/base/admin/addons/functions.php:208
+msgid ""
+"Generate professional looking invoices and email them to your customers."
+msgstr ""
+"Kurkite profesionaliai atrodančias sąskaitas faktūras ir išsiųskite jas savo "
+"klientams el. paštu."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:5
+msgid "Give the customer the option to pay with cash on arrival."
+msgstr "Suteikite klientui galimybę atsiskaityti grynaisiais atvykus."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:5
+msgid ""
+"Give the customer the option to transfer money directly in your bank account."
+msgstr ""
+"Suteikite klientui galimybę pervesti pinigus tiesiai į jūsų banko sąskaitą."
+
+#: includes/modules/pricing/functions-part-payments.php:116
+msgid ""
+"Give the customer the possibility to choose if they want to pay a deposit or "
+"not. Applicable Period option is still applied in both cases."
+msgstr ""
+"Suteikite klientui galimybę pasirinkti, ar jis nori mokėti užstatą, ar ne. "
+"Abiem atvejais vis dar taikoma parinktis Taikomas laikotarpis."
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:72
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:89
+msgid "Group Events by Description"
+msgstr "Grupuokite įĮvykius pagal Aprašymą"
+
+#: includes/base/admin/form/functions.php:250
+msgid "Half width - Left"
+msgstr "Pusė pločio – kairė"
+
+#: includes/base/admin/form/functions.php:251
+msgid "Half width - Right"
+msgstr "Pusė pločio – Dešinė"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:70
+msgid "Hide Free Line Items"
+msgstr "Slėpti Laisvus Eilutės Elementus"
+
+#: includes/base/admin/form/functions.php:236
+msgid "Hide Label"
+msgstr "Slėpti Etiketę"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:71
+msgid "Hide line items that are equal to 0 from the pricing table."
+msgstr "Slėpti eilutes, kurios yra lygios 0 kainodaros lentelėje."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:178
+msgid "Hide past bookings"
+msgstr "Slėpti ankstesnes rezervacijas"
+
+#: includes/base/class-widget-calendar.php:333
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:228
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:221
+msgid "Highlight Today"
+msgstr "Paryškinti Šiandien"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:104
+msgid "Hourly"
+msgstr "Kas valandą"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:124
+msgid "Hours"
+msgstr "Valandos"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr "https://www.wpbookingsystem.com/"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:115
+msgid "iCal Custom Refresh Time"
+msgstr "iCal Pasirinktinis Atnaujinimo Laikas"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:112
+msgid "iCal events imported successfully into the calendar."
+msgstr "iCal įvykiai sėkmingai importuoti į kalendorių."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:115
+msgid "iCal feed URL added successfully."
+msgstr "iCal kanalo URL sėkmingai pridėtas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:118
+msgid "iCal feed URL removed successfully."
+msgstr "iCal kanalo URL sėkmingai pašalintas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:121
+msgid "iCal feeds refreshed successfully."
+msgstr "iCal kanalai sėkmingai atnaujinti."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:23
+#: includes/base/admin/calendar/views/view-edit-calendar.php:489
+#: includes/base/admin/calendar/views/view-edit-calendar.php:495
+msgid "iCal Import/Export"
+msgstr "iCal importas/eksportas"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:98
+msgid "iCal Refresh Times"
+msgstr "iCal Atnaujinimo Laikas"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:150
+msgid "iCalendar File"
+msgstr "iCalendar Failas"
+
+#: includes/base/admin/calendar/functions-actions-ical.php:35
+msgid "iCalendar library missing"
+msgstr "Trūksta iCalendar bibliotekos"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:56
+msgid "iCalendar Link"
+msgstr "„iCalendar“ Nuoroda"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:106
+msgid "iCalendar private link reset successful."
+msgstr "iCalendar privati nuoroda sėkmingai nustatyta iš naujo."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:327
+msgid "iCalendar URL"
+msgstr "iCalendar URL"
+
+#: includes/base/admin/calendar/functions-actions-ical.php:421
+msgid "iCalendarReader library missing"
+msgstr "Trūksta iCalendarReader bibliotekos"
+
+#: includes/modules/pricing/functions-payment-on-arrival.php:144
+#: includes/modules/pricing/functions-bank-transfer.php:143
+#: includes/base/admin/form/class-list-table-forms.php:86
+#: includes/base/admin/calendar/class-list-table-calendars.php:86
+msgid "ID"
+msgstr "ID"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:90
+msgid ""
+"If selected, events that have the same description will be grouped into one "
+"event spaning over multiple days."
+msgstr ""
+"Jei pasirinksite, įvykiai su tuo pačiu aprašymu bus sugrupuoti į vieną įvykį,"
+" apimantį kelias dienas."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:362
+msgid ""
+"If selected, the start and end dates of the iCalendar Events will be "
+"displayed as Split Days. You will have to chose the legends to be used below."
+msgstr ""
+"Jei pasirinkta, iCalendar įvykių pradžios ir pabaigos datos bus rodomos kaip "
+"padalintos dienos. Toliau turėsite pasirinkti įrašus, kuriuos naudosite."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:185
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:192
+msgid ""
+"If set to yes and if the calendar displays multiple months, when the user "
+"uses the arrows to navigate the calendar, the calendar will switch the "
+"number of months selected, rather than just one month."
+msgstr ""
+"Jei nustatyta \"taip\", o kalendoriuje rodomi keli mėnesiai, vartotojui "
+"kalendoriuje naršant rodyklėmis, kalendorius pakeis pasirinktų mėnesių "
+"skaičių, o ne tik vieną mėnesį."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:147
+msgid ""
+"If set to yes, it will display a secondary calendar header for the dates "
+"(besides the day numbers), containing the first letter of the day's name. "
+"For example, Monday will display M."
+msgstr ""
+"Jei nustatyta „taip“, bus rodoma antrinė datų kalendoriaus antraštė (be "
+"dienų skaičių), kurioje bus pirmoji dienos pavadinimo raidė. Pavyzdžiui, "
+"pirmadienis bus rodomas P."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:240
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:234
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:117
+msgid ""
+"If set to yes, it will display at the beginning of each week the week's "
+"number counted from the beginning of the year."
+msgstr ""
+"Jei nustatyta „taip“, kiekvienos savaitės pradžioje bus rodomas savaitės "
+"skaičius, skaičiuojamas nuo metų pradžios."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:173
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:183
+msgid ""
+"If set to yes, the calendar will display a month and year drop-down select "
+"field as a navigation alternative to the arrows."
+msgstr ""
+"Jei nustatyta „taip“, kalendoriuje bus rodomas mėnesio ir metų "
+"išskleidžiamojo meniu pasirinkimo laukas, kaip naršymo alternatyva rodyklėms."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:396
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:313
+msgid ""
+"If set to yes, the dates selected in the calendar will appear in the form as "
+"well. This just provides a visual confirmation of the dates selected."
+msgstr ""
+"Jei nustatyta „taip“, kalendoriuje pasirinktos datos taip pat bus rodomos "
+"formoje. Tai tik vizualiai patvirtina pasirinktas datas."
+
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:243
+msgid "If set to yes, the price will be displayed below each calendar date."
+msgstr "Jei nustatyta „taip“, kaina bus rodoma po kiekviena kalendorine data."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:294
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:252
+msgid ""
+"If set to yes, when a booking is made, the dates in the calendar will "
+"automatically be changed to the 'Booked' legend"
+msgstr ""
+"Jei nustatyta „taip“, užsakymo metu datos kalendoriuje bus automatiškai "
+"pakeistos į įrašą „Rezervuota“"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:431
+msgid ""
+"If this box is ticked, the empty fields in the bulk editor will be ignored "
+"and will not clear existing data from the calendar."
+msgstr ""
+"Jei šis langelis pažymėtas, tušti masinio rengyklės laukai bus nepaisomi ir "
+"nebus išvalyti esami duomenys iš kalendoriaus."
+
+#: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:44
+msgid ""
+"If you wish to allow certain users to edit this calendar, select them from "
+"the field below. The selected users will be able to edit only this calendar. "
+"If you select the same users in other calendars, they will be able to also "
+"edit those calendars."
+msgstr ""
+"Jei norite leisti tam tikriems vartotojams redaguoti šį kalendorių, "
+"pasirinkite juos iš toliau esančio lauko. Pasirinkti vartotojai galės "
+"redaguoti tik šį kalendorių. Jei tuos pačius vartotojus pasirinksite kituose "
+"kalendoriuose, jie taip pat galės redaguoti tuos kalendorius."
+
+#: includes/modules/user-restrictions/views/view-edit-form-main-fields.php:54
+msgid ""
+"If you wish to allow certain users to edit this form, select them from the "
+"field below. The selected users will be able to edit only this form. If you "
+"select the same users in other forms, they will be able to also edit those "
+"forms."
+msgstr ""
+"Jei norite leisti tam tikriems vartotojams redaguoti šią formą, pasirinkite "
+"juos iš toliau esančio lauko. Pasirinkti vartotojai galės redaguoti tik šią "
+"formą. Jei pasirinksite tuos pačius vartotojus kitose formose, jie taip pat "
+"galės redaguoti tas formas."
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:47
+msgid ""
+"If you wish to copy the legend items from one calendar to this new one, "
+"select from which calendar from the drop-down below."
+msgstr ""
+"Jei norite nukopijuoti įrašų elementus iš vieno kalendoriaus į šį naują, "
+"pasirinkite iš kurio kalendoriaus - toliau pateiktame išskleidžiamajame "
+"meniu."
+
+#: includes/modules/upgrader/views/view-upgrader.php:82
+#, php-format
+msgid ""
+"If you wish to start fresh and skip the migration of your calendars and "
+"settings, from the old version, %sclick here%s."
+msgstr ""
+"Jei norite pradėti iš naujo ir praleisti kalendorių bei nustatymų perkėlimą "
+"iš senosios versijos, %sspustelėkite čia%s."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:430
+msgid "Ignore empty fields"
+msgstr "Ignoruoti tuščius laukus"
+
+#: includes/base/admin/booking/views/view-add-booking.php:86
+msgid "Ignore Validation Rules"
+msgstr "Nepaisykite Patvirtinimo Taisyklių"
+
+#: includes/base/admin/backup/views/view-backup.php:65
+msgid "Import Data"
+msgstr "Importuoti duomenis"
+
+#: includes/base/admin/backup/views/view-backup.php:50
+msgid "Import data from file"
+msgstr "Importuoti duomenis iš failo"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:140
+msgid "Import from File"
+msgstr "Importuoti iš Failo"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:255
+msgid "Import from iCal URL"
+msgstr "Importuoti iš iCal URL"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:162
+#: includes/base/admin/calendar/views/view-ical-import-export.php:339
+msgid "Import iCal Events As"
+msgstr "Importuoti iCal Įvykius Kaip"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:227
+msgid "Import iCal File"
+msgstr "Importuoti iCal Failą"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:215
+msgid "Import in both description and tooltip fields"
+msgstr "Importuokite ir aprašo, ir patarimo laukuose"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:213
+msgid "Import only in the description field"
+msgstr "Importuokite tik aprašymo lauke"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:214
+msgid "Import only in the tooltip field"
+msgstr "Importuoti tik patarimo lauke"
+
+#: includes/modules/tools/views/view-tools.php:12
+#: includes/modules/tools/views/view-tools.php:45
+msgid "Important!"
+msgstr "Svarbu!"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:141
+msgid ""
+"Importing from a .ics file will insert the iCal events into the calendar. "
+"You will then be able to edit the details for each imported date."
+msgstr ""
+"Importuojant iš .ics failo, iCal įvykiai bus įterpti į kalendorių. Tada "
+"galėsite redaguoti kiekvienos importuotos datos informaciją."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:256
+msgid ""
+"Importing from an iCal URL will overlay the events from the URL. You will "
+"not be able to edit these events."
+msgstr ""
+"Importuojant iš iCal URL bus perdengiami įvykiai iš URL. Negalėsite "
+"redaguoti šių įvykių."
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:135
+msgid "Improve Page Load Speed"
+msgstr "Pagerinkite Puslapio Įkėlimo Greitį"
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:263
+msgid "In this column you can see the bookings associated with each date."
+msgstr "Šiame stulpelyje galite matyti su kiekviena data susietus užsakymus."
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:97
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:146
+msgid "Include Booking Details"
+msgstr "Įtraukite Rezervacijos Informaciją"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:101
+msgid "Include iCalendar Events?"
+msgstr "Įtraukti „iCalendar“ Įvykius?"
+
+#: includes/modules/pricing/functions-part-payments.php:576
+msgid "Inexistent Payment ID."
+msgstr "Neegzistuojantis Mokėjimo ID."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:4
+msgid "Insert a Calendar"
+msgstr "Įdėkite kalendorių"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:4
+msgid "Insert a Multiple Overview Calendar"
+msgstr "Įdėkite Kelių Apžvalgų Kalendorių"
+
+#: includes/base/class-widget-calendar.php:20
+msgid "Insert a WP Booking System Calendar"
+msgstr "Įdėkite \"WP Booking System\" kalendorių"
+
+#: includes/base/class-widget-overview-calendar.php:20
+msgid "Insert a WP Booking System Overview Calendar"
+msgstr "Įdėkite \"WP Booking System\" Apžvalgos Kalendorių"
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:59
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:410
+msgid "Insert Calendar"
+msgstr "Įterpti kalendorių"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:185
+msgid "Insert Calendar Overview"
+msgstr "Įterpti Kalendoriaus Apžvalgą"
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:60
+msgid "Insert Overview Calendar"
+msgstr "Įterpti apžvalginį kalendorių"
+
+#: includes/base/admin/addons/views/view-addons.php:45
+msgid "Install"
+msgstr "Diegti"
+
+#: includes/base/admin/addons/views/view-addons.php:40
+msgid "Installed"
+msgstr "Įdiegta"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:84
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:88
+msgid ""
+"Instructions on how and where to send the money. Bank name, account number, "
+"etc. This information will be included in the form confirmation message and "
+"in the email if the {Bank Transfer Instructions} tag is used."
+msgstr ""
+"Nurodymai, kaip ir kur siųsti pinigus. Banko pavadinimas, sąskaitos numeris "
+"ir kt. Ši informacija bus įtraukta į formos patvirtinimo pranešimą ir el. "
+"laišką, jei bus naudojama žyma {Bank Transfer Instructions} (Banko pervedimo "
+"instrukcijos)."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:161
+msgid "Internal"
+msgstr "Vidinis"
+
+#: includes/base/admin/calendar/functions-actions-ical.php:29
+msgid "Invalid calendar ID"
+msgstr "Neteisingas kalendoriaus ID"
+
+#: includes/base/admin/calendar/functions-actions-csv.php:22
+msgid "Invalid Calendar ID."
+msgstr "Neteisingas Kalendoriaus ID."
+
+#: includes/base/form/class-form-validator.php:268
+msgid "Invalid date."
+msgstr "Neteisinga data."
+
+#: includes/base/admin/form/functions.php:542
+msgid "Invalid Email"
+msgstr "Neteisingas el. paštas"
+
+#: includes/base/admin/form/functions.php:508
+msgid "Invalid email address."
+msgstr "Neteisingas el. pašto adresas."
+
+#: includes/modules/pricing/functions-part-payments.php:604
+msgid "Invalid Order ID."
+msgstr "Neteisingas užsakymo ID."
+
+#: includes/modules/pricing/functions-part-payments.php:580
+#: includes/modules/pricing/functions-part-payments.php:589
+#: includes/modules/pricing/functions-part-payments.php:609
+msgid "Invalid Payment ID."
+msgstr "Neteisingas Mokėjimo ID."
+
+#: includes/base/admin/form/functions.php:545
+msgid "Invalid Phone"
+msgstr "Neteisingas Telefonas"
+
+#: includes/base/admin/form/functions.php:509
+msgid "Invalid phone number."
+msgstr "Neteisingas telefono numeris."
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:228
+msgid "IP Address"
+msgstr "IP Adresas"
+
+#: includes/base/form/class-form-validator.php:364
+msgid ""
+"It appears you have selected an unavailable date. Please refresh the "
+"calendar and try again."
+msgstr ""
+"Atrodo, kad pasirinkote negalimą datą. Atnaujinkite kalendorių ir bandykite "
+"dar kartą."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:15
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:3
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:29
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:29
+msgid ""
+"It appears you made changes to the form. Make sure you save the form before "
+"you make any changes on this page to ensure all email tags are up to date."
+msgstr ""
+"Atrodo, kad atlikote formos pakeitimus. Prieš atlikdami bet kokius "
+"pakeitimus šiame puslapyje, būtinai išsaugokite formą, kad įsitikintumėte, "
+"jog visos el. pašto žymos yra atnaujintos."
+
+#: includes/modules/pricing/functions-pricing.php:707
+#: includes/modules/pricing/class-payment.php:313
+msgid "Item"
+msgstr "Elementas"
+
+#: includes/base/class-widget-overview-calendar.php:181
+#: includes/base/class-widget-calendar.php:261
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:105
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:94
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:48
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:26
+msgid "January"
+msgstr "Sausis"
+
+#: includes/base/class-widget-overview-calendar.php:187
+#: includes/base/class-widget-calendar.php:267
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:111
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:100
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:54
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:32
+msgid "July"
+msgstr "Liepa"
+
+#: includes/base/class-widget-calendar.php:323
+msgid "Jump Switch"
+msgstr "Peršokimo Jungiklis"
+
+#: includes/base/class-widget-overview-calendar.php:186
+#: includes/base/class-widget-calendar.php:266
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:110
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:99
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:53
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:31
+msgid "June"
+msgstr "Birželis"
+
+#: includes/modules/pricing/functions-part-payments.php:950
+#: includes/base/admin/form/functions.php:227
+msgid "Label"
+msgstr "Etiketė"
+
+#: includes/base/class-widget-overview-calendar.php:244
+#: includes/base/class-widget-calendar.php:238
+#: includes/base/admin/booking/class-booking-detail-outputter.php:219
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:124
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:158
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:162
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:121
+msgid "Language"
+msgstr "Kalba"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:47
+#: includes/base/admin/settings/views/view-settings-tab-languages.php:8
+msgid "Languages"
+msgstr "Kalbos"
+
+#: includes/base/admin/form/functions.php:248
+msgid "Layout"
+msgstr "Išdėstymas"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:94
+msgid "Leave empty if you wish to export the entire calendar"
+msgstr "Palikite tuščią, jei norite eksportuoti visą kalendorių"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:461
+msgid "Legend"
+msgstr "Įrašas"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:15
+#: includes/base/admin/calendar/views/view-edit-calendar.php:391
+msgid "Legend Item"
+msgstr "Etiketės elementas"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:81
+#, php-format
+msgid "Legend item %s is no longer bookable."
+msgstr "Įrašo elementas %s neberezervuotinas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:80
+#, php-format
+msgid "Legend item %s is now bookable."
+msgstr "Įrašo elementas %s dabar rezervuotinas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:70
+#, php-format
+msgid "Legend item %s is now hidden."
+msgstr "Įrašo elementas %s dabar paslėptas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:69
+#, php-format
+msgid "Legend item %s is now visible."
+msgstr "Įrašo elementas %s dabar matomas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:52
+msgid "Legend item created successfully."
+msgstr "Įrašo elementas sėkmingai sukurtas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:58
+msgid "Legend item deleted successfully."
+msgstr "Įrašo elementas sėkmingai ištrintas."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:55
+msgid "Legend item updated successfully."
+msgstr "Įrašo elementas sėkmingai atnaujintas."
+
+#: includes/base/admin/calendar/views/view-csv-export.php:49
+msgid "Legend Items to Export"
+msgstr "Įrašo Elementai Eksportavimui"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:67
+msgid "Legend Items to Export as Booked"
+msgstr "Įrašo Elementai Eksportavimui kaip Rezervuoti"
+
+#: includes/base/class-widget-overview-calendar.php:166
+#: includes/base/class-widget-calendar.php:191
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:54
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:63
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:130
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:63
+msgid "Legend Position"
+msgstr "Įrašo pozicija"
+
+#: includes/modules/upgrader/views/view-upgrader.php:71
+msgid "Let's start!"
+msgstr "Pradėkime!"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:143
+msgid "Link Calendar"
+msgstr "Nuoroda į Kalendorių"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:154
+msgid "Link Type"
+msgstr "Nuorodos Tipas"
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:82
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:131
+msgid "Load Template"
+msgstr "Įkelti Šabloną"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:119
+msgid "Logo"
+msgstr "Logotipas"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:133
+msgid "Logo Height"
+msgstr "Logotipo Aukštis"
+
+#: includes/modules/pricing/functions-part-payments.php:177
+msgid "Make sure to include the [wpbs-final-payment] shortcode on this page."
+msgstr "Šiame puslapyje būtinai įtraukite trumpąjį kodą [wpbs-final-payment]."
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:78
+msgid "Manage Booking"
+msgstr "Tvarkyti rezervaciją"
+
+#: includes/modules/pricing/functions-part-payments.php:121
+msgid "Mandatory - Always use part payments"
+msgstr "Privaloma – visada naudokite dalinius mokėjimus"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:376
+msgid "Manual Booking"
+msgstr "Rankinė Rezervacija"
+
+#: includes/modules/update-checker/views/view-register-website.php:33
+msgid "Manual Update Check"
+msgstr "Rankinis atnaujinimo patikrinimas"
+
+#: includes/base/class-widget-overview-calendar.php:183
+#: includes/base/class-widget-calendar.php:263
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:107
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:96
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:50
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:28
+msgid "March"
+msgstr "Kovas"
+
+#: includes/modules/pricing/functions-bank-transfer.php:197
+#: includes/modules/pricing/functions-part-payments.php:494
+#: includes/modules/pricing/functions-part-payments.php:505
+msgid "mark as paid"
+msgstr "pažymėti kaip sumokėtą"
+
+#: includes/modules/pricing/functions-bank-transfer.php:196
+#: includes/modules/pricing/functions-part-payments.php:493
+#: includes/modules/pricing/functions-part-payments.php:504
+msgid "mark as unpaid"
+msgstr "pažymėti kaip neapmokėtą"
+
+#: includes/base/class-widget-calendar.php:405
+#: includes/base/admin/form/functions.php:555
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:344
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:282
+msgid "Maximum Days"
+msgstr "Maksimalios Dienos"
+
+#: includes/base/class-widget-overview-calendar.php:185
+#: includes/base/class-widget-calendar.php:265
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:109
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:98
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:52
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:30
+msgid "May"
+msgstr "Gegužė"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:216
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:35
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:143
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:105
+#: includes/base/admin/booking/views/view-modal-email-customer.php:73
+#: includes/base/admin/booking/views/view-modal-email-logs.php:8
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:122
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:157
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:167
+msgid "Message"
+msgstr "Pranešimas"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:163
+msgid "Message Templates"
+msgstr "Pranešimų Šablonai"
+
+#: includes/modules/upgrader/views/view-upgrader.php:46
+msgid "Migrating bookings..."
+msgstr "Perkeliamos rezervacijos..."
+
+#: includes/modules/upgrader/views/view-upgrader.php:44
+msgid "Migrating calendar events..."
+msgstr "Perkeliami kalendoriaus įvykiai..."
+
+#: includes/modules/upgrader/views/view-upgrader.php:43
+msgid "Migrating calendars..."
+msgstr "Perkeliami kalendoriai..."
+
+#: includes/modules/upgrader/views/view-upgrader.php:45
+msgid "Migrating forms..."
+msgstr "Perkeliamos formos..."
+
+#: includes/modules/upgrader/views/view-upgrader.php:47
+msgid "Migrating general settings..."
+msgstr "Perkeliami bendrieji nustatymai..."
+
+#: includes/base/class-widget-calendar.php:397
+#: includes/base/admin/form/functions.php:551
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:335
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:274
+msgid "Minimum Days"
+msgstr "Minimalios Dienos"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:123
+msgid "Minutes"
+msgstr "Minutės"
+
+#: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:56
+msgid ""
+"Modifying the prices directly updates the values in the database without "
+"performing any calculations or validations. Please use with caution."
+msgstr ""
+"Keičiant kainas tiesiogiai atnaujinamos reikšmės duomenų bazėje, neatliekant "
+"jokių skaičiavimų ar tikrinimų. Prašome naudoti atsargiai."
+
+#: includes/base/functions.php:69 includes/base/class-widget-calendar.php:215
+#: includes/base/class-widget-calendar.php:417
+#: includes/base/class-widget-calendar.php:433
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:159
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:359
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:377
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:76
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:87
+msgid "Monday"
+msgstr "Pirmadienis"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:72
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:138
+msgid "Months to Display"
+msgstr "Mėnesiai Rodymui"
+
+#: includes/base/class-widget-calendar.php:227
+msgid "Months to display"
+msgstr "Mėnesiai rodymui"
+
+#: includes/modules/pricing/functions-pricing.php:101
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:181
+msgid "Multiplication"
+msgstr "Daugyba"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:53
+msgid "Multiplication Field"
+msgstr "Daugybos Laukas"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:54
+msgid ""
+"Multiply the calendar events price by the value of a form field (eg. number "
+"of people, inventory..)."
+msgstr ""
+"Padauginkite kalendoriaus įvykių kainą iš formos lauko reikšmės (pvz., "
+"žmonių skaičius, inventorius...)."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:182
+msgid ""
+"Multiply the tax by the value of a form field. This will only work when "
+"making bookings using the form that the selected field belongs to."
+msgstr ""
+"Padauginkite mokestį iš formos lauko vertės. Tai veiks tik atliekant "
+"užsakymus naudojant formą, kuriai priklauso pasirinktas laukas."
+
+#: includes/base/admin/form/class-list-table-forms.php:85
+#: includes/base/admin/calendar/class-list-table-legend-items.php:77
+#: includes/base/admin/calendar/class-list-table-calendars.php:85
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:62
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:62
+msgid "Name"
+msgstr "Vardas"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:363
+msgid "New"
+msgstr "Nauja"
+
+#: includes/base/admin/booking/functions.php:131
+msgid "New Booking"
+msgstr "Naujas Rezervacija"
+
+#: includes/base/admin/booking/functions.php:134
+msgid "New Bookings"
+msgstr "Naujos Rezervacijos"
+
+#: includes/base/class-widget-overview-calendar.php:160
+#: includes/base/class-widget-overview-calendar.php:225
+#: includes/base/class-widget-overview-calendar.php:236
+#: includes/base/class-widget-calendar.php:175
+#: includes/base/class-widget-calendar.php:185
+#: includes/base/class-widget-calendar.php:206
+#: includes/base/class-widget-calendar.php:305
+#: includes/base/class-widget-calendar.php:316
+#: includes/base/class-widget-calendar.php:326
+#: includes/base/class-widget-calendar.php:336
+#: includes/base/class-widget-calendar.php:347
+#: includes/base/class-widget-calendar.php:371
+#: includes/base/class-widget-calendar.php:448
+#: includes/base/admin/booking/views/view-add-booking.php:64
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:34
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:46
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:177
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:189
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:218
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:232
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:244
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:257
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:298
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:400
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:55
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:137
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:151
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:118
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:126
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:182
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:191
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:214
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:225
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:233
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:242
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:251
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:312
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:59
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:105
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:116
+msgid "No"
+msgstr "Ne"
+
+#: includes/base/class-widget-overview-calendar.php:91
+#: includes/base/class-shortcodes.php:277
+#: includes/base/admin/calendar/class-list-table-calendars.php:341
+msgid "No calendars found."
+msgstr "Kalendorių nerasta."
+
+#: includes/base/admin/form/functions.php:548
+msgid "No Date Selected"
+msgstr "Nepasirinkta Jokia Data"
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:43
+msgid "No Dates Selected"
+msgstr "Nepasirinkta jokių datų"
+
+#: includes/base/form/class-form-outputter.php:638
+#: includes/base/form/class-form-outputter.php:722
+msgid ""
+"No default price is defined for this calendar. Please define a default price "
+"in order to use payments."
+msgstr ""
+"Šio kalendoriaus numatytoji kaina nenustatyta. Norėdami naudoti mokėjimus, "
+"nustatykite numatytąją kainą."
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:41
+msgid "No emails sent yet."
+msgstr "Jokių el. laiškų dar neišsiųsta."
+
+#: includes/base/admin/calendar/functions-actions-csv.php:124
+msgid "No events matched your criteria."
+msgstr "Nė vienas įvykis neatitiko jūsų kriterijų."
+
+#: includes/base/class-widget-calendar.php:358
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:282
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:26
+msgid "No Form"
+msgstr "Nėra formos"
+
+#: includes/base/admin/form/class-list-table-forms.php:303
+msgid "No forms found."
+msgstr "Formų nerasta."
+
+#: includes/base/admin/booking/functions.php:128
+msgid "No New Bookings"
+msgstr "Naujų Rezervacijų Nėra"
+
+#: includes/base/admin/booking/views/view-modal-notes.php:33
+msgid "No notes found for this booking."
+msgstr "Šiam užsakymui pastabų nerasta."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:400
+msgid "No Payment"
+msgstr "Nėra Mokėjimo"
+
+#: includes/base/form/class-form-outputter.php:748
+msgid "No payment methods are available."
+msgstr "Nėra jokių galimų mokėjimo būdų."
+
+#: includes/base/form/class-email-tags.php:213
+#: includes/base/form/class-email-tags.php:230
+#: includes/base/form/class-email-tags.php:248
+#: includes/base/form/class-email-tags.php:262
+#: includes/base/form/class-email-tags.php:275
+#: includes/modules/pricing/booking/functions.php:53
+msgid "No payment was received for this booking."
+msgstr "Apmokėjimas už šį užsakymą nebuvo gautas."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:243
+#, php-format
+msgid "No results for %s."
+msgstr "Nėra rezultatų pagal %s."
+
+#: includes/base/admin/form/functions.php:488
+msgid "no-label"
+msgstr "be etiketės"
+
+#: includes/base/form/functions-ajax.php:22
+#, php-format
+msgid "Nonce validation failed. %sWhat's this?%s"
+msgstr "Nepavyko patvirtinti. %sKas tai?%s"
+
+#: includes/base/class-widget-calendar.php:390
+#: includes/base/admin/booking/views/view-add-booking.php:48
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:321
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:269
+msgid "Normal"
+msgstr "Normalus"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:431
+msgid "Not Paid"
+msgstr "Nesumoketa"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:82
+#: includes/base/admin/booking/views/view-modal-notes.php:5
+#: includes/base/admin/calendar/views/view-edit-calendar.php:282
+msgid "Notes"
+msgstr "Pastabos"
+
+#: includes/base/admin/booking/views/view-modal-notes.php:5
+msgid ""
+"Notes are only visible to website administrators, they are not sent to the "
+"client."
+msgstr ""
+"Pastabas mato tik svetainės administratoriai, klientui jos nesiunčiamos."
+
+#: includes/base/class-widget-overview-calendar.php:191
+#: includes/base/class-widget-calendar.php:271
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:115
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:104
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:58
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:36
+msgid "November"
+msgstr "Lapkritis"
+
+#: includes/base/class-widget-overview-calendar.php:190
+#: includes/base/class-widget-calendar.php:270
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:114
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:103
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:57
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:35
+msgid "October"
+msgstr "Spalis"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:458
+msgid "of"
+msgstr "iš"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:103
+msgid "On each page load"
+msgstr "Įkeliant kiekvieną puslapį"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:367
+msgid ""
+"Only select specific week days from the date range chosen above. Leave empty "
+"to select all days."
+msgstr ""
+"Pasirinkite tik konkrečias savaitės dienas iš aukščiau pasirinktos dienų "
+"sekos. Palikite tuščią, kad pasirinktumėte visas dienas."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:357
+msgid "Oops... it seems there are no legend items"
+msgstr "Oi... atrodo, kad įrašų elementų nėra"
+
+#: includes/modules/pricing/functions-part-payments.php:122
+msgid ""
+"Optional - Allow customer to choose wether to pay a deposit or the full "
+"amount"
+msgstr ""
+"Neprivaloma – Leiskite klientui pasirinkti, ar mokėti užstatą, ar visą sumą"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:146
+msgid "Optional. The period in which the tax is applied."
+msgstr "Neprivaloma. Laikotarpis, per kurį taikomas mokestis."
+
+#: includes/modules/pricing/functions-pricing.php:97
+#: includes/base/admin/form/functions.php:229
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:60
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:44
+#: includes/base/admin/booking/views/view-modal-email-customer.php:15
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:64
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:74
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:84
+msgid "Options"
+msgstr "Parinktys"
+
+#: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:18
+msgid "Order Information"
+msgstr "Užsakymo informacija"
+
+#: includes/base/admin/form/functions.php:569
+msgid "Other Strings"
+msgstr "Kitos Eilutės"
+
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:10
+msgid "Overview Calendar"
+msgstr "Kalendoriaus Apžvalga"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:193
+msgid "Overwrite"
+msgstr "Perrašyti"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:185
+msgid "Overwrite Existing Dates"
+msgstr "Perrašyti Esamas Datas"
+
+#: includes/modules/pricing/functions-part-payments.php:166
+msgid "Page"
+msgstr "Puslapis"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:167
+msgid "Pages to enqueue scripts on"
+msgstr "Puslapiai skriptų įrašymui"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:440
+msgid "Paid"
+msgstr "Apmokėta"
+
+#: includes/modules/pricing/functions-bank-transfer.php:196
+#: includes/modules/pricing/functions-part-payments.php:477
+msgid "paid"
+msgstr "apmokėta"
+
+#: includes/modules/pricing/functions-part-payments.php:947
+msgid "Part Payment Applicability Field"
+msgstr "Dalinio Mokėjimo Taikymo Laukas"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:291
+msgid "Part Payment Reminder"
+msgstr "Dalinio Mokėjimo Priminimas"
+
+#: includes/modules/pricing/functions-part-payments.php:33
+msgid "Part Payments (Deposit)"
+msgstr "Daliniai Mokėjimai (Depositas)"
+
+#: includes/modules/pricing/functions-part-payments.php:969
+msgid "Pay a deposit now and the remaining amount later"
+msgstr "Sumokėkite užstatą dabar, o likusią sumą vėliau"
+
+#: includes/modules/pricing/functions-part-payments.php:968
+msgid "Pay the full amount now"
+msgstr "Sumokėkite visą sumą dabar"
+
+#: includes/modules/pricing/settings/functions.php:22
+msgid "Payment"
+msgstr "Mokėjimas"
+
+#: includes/modules/pricing/functions-pricing.php:704
+msgid "Payment Confirmation"
+msgstr "Mokėjimo Patvirtinimas"
+
+#: includes/modules/pricing/booking/functions.php:18
+msgid "Payment Details"
+msgstr "Mokėjimo Detalės"
+
+#: includes/modules/pricing/functions-payment-on-arrival.php:142
+#: includes/modules/pricing/functions-bank-transfer.php:141
+msgid "Payment Gateway"
+msgstr "Mokėjimo Sistemos"
+
+#: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:3
+msgid "Payment Information"
+msgstr "Mokėjimo Informacija"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:83
+msgid "Payment Instructions"
+msgstr "Mokėjimo Instrukcijos"
+
+#: includes/modules/pricing/functions-payment-on-arrival.php:18
+#: includes/modules/pricing/functions-payment-on-arrival.php:30
+#: includes/base/admin/booking/class-bookings-outputter.php:405
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:5
+msgid "Payment on Arrival"
+msgstr "Mokėjimas Atvykus"
+
+#: includes/modules/pricing/form/functions.php:67
+msgid "Payment Options"
+msgstr "Mokėjimo Būdai"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:27
+msgid "Payment Reminder"
+msgstr "Mokėjimo Priminimas"
+
+#: includes/modules/pricing/functions-part-payments.php:445
+#, php-format
+msgid "Payment Reminder email will be sent on %s."
+msgstr "Mokėjimo Priminimo el. laiškas bus išsiųstas %s."
+
+#: includes/modules/pricing/settings/functions.php:61
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:51
+msgid "Payment Strings"
+msgstr "Mokėjimo eilutės"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:28
+msgid "Payment Success Notification"
+msgstr "Pranešimas Apie Sėkmingą Mokėjimą"
+
+#: includes/base/admin/form/functions.php:474
+msgid "Payment Tags"
+msgstr "Mokėjimo Žymos"
+
+#: includes/modules/pricing/functions-part-payments.php:967
+msgid "Payment Type"
+msgstr "Mokėjimo Tipas"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:74
+#: includes/base/admin/booking/class-bookings-outputter.php:423
+#: includes/base/admin/calendar/class-list-table-calendars.php:292
+msgid "Pending"
+msgstr "Laukiantys"
+
+#: includes/modules/pricing/functions-pricing.php:100
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:121
+msgid "Per Booking - Only add once per booking"
+msgstr "Vienam užsakymui – Pridėkite tik vieną kartą vienai rezervacijai"
+
+#: includes/modules/pricing/functions-pricing.php:100
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:122
+msgid "Per Day - Multiply by the number of booked days"
+msgstr "Per dieną – padauginkite iš užsakytų dienų skaičiaus"
+
+#: includes/modules/pricing/functions-part-payments.php:61
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:88
+msgid "Percentage"
+msgstr "Procentas"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:166
+msgid "Period Inclusion"
+msgstr "Laikotarpio Įtraukimas"
+
+#: includes/modules/pricing/functions-pricing.php:103
+msgid "Period Type"
+msgstr "Laikotarpio Tipas"
+
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:181
+msgid "Permanently delete booking"
+msgstr "Ištrinti rezervaciją visam laikui"
+
+#: includes/base/admin/form/functions.php:231
+msgid "Placeholder"
+msgstr "Vietos laikytojas"
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:29
+#: includes/base/admin/calendar/functions-actions-legend-item.php:125
+msgid "Please add a name for your legend item."
+msgstr "Pridėkite įrašo elemento pavadinimą."
+
+#: includes/base/admin/calendar/functions-actions-calendar.php:20
+msgid "Please add a name for your new calendar."
+msgstr "Pridėkite pavadinimą savo naujam kalendoriui."
+
+#: includes/base/admin/form/functions-actions-form.php:23
+msgid "Please add a name for your new form."
+msgstr "Pridėkite pavadinimą savo naujai formai."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:556
+msgid "Please add the iCal feed URL."
+msgstr "Prašome, pridėkite „iCal“ informacijos santraukos URL."
+
+#: includes/base/admin/form/functions.php:515
+msgid "Please check the fields below for errors."
+msgstr "Patikrinkite, ar nėra klaidų toliau pateiktuose laukuose."
+
+#: includes/base/admin/booking/functions-add-booking.php:60
+msgid "Please configure the options before creating a booking."
+msgstr "Prašome, prieš kurdami užsakymą, sukonfigūruokite parinktis."
+
+#: includes/base/admin/booking/views/view-modal-booking-details.php:35
+msgid ""
+"Please keep in mind that changing the dates will <strong>not</strong> change "
+"the availability in the calendar, nor the price of the booking. You will "
+"need to adjust these manually."
+msgstr ""
+"Prašome atminti, kad datų pakeitimas <strong>nepakeis</strong> nei užimtumo "
+"kalendoriuje, nei užsakymo kainos. Turėsite juos sureguliuoti rankiniu būdu."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:368
+msgid "Please make sure the selected file's format is .ics."
+msgstr "Prašome įsitikinkite, kad pasirinkto failo formatas yra .ics."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:536
+msgid "Please provide a name for your iCal calendar."
+msgstr "Prašome pateikti savo iCal kalendoriaus pavadinimą."
+
+#: includes/modules/update-checker/functions.php:97
+#: includes/modules/update-checker/functions.php:115
+msgid "Please provide a serial key."
+msgstr "Pateikite serijos raktą."
+
+#: includes/modules/pricing/functions-pricing.php:711
+msgid "Please select a date first."
+msgstr "Prašome, pirmiausia pasirinkite datą."
+
+#: includes/base/admin/form/functions.php:510
+msgid "Please select a date."
+msgstr "Pasirinkite datą."
+
+#: includes/base/admin/backup/functions-actions-backup.php:73
+msgid "Please select a file."
+msgstr "Pasirinkite failą."
+
+#: includes/base/admin/form/functions.php:512
+#, php-format
+msgid "Please select a maximum of %s days."
+msgstr "Prašome, pasirinkite daugiausia %s dienų."
+
+#: includes/base/admin/form/functions.php:511
+#, php-format
+msgid "Please select a minimum of %s days."
+msgstr "Prašome, pasirinkite mažiausiai %s dienų."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:39
+#: includes/base/admin/calendar/functions-actions-legend-item.php:135
+msgid "Please select a type for your legend item."
+msgstr "Prašome, pasirinkite įrašo elemento tipą."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:358
+msgid "Please select an iCal file."
+msgstr "Prašome, pasirinkite iCal failą."
+
+#: includes/base/admin/calendar/functions-actions-csv.php:32
+msgid "Please select at least one legend item to export."
+msgstr ""
+"Prašome, pasirinkite bent vieną įrašo elementą, kurį norite eksportuoti."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:53
+#: includes/base/admin/calendar/functions-actions-legend-item.php:149
+msgid "Please select the color for your legend item."
+msgstr "Prašome, pasirinkite įrašo elemento spalvą."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:569
+msgid "Please select the legend item for starting Split Day."
+msgstr "Prašome, pasirinkite įrašo elementą, kad pradėtumėte padalintą dieną."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:578
+msgid "Please select the legend item for the ending Split Day."
+msgstr "Prašome, pasirinkite besibaigiančios padalintos dienos įrašo elementą."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:378
+msgid "Please select the legend item for the iCal file import."
+msgstr "Prašome, pasirinkite „iCal“ failo importavimo įrašo elementą."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:546
+msgid "Please select the legend item for the iCal URL import."
+msgstr "Prašome, pasirinkite „iCal“ URL importavimo įrašo elementą."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:388
+msgid ""
+"Please select whether or not to overwrite data for dates that already "
+"contain information."
+msgstr ""
+"Prašome, pasirinkite, ar perrašyti datų, kuriose jau yra informacijos, "
+"duomenis, ar ne."
+
+#: includes/base/admin/backup/views/view-backup.php:57
+msgid ""
+"Please take into account that this action will firstly remove all data that "
+"you currently have in the plugin, then import the data from the export file."
+msgstr ""
+"Atsižvelkite į tai, kad atliekant šį veiksmą pirmiausia bus pašalinti visi "
+"duomenys, kuriuos šiuo metu turite įskiepyje, o tada importuojami duomenys "
+"iš eksporto failo."
+
+#: includes/modules/update-checker/functions.php:122
+#, php-format
+msgid ""
+"Please visit the %sPlugins page%s to check if a new update is available for "
+"WP Booking System."
+msgstr ""
+"Apsilankykite %sĮskiepių puslapyje%s, kad patikrintumėte, ar yra \"WP "
+"Booking System\" naujinimas."
+
+#: includes/modules/upgrader/views/view-upgrader.php:72
+msgid "Please wait..."
+msgstr "Prašome palaukti..."
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:33
+msgid "Plugin Styling"
+msgstr "Įskiepio Stilius"
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:109
+msgid "Preferences saved successfully."
+msgstr "Parinktys sėkmingai išsaugotos."
+
+#: includes/modules/pricing/functions-pricing.php:49
+#: includes/modules/pricing/functions-pricing.php:98
+#: includes/modules/pricing/functions-pricing.php:419
+msgid "Price"
+msgstr "Kaina"
+
+#: includes/modules/pricing/functions-pricing.php:100
+msgid "Price Calculation"
+msgstr "Kainos Apskaičiavimas"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:21
+msgid "Price Format"
+msgstr "Kainos Formatas"
+
+#: includes/modules/pricing/functions-pricing.php:360
+msgid "Pricing"
+msgstr "Kainoraštis"
+
+#: includes/base/admin/form/functions.php:76
+msgid "Pricing Form Elements"
+msgstr "Kainoraščio Formos Elementai"
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:39
+msgid "Processing Payment Message"
+msgstr "Apdorojamas Mokėjimo Pranešimas"
+
+#: includes/modules/pricing/functions-pricing.php:708
+msgid "Processing payment, please wait..."
+msgstr "Apdorojamas mokėjimas, prašome palaukti..."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:52
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:26
+msgid "Product Name"
+msgstr "Produkto Pavadinimas"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:77
+msgid "reCAPTCHA Type"
+msgstr "reCAPTCHA tipas"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:82
+msgid "reCAPTCHA v2 Tickbox"
+msgstr "reCAPTCHA v2 Žymimasis laukelis"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:83
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:7
+msgid "Recepient"
+msgstr "Gavėjas"
+
+#: includes/modules/pricing/functions-pricing.php:103
+msgid "Recurring - Between the selected dates, but each year"
+msgstr "Pasikartojantis – Tarp pasirinktų datų, bet kiekvienais metais"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:27
+msgid "Redirect to a Page"
+msgstr "Peradresuoti į Puslapį"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:63
+msgid "Redirect URL"
+msgstr "Peradresuoti URL"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:431
+msgid "Refresh iCal Data"
+msgstr "Atnaujinkite „iCal“ Duomenis"
+
+#: includes/modules/update-checker/functions.php:62
+#: includes/modules/update-checker/views/view-register-website.php:21
+msgid "Register Website"
+msgstr "Registruoti Interneto Svetainę"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:198
+#: includes/base/admin/calendar/views/view-ical-import-export.php:300
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:55
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:55
+msgid "Remove"
+msgstr "Pašalinti"
+
+#: includes/base/admin/calendar/functions-notes.php:53
+msgid "remove"
+msgstr "pašalinti"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:127
+msgid "remove image"
+msgstr "pašalinti vaizdą"
+
+#: includes/base/class-widget-overview-calendar.php:215
+#: includes/base/class-widget-calendar.php:295
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:201
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:125
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:202
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:93
+msgid "Replace booking history with the default legend item"
+msgstr "Užsakymo istoriją pakeiskite numatytuoju įrašo elementu"
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:103
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:87
+#: includes/base/admin/booking/views/view-modal-email-customer.php:58
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:107
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:117
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:127
+msgid "Reply To"
+msgstr "Atsakyti Į"
+
+#: includes/base/admin/form/functions.php:228
+msgid "Required"
+msgstr "Privalomas"
+
+#: includes/base/admin/form/functions.php:539
+msgid "Required Field"
+msgstr "Privalomas Laukelis"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:109
+msgid "Reset Private Link"
+msgstr "Iš naujo nustatykite Privačią Nuorodą"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:146
+msgid "Restore Booking"
+msgstr "Atkurti Rezervaciją"
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:248
+msgid "Restore Calendar"
+msgstr "Atkurti Kalendorių"
+
+#: includes/base/admin/form/class-list-table-forms.php:228
+msgid "Restore form"
+msgstr "Atkurti formą"
+
+#: includes/modules/pricing/functions-part-payments.php:154
+#: includes/modules/pricing/functions-part-payments.php:426
+msgid "Same as initial payment"
+msgstr "Tas pats kaip ir pradinis mokėjimas"
+
+#: includes/base/functions.php:74 includes/base/class-widget-calendar.php:220
+#: includes/base/class-widget-calendar.php:422
+#: includes/base/class-widget-calendar.php:438
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:164
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:364
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:382
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:81
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:92
+msgid "Saturday"
+msgstr "Šeštadienis"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:30
+msgid ""
+"Save a log of all emails sent to a customer. Logs will be available in the "
+"Booking modal popup."
+msgstr ""
+"Išsaugokite visų klientui išsiųstų el. laiškų žurnalą. Žurnalai bus "
+"pasiekiami iššokančiame Užsakymo modaliniame lange."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:59
+#: includes/base/admin/calendar/views/view-edit-calendar.php:538
+msgid "Save Calendar"
+msgstr "Išsaugoti kalendorių"
+
+#: includes/base/admin/booking/views/view-add-booking.php:102
+#: includes/base/admin/booking/views/view-modal-booking-details.php:38
+#: includes/base/admin/booking/views/view-modal-booking-details.php:82
+#: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:59
+msgid "Save Changes"
+msgstr "Išsaugoti Pakeitimus"
+
+#: includes/base/admin/form/views/view-edit-form.php:67
+#: includes/base/admin/form/views/view-edit-form.php:153
+msgid "Save Form"
+msgstr "Išsaugoti Formą"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:8
+msgid "Save Legend Item"
+msgstr "Išsaugoti Įrašo Elementą"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:110
+msgid "Save Preferences"
+msgstr "Išsaugoti Nuostatas"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:203
+#: includes/base/admin/settings/views/view-settings-tab-languages.php:42
+#: includes/base/admin/settings/views/view-settings-tab-form.php:157
+#: includes/base/admin/settings/views/view-settings-tab-email.php:253
+#: includes/base/admin/settings/views/view-settings-tab-strings.php:58
+#: includes/modules/pricing/settings/views/view-payment-settings.php:75
+msgid "Save Settings"
+msgstr "Išsaugoti Nustatymus"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:249
+#: includes/base/admin/booking/class-booking-detail-outputter.php:270
+#: includes/base/admin/booking/class-booking-detail-outputter.php:292
+#, php-format
+msgid "Scheduled to be sent on <strong>%s</strong>."
+msgstr "Suplanuota išsiųsti <strong>%s</strong>."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:205
+msgid "Search bookings"
+msgstr "Ieškoti rezervacijų"
+
+#: includes/base/admin/calendar/views/view-add-calendar.php:49
+msgid "Select calendar..."
+msgstr "Pasirinkte kalendorių..."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:29
+msgid "Select Calendars"
+msgstr "Pasirinkite Kalendorius"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:131
+msgid ""
+"Select how to apply the tax. To all pricing items (calendar price per day "
+"and form product fields) or to calendar price only (calendar price per day)."
+msgstr ""
+"Pasirinkite, kaip taikyti mokestį. Į visus kainodaros elementus (kalendorinė "
+"kaina per dieną ir formos prekės laukeliai) arba tik į kalendorinę kainą "
+"(kalendorinė kaina per dieną)."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:206
+msgid ""
+"Select how you wish the description of each event from the .ics file to be "
+"imported into the plugin."
+msgstr ""
+"Pasirinkite, kaip norite, kad kiekvieno įvykio aprašymas iš .ics failo būtų "
+"importuojamas į įskiepį."
+
+#: includes/base/admin/booking/views/view-add-booking.php:57
+msgid ""
+"Select if you want to use the Auto Accept opton when creating the booking. "
+"If enabled, the dates will automatically become blocked in the calendar."
+msgstr ""
+"Pasirinkite, ar kurdami užsakymą norite naudoti parinktį Automatinis "
+"priėmimas. Jei įjungta, datos bus užblokuotos kalendoriuje automatiškai."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:176
+msgid "Select Internal Link"
+msgstr "Pasirinkite Vidinę Nuorodą"
+
+#: includes/modules/pricing/functions-part-payments.php:132
+msgid ""
+"Select the calendars the part payments apply to. If no calendars are "
+"selected, the part payments will be applied to all calendars."
+msgstr ""
+"Pasirinkite kalendorius, kuriems taikomi daliniai mokėjimai. Nepasirinkus nė "
+"vieno kalendoriaus, daliniai mokėjimai bus taikomi visiems kalendoriams."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:202
+msgid ""
+"Select the calendars the tax applies to. If no calendars are selected, the "
+"tax will be applied to all calendars."
+msgstr ""
+"Pasirinkite kalendorius, kuriems taikomas mokestis. Nepasirinkus nė vieno "
+"kalendoriaus, mokestis bus taikomas visiems kalendoriams."
+
+#: includes/base/admin/booking/views/view-add-booking.php:26
+msgid ""
+"Select the Form you want to use to create the booking. Should be the same "
+"one as you use on the front-end."
+msgstr ""
+"Pasirinkite formą, kurią norite naudoti rezervuodami. Turėtų būti tas pats, "
+"kur naudojate interneto svetainės puslapyje."
+
+#: includes/modules/user-restrictions/views/view-settings-tab-general-fields.php:15
+msgid ""
+"Select the user roles you wish to have calendar editing capabilities. All "
+"users that have the selected user roles will be able to edit all calendars."
+msgstr ""
+"Pasirinkite vartotojo vaidmenis, kuriems norite suteikti kalendoriaus "
+"redagavimo galimybes. Visi naudotojai, turintys pasirinktus vartotojo "
+"vaidmenis, galės redaguoti visus kalendorius."
+
+#: includes/base/admin/booking/views/view-add-booking.php:42
+msgid ""
+"Select the what Selection Style you want to use when create the booking. "
+"Should be the same as you use on the front-end."
+msgstr ""
+"Pasirinkite, kokį pasirinkimo stilių norite naudoti kurdami užsakymą. Turėtų "
+"būti toks pat, kokį naudojate interneto svetainės puslapyje."
+
+#: includes/base/admin/booking/views/view-add-booking.php:72
+msgid ""
+"Select wether or not to send the Admin and User notification emails when "
+"creating the booking. Regardless of this option, if email reminders are "
+"configured, they will be scheduled as configured."
+msgstr ""
+"Kurdami užsakymą pasirinkite, ar siųsti administratoriaus ir naudotojo "
+"pranešimų el. laiškus, ar ne. Nepriklausomai nuo šios parinkties, jei el. "
+"pašto priminimai sukonfigūruoti, jie bus skaitomi kaip sukonfigūruoti."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:186
+msgid ""
+"Select whether or not to overwrite data for dates in the calendar that "
+"already contain information. Selecting \"Overwrite\" will add all events "
+"present in the iCal file, regardless of the existing information for the "
+"calendar dates. Selecting \"Skip\" will add data only for dates that do not "
+"have any information set."
+msgstr ""
+"Pasirinkite, ar perrašyti kalendoriaus duomenis datoms, kuriose jau yra "
+"informacijos,  ar ne. Pasirinkus „Perrašyti“, visi „iCal“ faile esantys "
+"įvykiai bus įtraukti, neatsižvelgiant į esamą kalendoriaus datų informaciją. "
+"Pasirinkus „Praleisti“, bus įtraukti tik tų datų duomenys, kurių informacija "
+"nenustatyta."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:5
+msgid ""
+"Select which calendar you wish to insert and use the options to customize it "
+"to your needs."
+msgstr ""
+"Pasirinkite, kurį kalendorių norite įterpti, ir naudokite parinktis, kad "
+"pritaikytumėte jį pagal savo poreikius."
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:173
+#: includes/base/admin/calendar/views/view-ical-import-export.php:169
+#: includes/base/admin/calendar/views/view-ical-import-export.php:192
+#: includes/base/admin/calendar/views/view-ical-import-export.php:212
+#: includes/base/admin/calendar/views/view-ical-import-export.php:345
+#: includes/base/admin/calendar/views/view-ical-import-export.php:387
+#: includes/base/admin/calendar/views/view-ical-import-export.php:409
+#: includes/base/admin/calendar/views/view-edit-calendar.php:187
+#: includes/base/admin/calendar/views/view-edit-calendar.php:214
+msgid "Select..."
+msgstr "Pasirinkite..."
+
+#: includes/base/class-widget-overview-calendar.php:138
+#: includes/base/class-widget-overview-calendar.php:144
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:21
+msgid "Selected Calendars"
+msgstr "Pasirinkti Kalendoriai"
+
+#: includes/base/class-widget-calendar.php:387
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:318
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:265
+msgid "Selection Style"
+msgstr "Pasirinkimo Stilius"
+
+#: includes/base/class-widget-calendar.php:377
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:306
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:256
+msgid "Selection Type"
+msgstr "Pasirinkimo Tipas"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:41
+msgid ""
+"Send a confirmation email to the person who made the booking after "
+"completing the final payment."
+msgstr ""
+"Atlikę galutinį mokėjimą, išsiųskite patvirtinimo el. laišką, užsakymą "
+"atlikusiam asmeniui."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:27
+msgid "Send a confirmation email to the person who made the booking."
+msgstr "Išsiųskite patvirtinimo el. laišką asmeniui, kuris atliko užsakymą."
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:41
+msgid "Send a payment reminder email to the person who made the booking."
+msgstr "Išsiųskite mokėjimo priminimą asmeniui, kuris atliko užsakymą."
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:4
+msgid "Send an email to the customer"
+msgstr "Išsiųskite el. laišką klientui"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:160
+msgid "Send an email to the customer when accepting the booking"
+msgstr "Patvirtindami užsakymą išsiųskite el. laišką klientui"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:162
+msgid "Send an email to the customer when updating the booking"
+msgstr "Atnaujindami rezervaciją, išsiųskite klientui el. laišką"
+
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:15
+msgid ""
+"Send an email to yourself (the website administrator) whenever a booking is "
+"made."
+msgstr ""
+"Siųskite el. laišką sau (Interneto svetainės administratoriui), kai "
+"atliekate užsakymą."
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:5
+msgid "Send Date"
+msgstr "Siuntimo Data"
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:109
+msgid "Send Email"
+msgstr "Siųsti El. laišką"
+
+#: includes/base/admin/booking/views/view-add-booking.php:71
+msgid "Send Emails"
+msgstr "Siųsti El. laiškus"
+
+#: includes/modules/pricing/functions-part-payments.php:185
+msgid ""
+"Send the customer an email X days before the booking to remind him about the "
+"final payment."
+msgstr ""
+"Išsiųskite klientui el. laišką X dienų iki užsakymo, kad primintų apie "
+"galutinį mokėjimą."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:51
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:40
+#: includes/base/admin/booking/views/view-modal-email-customer.php:10
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:59
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:65
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:75
+msgid "Send To"
+msgstr "Siųsti į"
+
+#: includes/base/class-widget-overview-calendar.php:189
+#: includes/base/class-widget-calendar.php:269
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:113
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:102
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:56
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:34
+msgid "September"
+msgstr "Rugsėjis"
+
+#: includes/modules/update-checker/views/view-register-website.php:14
+msgid "Serial Key"
+msgstr "Serijos raktas"
+
+#: includes/base/admin/addons/functions.php:173
+msgid ""
+"Set advanced booking restrictions like minimum or maximum days, enforce a "
+"day of the week, and more."
+msgstr ""
+"Nustatykite išplėstinius užsakymo apribojimus, pvz., mažiausią arba "
+"didžiausią dienų skaičių, įveskite savaitės dieną ir kt."
+
+#: includes/modules/pricing/functions-pricing.php:374
+msgid "Set Default Price"
+msgstr "Nustatyti Numatytąją Kainą"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:45
+msgid ""
+"Set some default values so you won't have to fill in your name and email "
+"address everytime you send an email from the Booking Manager."
+msgstr ""
+"Nustatykite kai kurias numatytąsias reikšmes, kad jums nereikėtų kaskart "
+"įvesti savo vardo ir el. pašto adreso, kai siunčiate el. laišką iš "
+"Rezervacijų Tvarkyklės."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:358
+msgid "Set Up A Legend Item"
+msgstr "Nustatykite Įrašo Elementą"
+
+#: includes/base/admin/settings/functions.php:36
+#: includes/base/admin/settings/functions.php:37
+#: includes/base/admin/settings/views/view-settings.php:19
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: includes/base/admin/form/functions.php:258
+msgid "Settings Page"
+msgstr "Nustatymų puslapis"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:28
+msgid "Settings saved successfully."
+msgstr "Nustatymai sėkmingai išsaugoti."
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:26
+msgid "Show a Message"
+msgstr "Rodyti pranešimą"
+
+#: includes/base/class-widget-calendar.php:445
+msgid "Show Date Selection"
+msgstr "Rodyti Datos Pasirinkimą"
+
+#: includes/base/class-widget-overview-calendar.php:233
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:147
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:112
+msgid "Show Day Abbreviations"
+msgstr "Rodyti Dienos Santrumpas"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:197
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:121
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:196
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:87
+msgid "Show History"
+msgstr "Rodyti Istoriją"
+
+#: includes/base/class-widget-overview-calendar.php:211
+#: includes/base/class-widget-calendar.php:291
+msgid "Show history"
+msgstr "Rodyti istoriją"
+
+#: includes/base/class-widget-calendar.php:344
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:253
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:238
+msgid "Show Prices"
+msgstr "Rodyti Kainas"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:396
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:308
+msgid "Show Selected Dates"
+msgstr "Rodyti Pasirinktas Datas"
+
+#: includes/base/class-widget-overview-calendar.php:222
+#: includes/base/class-widget-calendar.php:302
+msgid "Show Tooltip"
+msgstr "Rodyti Patarimus"
+
+#: includes/base/class-widget-calendar.php:313
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:240
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:229
+msgid "Show Week Numbers"
+msgstr "Rodyti Savaitės Numerius"
+
+#: includes/base/class-widget-calendar.php:194
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:57
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
+msgid "Side"
+msgstr "Pusė"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:73
+msgid "Single"
+msgstr "Vienas"
+
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:10
+msgid "Single Calendar"
+msgstr "Vienas Kalendorius"
+
+#: includes/base/class-widget-calendar.php:381
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:310
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:260
+msgid "Single Day"
+msgstr "Viena Diena"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:194
+msgid "Skip"
+msgstr "Praleisti"
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:19
+msgid "Something went wrong. Could not add the legend item."
+msgstr "Kažkas nutiko. Nepavyko pridėti įrašo elemento."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:82
+msgid "Something went wrong. Could not add the legend item. Please try again."
+msgstr ""
+"Kažkas nutiko. Nepavyko pridėti įrašo elemento. Prašau, pabandykite dar "
+"kartą."
+
+#: includes/modules/update-checker/functions.php:95
+#: includes/modules/update-checker/functions.php:113
+msgid "Something went wrong. Could not complete the operation."
+msgstr "Kažkas nutiko. Nepavyko užbaigti operacijos."
+
+#: includes/modules/update-checker/functions.php:117
+msgid ""
+"Something went wrong. Could not connect to our server to deregister your "
+"website."
+msgstr ""
+"Kažkas nutiko. Nepavyko prisijungti prie mūsų serverio, kad būtų "
+"išregistruota jūsų interneto svetainė."
+
+#: includes/modules/update-checker/functions.php:99
+msgid ""
+"Something went wrong. Could not connect to our server to register your "
+"website."
+msgstr ""
+"Kažkas nutiko. Nepavyko prisijungti prie mūsų serverio ir užregistruoti jūsų "
+"interneto svetainę."
+
+#: includes/base/admin/calendar/functions-actions-calendar.php:42
+msgid "Something went wrong. Could not create the calendar. Please try again."
+msgstr ""
+"Kažkas nutiko. Nepavyko sukurti kalendoriaus. Prašome, pabandyti dar kartą."
+
+#: includes/base/admin/form/functions-actions-form.php:45
+msgid "Something went wrong. Could not create the form. Please try again."
+msgstr "Kažkas nutiko. Nepavyko sukurti formos. Prašome, pabandyti dar kartą."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:216
+#: includes/base/admin/calendar/functions-actions-legend-item.php:231
+#: includes/base/admin/calendar/functions-actions-legend-item.php:246
+msgid ""
+"Something went wrong. Could not delete the legend item. Please try again."
+msgstr ""
+"Kažkas nutiko. Nepavyko ištrinti įrašo elemento. Prašau, pabandykite dar "
+"kartą."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:398
+#: includes/base/admin/calendar/functions-actions-ical.php:412
+#: includes/base/admin/calendar/functions-actions-ical.php:638
+msgid "Something went wrong. Could not import the iCal file."
+msgstr "Kažkas nutiko. Nepavyko importuoti iCal failo."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:624
+msgid "Something went wrong. Could not import the iCal URL."
+msgstr "Kažkas nutiko. Nepavyko importuoti iCal URL."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:810
+#: includes/base/admin/calendar/functions-actions-ical.php:824
+msgid "Something went wrong. Could not refresh the iCal feeds."
+msgstr "Kažkas nutiko. Nepavyko atnaujinti „iCal“ informacijos santraukų."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:684
+#: includes/base/admin/calendar/functions-actions-ical.php:694
+#: includes/base/admin/calendar/functions-actions-ical.php:711
+msgid "Something went wrong. Could not remove the iCal URL."
+msgstr "Kažkas nutiko. Nepavyko pašalinti iCal URL."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:261
+#: includes/base/admin/calendar/functions-actions-ical.php:281
+msgid "Something went wrong. Could not reset the private link."
+msgstr "Kažkas nutiko. Nepavyko iš naujo nustatyti privačios nuorodos."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:310
+msgid "Something went wrong. Could not save the Export preferences."
+msgstr "Kažkas nutiko. Nepavyko išsaugoti eksportavimo nuostatų."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:61
+msgid "Something went wrong. Could not sort the legend items."
+msgstr "Kažkas nutiko. Nepavyko surūšiuoti įrašų elementų."
+
+#: includes/base/admin/calendar/class-submenu-page-calendar.php:40
+msgid "Something went wrong. Could not update the calendar."
+msgstr "Kažkas nutiko. Nepavyko atnaujinti kalendoriaus."
+
+#: includes/base/admin/form/functions-actions-form.php:78
+msgid "Something went wrong. Could not update the form."
+msgstr "Kažkas nutiko. Nepavyko atnaujinti formos."
+
+#: includes/base/admin/calendar/functions-actions-legend-item.php:170
+msgid ""
+"Something went wrong. Could not updated the legend item. Please try again."
+msgstr ""
+"Kažkas nutiko. Nepavyko atnaujinti įrašo elemento. Prašau, pabandykite dar "
+"kartą."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:75
+msgid "Sort"
+msgstr "Rūšiuoti"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:181
+msgid "Sort by"
+msgstr "Rikiuoti pagal"
+
+#: includes/base/admin/booking/class-bookings-outputter.php:188
+msgid "Sort order"
+msgstr "Rikiavimo tvarka"
+
+#: includes/base/class-widget-calendar.php:391
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:322
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:74
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:269
+msgid "Split"
+msgstr "Dalinti"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:403
+msgid "Split Day End"
+msgstr "Padalintos dienos pabaiga"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:381
+msgid "Split Day Start"
+msgstr "Padalinta Dienos Pradžia"
+
+#: includes/base/admin/booking/views/view-add-booking.php:49
+msgid "Split Days"
+msgstr "Padalintos Dienos"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-builder.php:12
+#| msgid ""
+#| "Start building yor form by adding a form element. Click on any of the "
+#| "elements on the right to add them here!"
+msgid ""
+"Start building your form by adding a form element. Click on any of the "
+"elements on the right to add them here!"
+msgstr ""
+"Pradėkite kurti formą pridėdami formos elementą. Spustelėkite bet kurį iš "
+"elementų dešinėje, kad pridėtumėte juos čia!"
+
+#: includes/base/admin/form/functions.php:518
+#: includes/base/admin/form/functions.php:576
+#: includes/base/admin/booking/class-booking-detail-outputter.php:193
+#: includes/base/admin/calendar/views/view-edit-calendar.php:353
+msgid "Start Date"
+msgstr "Pradžios data"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:150
+msgid "Start date"
+msgstr "Pradžios data"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:171
+msgid "Start Date only"
+msgstr "Tik Pradžios Data"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:172
+msgid "Start Date or End Date"
+msgstr "Pradžios Data arba Pabaigos Data"
+
+#: includes/base/class-widget-overview-calendar.php:177
+#: includes/base/class-widget-calendar.php:257
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:101
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:90
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:154
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:79
+msgid "Start Month"
+msgstr "Pradžios Mėnuo"
+
+#: includes/base/admin/addons/functions.php:82
+msgid ""
+"Start receiving payments with PayPal Smart Payment Buttons. Your visitors "
+"can pay with their PayPal account or with their Credit Cards."
+msgstr ""
+"Pradėkite gauti mokėjimus naudodami PayPal Išmaniuosius Mokėjimo Mygtukus. "
+"Jūsų lankytojai gali mokėti naudodami savo PayPal sąskaitą arba Kreditines "
+"Korteles."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:294
+msgid "Start writing your note here..."
+msgstr "Pradėkite rašyti savo pastabą čia..."
+
+#: includes/base/class-widget-overview-calendar.php:198
+#: includes/base/class-widget-calendar.php:278
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:86
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:75
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:146
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:71
+msgid "Start Year"
+msgstr "Pradžios Metai"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:313
+msgid "Starting Changeover"
+msgstr "Pakeitimo Pradžia"
+
+#: includes/base/admin/form/functions.php:559
+msgid "Starting Day"
+msgstr "Pradžios Diena"
+
+#: includes/base/admin/settings/class-submenu-page-settings.php:50
+msgid "Strings & Translations"
+msgstr "Eilutės ir Vertimai"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:205
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:114
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:96
+#: includes/base/admin/booking/views/view-modal-email-customer.php:66
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:115
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:128
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:138
+msgid "Subject"
+msgstr "Tema"
+
+#: includes/base/form/class-form-outputter.php:1273
+#: includes/base/admin/form/functions-actions-form.php:52
+msgid "Submit"
+msgstr "Patvirtinti"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:17
+msgid "Submit Button Label"
+msgstr "Mygtuko \"Patvirtinti\" etiketė"
+
+#: includes/modules/pricing/functions-pricing.php:706
+msgid "Subtotal"
+msgstr "Tarpinė suma"
+
+#: includes/base/functions.php:75 includes/base/class-widget-calendar.php:221
+#: includes/base/class-widget-calendar.php:423
+#: includes/base/class-widget-calendar.php:439
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:165
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:365
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:383
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:82
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:93
+msgid "Sunday"
+msgstr "Sekmadienis"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:43
+msgid "Symbol (eg. $, £)"
+msgstr "Simbolis (pvz., $, £)"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:54
+msgid "Tax"
+msgstr "Mokestis"
+
+#: includes/modules/pricing/settings/functions.php:41
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:24
+msgid "Taxes"
+msgstr "Mokesčiai"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:181
+msgid "Template #"
+msgstr "Šablonas #"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:52
+#: includes/base/admin/settings/views/view-settings-tab-form.php:65
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:91
+msgid "Text Color"
+msgstr "Teksto Spalva"
+
+#: includes/base/admin/form/functions.php:552
+#: includes/base/admin/form/functions.php:556
+#, php-format
+msgid ""
+"The \"%s\" will be replaced by the number of days set in the widget or "
+"shortcode."
+msgstr ""
+"„%s“ bus pakeistas valdiklyje arba trumpajame kode nustatytu dienų skaičiumi."
+
+#: includes/base/admin/form/functions.php:560
+#: includes/base/admin/form/functions.php:564
+#, php-format
+msgid ""
+"The \"%s\" will be replaced by the week day set in the widget or shortcode."
+msgstr ""
+"„%s“ bus pakeista savaitės diena, nustatyta valdiklyje arba trumpajame kode."
+
+#: includes/modules/pricing/functions-part-payments.php:71
+msgid "The amount that the customer will be charged when making the booking."
+msgstr "Suma, kurią klientas turės sumokėti atlikdamas užsakymą."
+
+#: includes/base/admin/form/functions.php:514
+#, php-format
+msgid "The booking must end on a %s."
+msgstr "Užsakymas turi baigtis %s."
+
+#: includes/base/admin/form/functions.php:513
+#, php-format
+msgid "The booking must start on a %s."
+msgstr "Užsakymas turi prasidėti %s."
+
+#: includes/base/admin/booking/functions-add-booking.php:187
+msgid "The booking was successfully created."
+msgstr "Užsakymas sėkmingai sukurtas."
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:59
+msgid "The border highlight color of the current day."
+msgstr "Dabartinės dienos kraštinės paryškinimo spalva."
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:48
+msgid "The color of the calendar dates after they have been selected."
+msgstr "Kalendoriaus datų spalva po jų pasirinkimo."
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:37
+msgid "The color of the calendar dates when hovering over them."
+msgstr "Kalendoriaus datų spalva užvedus pelės žymeklį ant jų."
+
+#: includes/modules/pricing/functions-part-payments.php:200
+msgid ""
+"The confirmation message that appears after the final payment has succeeded."
+msgstr ""
+"Patvirtinimo pranešimas, kuris pasirodo sėkmingai atlikus galutinį mokėjimą."
+
+#: includes/base/admin/form/functions.php:585
+msgid ""
+"The date the booking was made on. This appears in the email if the {All "
+"Fields} tag is used."
+msgstr ""
+"Užsakymo data. Tai rodoma el. laiške, jei naudojama žyma {All Fields} (Visi "
+"Laukai)."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:163
+msgid ""
+"The dates from the iCal events present in the file will be assigned the "
+"legend item that you choose here."
+msgstr ""
+"Faile esančių iCal įvykių datoms bus priskirtas įrašo elementas, kurį "
+"pasirinksite čia."
+
+#: includes/base/admin/backup/views/view-backup.php:28
+msgid ""
+"The export file will contain all information saved by the plugin, including "
+"calendars, bookings and general settings."
+msgstr ""
+"Eksporto faile bus visa papildinio išsaugota informacija, įskaitant "
+"kalendorius, užsakymus ir bendruosius nustatymus."
+
+#: includes/base/admin/backup/functions-actions-backup.php:83
+msgid ""
+"The file you are trying to import does not have a valid extension. The "
+"extension of the file should be \".wpbs\"."
+msgstr ""
+"Failas, kurį bandote importuoti, neturi tinkamo plėtinio. Failo plėtinys "
+"turi būti \".wpbs\"."
+
+#: includes/base/admin/backup/functions-actions-backup.php:96
+msgid ""
+"The file you are trying to import is not compatible with this version of the "
+"plugin."
+msgstr ""
+"Failas, kurį bandote importuoti, nesuderinamas su šia papildinio versija."
+
+#: includes/modules/pricing/functions-part-payments.php:204
+#: includes/modules/pricing/functions-part-payments.php:680
+#: includes/base/admin/form/functions-actions-form.php:54
+msgid "The form was successfully submitted."
+msgstr "Forma sėkmingai pateikta."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:603
+#: includes/base/admin/calendar/functions-actions-ical.php:614
+msgid "The iCal feed URL is not valid or could not be opened."
+msgstr "„iCal“ srauto URL neteisingas arba jo nepavyko atidaryti."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:591
+msgid "The iCal feed URL is not valid."
+msgstr "„iCal“ srauto URL neteisingas."
+
+#: includes/base/admin/calendar/functions-actions-ical.php:437
+msgid "The iCal file has no events to import."
+msgstr "„iCal“ faile nėra įvykių, kuriuos būtų galima importuoti."
+
+#: includes/modules/pricing/functions-part-payments.php:545
+msgid "The label for the Amount Billed in the payment form."
+msgstr "Sąskaitos sumos etiketė mokėjimo formoje."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:294
+msgid "The legend item assigned to this iCalendar link no longer exists."
+msgstr "Šiai „iCalendar“ nuorodai priskirto įrašo elemento nebėra."
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:40
+msgid "The loading message while the payment is being processed."
+msgstr "Įkeliamas pranešimas, kol apdorojamas mokėjimas."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:344
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:286
+msgid ""
+"The maximum number of days of a booking. If you are using the \"Split\" "
+"selection type, the number of nights will be counted instead."
+msgstr ""
+"Maksimalus užsakymo dienų skaičius. Jei naudojate pasirinkimo tipą "
+"„Padalinti“, vietoj to bus skaičiuojamas nakvynių skaičius."
+
+#: includes/modules/update-checker/functions.php:105
+#, php-format
+msgid ""
+"The maximum number of websites have been registered for this serial key. To "
+"upgrade your license, %splease visit our website%s."
+msgstr ""
+"Šiam serijos raktui užregistruotas didžiausias svetainių skaičius. Norėdami "
+"atnaujinti licenciją, apsilankykite %sprašome apsilankyti mūsų svetainėje%s."
+
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:44
+msgid "The message that appears in the pricing table if no dates are selected."
+msgstr ""
+"Pranešimas, kuris pasirodo kainodaros lentelėje, jei nepasirinkta jokia data."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:335
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:278
+msgid ""
+"The minimum number of days of a booking. If you are using the \"Split\" "
+"selection type, the number of nights will be counted instead."
+msgstr ""
+"Minimalus užsakymo dienų skaičius. Jei naudojate pasirinkimo tipą "
+"„Padalinti“, vietoj to bus skaičiuojamas nakvynių skaičius."
+
+#: index.php:155
+#, php-format
+msgid ""
+"The minimum required version for the <strong>%s</strong> Add-on is %s or "
+"greater. Please <a href=\"%s\">update</a> to the latest version."
+msgstr ""
+"Minimali reikalinga versija <strong>%s</strong> Papildiniui yra %s arba "
+"didenės. Prašau <a href=\"%s\">atnaujinti</a> į naujausią versiją."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:56
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:56
+msgid "The payment method description that appears on the booking form."
+msgstr "Mokėjimo būdo aprašymas, rodomas užsakymo formoje."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:28
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:28
+msgid "The payment method name that appears on the booking form."
+msgstr "Mokėjimo būdo pavadinimas, rodomas užsakymo formoje."
+
+#: includes/modules/update-checker/views/view-register-website.php:33
+#, php-format
+msgid ""
+"The plugin by default checks once a day if there is an update available for "
+"it and displays if there is one in the %1$sPlugins page%2$s. If you want to "
+"do a manual update check and not wait for the automatic one, press the Check "
+"for Updates button and then check the %1$sPlugins page%2$s."
+msgstr ""
+"Įskiepis pagal numatytuosius nustatymus kartą per dieną tikrina, ar yra jo "
+"naujinimas, ir parodo, ar toks yra, %1$sĮskiepių puslapis%2$s. Jei norite "
+"atlikti naujinimų patikrą rankiniu būdu, o ne laukti automatinio, "
+"paspauskite mygtuką Tikrinti, ar nėra naujinimų, tada patikrinkite "
+"%1$sĮskiepių puslapis%2$s."
+
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:53
+msgid ""
+"The product name to show in the price calculator for date selections. For eg."
+" \"Days\". If the users selects 4 days in the calendar, the price "
+"calculation will show \"Days &times; 4: 100 EUR\""
+msgstr ""
+"Produkto pavadinimas, kuris turi būti rodomas kainų skaičiuoklėje datos "
+"pasirinkimui. Pvz. \"Dienos\". Naudotojams kalendoriuje pasirinkus 4 dienas, "
+"skaičiuojant kainą bus rodoma „Dienos ir laikai; 4: 100 EUR“"
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:27
+msgid ""
+"The product name to show in the price calculator for date selections. For eg."
+" \"Days\". If the users selects 4 days in the calendar, the price "
+"calculation will show \"Days &times; 4: 100 EUR\". "
+msgstr ""
+"Produkto pavadinimas, kuris turi būti rodomas kainų skaičiuoklėje datos "
+"pasirinkimui. Pvz. \"Dienos\". Naudotojams kalendoriuje pasirinkus 4 dienas, "
+"skaičiuojant kainą bus rodoma „Dienos ir laikai; 4: 100 EUR“."
+
+#: includes/modules/update-checker/functions.php:103
+#, php-format
+msgid ""
+"The provided serial key is either invalid or expired. You cannot register a "
+"website with an invalid or expired serial key. %sPlease visit our website to "
+"set up or renew your WP Booking System license%s."
+msgstr ""
+"Pateiktas serijos raktas yra neteisingas arba pasibaigęs. Negalite "
+"registruoti svetainės su netinkamu arba pasibaigusio galiojimo serijos raktu."
+" %sNorėdami nustatyti arba atnaujinti WP užsakymo sistemos licenciją, "
+"apsilankykite mūsų svetainėje%s."
+
+#: includes/modules/upgrader/views/view-upgrader.php:26
+msgid ""
+"The setup should take just a few moments. For safe keeping, your old data "
+"will not be removed."
+msgstr ""
+"Sąranka turėtų užtrukti vos kelias akimirkas. Kad būtų galima saugiai "
+"saugoti, seni jūsų duomenys nebus pašalinti."
+
+#: includes/modules/tools/views/view-tools.php:14
+#| msgid ""
+#| "The uninstaller will remove all WP Booking System information stored in "
+#| "the database for version 2 and higher."
+msgid ""
+"The uninstaller will remove all WP Booking System information stored in the "
+"database for version 5 and higher."
+msgstr ""
+"Pašalinimo programa pašalins visą WP užsakymo sistemos informaciją, saugomą "
+"5 ir naujesnės versijos duomenų bazėje."
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:34
+msgid "Theme Styling"
+msgstr "Temos stilius"
+
+#: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:68
+msgid "There are no users that can be assigned to the calendar."
+msgstr "Nėra naudotojų, kuriuos būtų galima priskirti kalendoriui."
+
+#: includes/modules/user-restrictions/views/view-edit-form-main-fields.php:71
+msgid "There are no users that can be assigned to the form."
+msgstr "Nėra vartotojų, kuriuos būtų galima priskirti formai."
+
+#: includes/base/admin/settings/views/view-settings-tab-strings-form.php:13
+msgid ""
+"These are the default form strings and translations. They can be overwritten "
+"individually for each form on its settings page."
+msgstr ""
+"Tai yra numatytosios formos eilutės ir vertimai. Juos galima perrašyti "
+"atskirai kiekvienai formai jos nustatymų puslapyje."
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:81
+msgid ""
+"These legend items will be used to automatically book the calendar dates if "
+"\"Auto Accept\" parameter in the shortcode is set to \"Yes\"."
+msgstr ""
+"Šie įrašų elementai bus naudojami automatiškai rezervuojant kalendoriaus "
+"datas, jei \"Automatinis Priėmimas\" parametras trumpajame kode yra "
+"nustatytas į \"Taip\"."
+
+#: includes/base/admin/addons/functions.php:137
+msgid ""
+"This Add-on allows you to create a search widget so website visitors can "
+"search through calendars."
+msgstr ""
+"Šis priedas leidžia sukurti paieškos valdiklį, kad svetainės lankytojai "
+"galėtų ieškoti kalendoriuose."
+
+#: includes/base/admin/form/functions.php:573
+#: includes/base/admin/form/functions.php:577
+#: includes/base/admin/form/functions.php:581
+msgid "This appears in the email if the {All Fields} tag is used."
+msgstr "Tai rodoma el. laiške, jei naudojama žyma {All Fields} (visi laukai)."
+
+#: includes/base/form/class-email-tags.php:253
+#: includes/base/form/class-email-tags.php:267
+msgid "This booking does not have a Part Payment."
+msgstr "Ši rezervacija dalinio mokėjimo neturi."
+
+#: includes/base/admin/form/functions.php:507
+msgid "This field is required."
+msgstr "Šį lauką būtina užpildyti."
+
+#: includes/modules/tools/views/view-tools.php:16
+msgid ""
+"This includes, but is not limited to, all calendars, all legend items, all "
+"bookings, all plugin settings."
+msgstr ""
+"Įskaitant, bet tuo neapsiribojant, visus kalendorius, visus įrašų elementus, "
+"visas rezervacijas ir visus įskiepių nustatymus."
+
+#: includes/modules/pricing/functions-part-payments.php:167
+msgid ""
+"This is the page which will hold the payment form for the final payment. You "
+"will need to add the [wpbs-final-payment] shortcode to this page."
+msgstr ""
+"Tai puslapis, kuriame bus galutinio mokėjimo forma. Šiame puslapyje turėsite "
+"pridėti trumpąjį kodą [wpbs-final-payment]."
+
+#: includes/modules/upgrader/views/view-upgrader.php:24
+msgid ""
+"This new version was written from the ground up to make the plugin easier to "
+"use, more flexible and more stable."
+msgstr ""
+"Ši nauja versija buvo parašyta nuo pat pradžių, kad papildinys būtų lengviau "
+"naudojamas, lankstesnis ir stabilesnis."
+
+#: includes/modules/pricing/functions-part-payments.php:103
+msgid ""
+"This option allows you to charge a deposit only if the booking is X days in "
+"the future. For example, if you set the applicable period to 14 days, and "
+"someone makes a booking starting one week from today, they will be charged "
+"the full amount. If they make a booking starting from 14 or more days in the "
+"future, they will be asked to pay the deposit. Zero days means the option is "
+"disabled, and deposit will always be charged."
+msgstr ""
+"Ši parinktis leidžia imti užstatą tik tuo atveju, jei užsakymas yra X dienų "
+"ateityje. Pavyzdžiui, jei nustatote 14 dienų taikomą laikotarpį, o kas nors "
+"atlieka užsakymą nuo vienos savaitės nuo šiandien, jis bus apmokestintas "
+"visa suma. Jei jie atliks rezervaciją po 14 ar daugiau dienų ateityje, jų "
+"bus paprašyta sumokėti užstatą. Nulis dienų reiškia, kad parinktis išjungta, "
+"o užstatas visada bus apmokestintas."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:197
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:121
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:205
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:96
+msgid ""
+"This option lets you decide how past dates are being displayed for the user "
+"in the front-end."
+msgstr ""
+"Ši parinktis leidžia nuspręsti, kaip naudotojui bus rodomos ankstesnės datos "
+"sąsajoje."
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:88
+msgid ""
+"This overwrites the default Payment Instructions added in the plugin's "
+"Settings page."
+msgstr ""
+"Tai perrašo numatytąsias Mokėjimo instrukcijas, įtrauktas į įskiepio "
+"nustatymų puslapį."
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:27
+msgid ""
+"This overwrites the default Product Name specified in the plugin's Settings "
+"page."
+msgstr ""
+"Tai perrašo numatytąjį produkto pavadinimą, nurodytą įskiepio nustatymų "
+"puslapyje."
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:152
+msgid ""
+"This text will appear on all outgoing emails if the Fancy Emails are enabled."
+msgstr ""
+"Šis tekstas bus rodomas visuose siunčiamuose el. laiškuose, jei įgalinti "
+"įmantrūs el. laiškai."
+
+#: includes/modules/update-checker/functions.php:101
+#, php-format
+msgid ""
+"This website is already registered with the provided serial key. Please log "
+"into %syour account on our website%s to view all your registered websites."
+msgstr ""
+"Ši svetainė jau užregistruota naudojant pateiktą serijos raktą. Prašome "
+"prisijungti %ssavo paskyrą mūsų svetainėje%s norėdami peržiūrėti visas "
+"registruotas svetaines."
+
+#: includes/base/admin/calendar/class-list-table-calendars.php:237
+msgid ""
+"This will duplicate the calendar and copy legend items, events, availability,"
+" prices and inventory. It will not copy bookings or any iCalendar feeds."
+msgstr ""
+"Taip bus dubliuojamas kalendorius ir nukopijuojami įrašų elementai, įvykiai, "
+"prieinamumas, kainos ir inventorius. Jis nekopijuos rezervacijų ar jokių "
+"„iCalendar“ kanalų."
+
+#: includes/modules/tools/views/view-tools.php:49
+msgid ""
+"This will not affect the events in your calendar, regardless if they were "
+"created manually or automatically when a booking was made."
+msgstr ""
+"Tai neturės įtakos jūsų kalendoriaus įvykiams, nepaisant to, ar jie buvo "
+"sukurti rankiniu būdu, ar automatiškai, kai buvo rezervuojama."
+
+#: includes/modules/tools/views/view-tools.php:47
+msgid ""
+"This will remove all your bookings, booking data and payment data. It will "
+"also reset the booking IDs to 1."
+msgstr ""
+"Tai pašalins visus jūsų užsakymus, užsakymo duomenis ir mokėjimo duomenis. "
+"Taip pat iš naujo bus nustatyti užsakymo ID į 1."
+
+#: includes/base/functions.php:72 includes/base/class-widget-calendar.php:218
+#: includes/base/class-widget-calendar.php:420
+#: includes/base/class-widget-calendar.php:436
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:162
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:362
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:380
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:79
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:90
+msgid "Thursday"
+msgstr "Ketvirtadienis"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:508
+msgid "To configure the CSV export settings please click the button below. "
+msgstr ""
+"Norėdami sukonfigūruoti CSV eksportavimo nustatymus, spustelėkite toliau "
+"esantį mygtuką."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:493
+msgid ""
+"To configure the iCal import & export settings and have access to the iCal "
+"export link please click the button below."
+msgstr ""
+"Norėdami sukonfigūruoti iCal importavimo ir eksportavimo nustatymus ir "
+"turėti prieigą prie iCal eksportavimo nuorodos, spustelėkite toliau esantį "
+"mygtuką."
+
+#: includes/modules/tools/views/view-tools.php:55
+msgid ""
+"To confirm that you really want to remove all booking and payment data, "
+"please type REMOVE in the field below."
+msgstr ""
+"Norėdami patvirtinti, kad tikrai norite pašalinti visus užsakymo ir mokėjimo "
+"duomenis, žemiau esančiame laukelyje įveskite REMOVE."
+
+#: includes/modules/tools/views/view-tools.php:26
+msgid ""
+"To confirm that you really want to uninstall WP Booking System, please type "
+"REMOVE in the field below."
+msgstr ""
+"Norėdami patvirtinti, kad tikrai norite pašalinti \"WP Booking System\", "
+"žemiau esančiame laukelyje įveskite REMOVE."
+
+#: includes/base/admin/backup/views/view-backup.php:26
+msgid ""
+"To export a backup file for WP Booking System, please click the Download "
+"Export File button."
+msgstr ""
+"Norėdami eksportuoti atsarginę \"WP Booking System\" failo kopiją, "
+"spustelėkite mygtuką Atsisiųsti eksportuotavimo failą."
+
+#: includes/base/admin/backup/views/view-backup.php:55
+msgid ""
+"To import all data from a WP Booking System export file, browse for that "
+"file and click the Import Data button."
+msgstr ""
+"Norėdami importuoti visus duomenis iš \"WP Booking System\" eksporto failo, "
+"suraskite tą failą ir spustelėkite mygtuką Importuoti duomenis."
+
+#: includes/modules/upgrader/views/view-upgrader.php:25
+msgid ""
+"To start using the new version we will have to do a quick setup to migrate "
+"your existing data to the new format."
+msgstr ""
+"Norėdami pradėti naudoti naują versiją, turėsime greitai nustatyti, kad "
+"esami duomenys būtų perkelti į naują formatą."
+
+#: includes/base/admin/form/functions.php:258
+msgid "To use reCAPTCHA you must add your API Keys in the"
+msgstr "Norėdami naudoti reCAPTCHA, turite pridėti API raktus"
+
+#: includes/base/admin/settings/views/view-settings-tab-general.php:59
+msgid "Today's Highlight Color"
+msgstr "Šios Dienos Paryškinimo Spalva"
+
+#: includes/modules/tools/functions.php:17
+msgid "Tools"
+msgstr "Įrankiai"
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:268
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:25
+#: includes/base/admin/calendar/views/view-edit-calendar.php:422
+msgid "Tooltip"
+msgstr "Patarimas"
+
+#: includes/base/class-widget-overview-calendar.php:169
+#: includes/base/class-widget-calendar.php:195
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:58
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:66
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:67
+msgid "Top"
+msgstr "Viršus"
+
+#: includes/modules/pricing/functions-pricing.php:705
+#: includes/modules/pricing/class-payment.php:852
+msgid "Total"
+msgstr "Iš viso"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:47
+msgid "Tracking Script"
+msgstr "Stebėjimo skriptas"
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:48
+msgid ""
+"Tracking script code (eg. Google Analytics) that's executed after the form "
+"was successfully submitted."
+msgstr ""
+"Stebėjimo skriptas (pvz., Google Analytics), kuris vykdomas sėkmingai "
+"pateikus formą."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:74
+msgid "Translate calendar title"
+msgstr "Išversti kalendoriaus pavadinimą"
+
+#: includes/modules/pricing/functions-part-payments.php:205
+#: includes/base/admin/settings/views/view-settings-tab-strings-form.php:36
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:39
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:67
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:41
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:118
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:147
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:21
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:111
+#: includes/base/admin/calendar/views/view-edit-calendar.php:196
+#: includes/base/admin/calendar/views/view-edit-calendar.php:246
+#: includes/modules/pricing/settings/views/view-payment-settings-general.php:58
+#: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:64
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:33
+#: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:61
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:65
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:271
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:33
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:61
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:90
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:132
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:161
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:142
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:171
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:32
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:94
+msgid "Translations"
+msgstr "Vertimai"
+
+#: includes/base/admin/form/class-list-table-forms.php:131
+#: includes/base/admin/form/class-list-table-forms.php:218
+#: includes/base/admin/calendar/class-list-table-calendars.php:132
+#: includes/base/admin/calendar/class-list-table-calendars.php:238
+msgid "Trash"
+msgstr "Šiukšliadėžė"
+
+#: includes/base/functions.php:70 includes/base/class-widget-calendar.php:216
+#: includes/base/class-widget-calendar.php:418
+#: includes/base/class-widget-calendar.php:434
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:160
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:360
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:378
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:77
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:88
+msgid "Tuesday"
+msgstr "Antradienis"
+
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:70
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:85
+msgid "Type"
+msgstr "Tipas"
+
+#: includes/base/admin/form/views/view-edit-form.php:47
+msgid ""
+"Uh-oh! It looks like you some of your fields have the same ID. Not sure how "
+"this happened. Please delete one of the fields and try creating it again."
+msgstr ""
+"Oi! Panašu, kad kai kurie jūsų laukai turi tą patį ID. Nežinome, kaip tai "
+"atsitiko. Ištrinkite vieną iš laukų ir bandykite jį sukurti dar kartą."
+
+#: includes/base/admin/form/views/view-edit-form.php:40
+msgid ""
+"Uh-oh! You are using email tags in your notifications that are not available "
+"in the form anymore."
+msgstr ""
+"Oi! Pranešimuose naudojate el. pašto žymas, kurios formoje nebepasiekiamos."
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:440
+msgid "Undo"
+msgstr "Anuliuoti"
+
+#: includes/modules/tools/views/view-tools.php:8
+#| msgid "Uninstaller"
+msgid "Uninstall"
+msgstr "Išdiegti"
+
+#: includes/modules/tools/views/view-tools.php:32
+msgid "Uninstall Plugin"
+msgstr "Pašalinkite papildinį"
+
+#: includes/base/admin/booking/class-booking-detail-outputter.php:148
+msgid "Update Booking"
+msgstr "Atnaujinti rezervaciją"
+
+#: includes/base/admin/addons/views/view-addons.php:37
+msgid "Upgrade your licence"
+msgstr "Atnaujinkite savo licenciją"
+
+#: includes/base/admin/settings/views/view-settings-tab-email.php:126
+msgid "Upload Image"
+msgstr "Įkelti paveikslėlį"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:9
+msgid "Use Custom Strings"
+msgstr "Naudokite Pasirinktines Eilutes"
+
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:10
+msgid ""
+"Use custom Strings and Translations for this form instead of the default "
+"Strings and Translations from the Settings page."
+msgstr ""
+"Šiai formai naudokite tinkintas eilutes ir vertimus, o ne numatytąsias "
+"eilutes ir vertimus puslapyje Nustatymai."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:185
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:187
+msgid "Use Jump Switch"
+msgstr "Naudokite Peršokimo Jungiklį"
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:361
+msgid "Use Split Days"
+msgstr "Naudokite Dalines dienas"
+
+#: includes/base/class-widget-overview-calendar.php:216
+#: includes/base/class-widget-calendar.php:296
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:202
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:126
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:203
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:94
+msgid "Use the Booking History Color from the Settings"
+msgstr "Naudokite Užsakymo Istorijos Spalvą iš Nustatymų"
+
+#: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:50
+msgid "User Assign"
+msgstr "Vartotojo Priskyrimas"
+
+#: includes/modules/user-restrictions/views/view-edit-form-main-fields.php:53
+msgid "User Editing Permissions"
+msgstr "Vartotojo Redagavimo Leidimai"
+
+#: includes/base/admin/form/class-submenu-page-form.php:91
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:19
+#: includes/base/admin/booking/views/view-modal-email-logs.php:22
+msgid "User Notification"
+msgstr "Vartotojo pranešimas"
+
+#: includes/modules/user-restrictions/views/view-settings-tab-general-fields.php:14
+msgid "User Role Permissions"
+msgstr "Vartotojo Vaidmens Leidimai"
+
+#: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:44
+msgid "Users Editing Permissions"
+msgstr "Vartotojų Redagavimo Leidimai"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:106
+#| msgid "Secret Key"
+msgid "v2 Secret Key"
+msgstr "v2 Slaptasis Raktas"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:95
+#| msgid "Site Key"
+msgid "v2 Site Key"
+msgstr "v2 Interneto Svetainės Raktas"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:133
+msgid "v3 Secret Key"
+msgstr "v3 Slaptasis Raktas"
+
+#: includes/base/admin/settings/views/view-settings-tab-form.php:122
+msgid "v3 Site Key"
+msgstr "v3 Interneto Svetainės Raktas"
+
+#: includes/base/admin/form/functions.php:536
+msgid "Validation Errors"
+msgstr "Patvirtinimo klaidos"
+
+#: includes/base/admin/form/functions.php:533
+msgid "Validation Strings"
+msgstr "Patvirtinimo Eilutės"
+
+#: includes/modules/pricing/class-vat.php:98
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:226
+msgid "VAT"
+msgstr "PVM"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:266
+msgid "VAT Name"
+msgstr "PVM Mokėtojo Pavadinimas"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:249
+msgid "VAT Percentage"
+msgstr "PVM Procentas"
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"
+
+#: includes/base/admin/booking/functions-add-booking.php:188
+msgid "View Booking"
+msgstr "Žiūrėti Rezervaciją"
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:323
+msgid "View Details"
+msgstr "Išsamiau"
+
+#: includes/base/admin/booking/views/view-modal-email-logs.php:35
+msgid "View email body"
+msgstr "Peržiūrėkite el. pašto turinį"
+
+#: includes/base/admin/calendar/class-list-table-legend-items.php:79
+msgid "Visible"
+msgstr "Matomas"
+
+#: includes/modules/update-checker/functions.php:119
+msgid "Website successfully deregistered."
+msgstr "Svetainė sėkmingai išregistruota."
+
+#: includes/modules/update-checker/functions.php:107
+#, php-format
+msgid ""
+"Website successfully registered. To view all your registered websites, "
+"please check %syour account page on our website%s."
+msgstr ""
+"Svetainė sėkmingai užregistruota. Norėdami peržiūrėti visas registruotas "
+"svetaines, patikrinkite %ssavo paskyrą mūsų svetainėje%s."
+
+#: includes/base/functions.php:71 includes/base/class-widget-calendar.php:217
+#: includes/base/class-widget-calendar.php:419
+#: includes/base/class-widget-calendar.php:435
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:161
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:361
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:379
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:78
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:89
+msgid "Wednesday"
+msgstr "Trečiadienis"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:366
+msgid "Week Days"
+msgstr "Savaitės dienos"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:156
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:170
+msgid "Week Start Day"
+msgstr "Savaitės Pradžios Diena"
+
+#: includes/base/class-widget-calendar.php:212
+msgid "Week starts on"
+msgstr "Savaitė prasideda"
+
+#: includes/modules/upgrader/functions.php:57
+#: includes/modules/upgrader/functions.php:58
+msgid "Welcome"
+msgstr "Sveiki"
+
+#: includes/modules/upgrader/views/view-upgrader.php:18
+#| msgid "Welcome to WP Booking System v.2"
+msgid "Welcome to WP Booking System v.5"
+msgstr "Sveiki atvykę į \"WP Booking System v.5\""
+
+#: includes/base/admin/settings/views/view-settings-tab-languages.php:13
+msgid "What languages do you wish to use?"
+msgstr "Kokias kalbas norite naudoti?"
+
+#: includes/base/admin/booking/views/view-add-booking.php:99
+msgid ""
+"When creating a manual booking, only the Payment on Arrival and Bank "
+"Transfer payment methods are available."
+msgstr ""
+"Kuriant rankinę rezervaciją, galimi tik mokėjimo būdai „Mokėjimas atvykus“ "
+"ir „Banko pavedimas“."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:79
+msgid ""
+"When exporting changeover days, do not include the ending changeover in the "
+"list above."
+msgstr ""
+"Eksportuodami pasikeitimo dienas, neįtraukite besibaigiančio pasikeitimo į "
+"aukščiau esantį sąrašą."
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:64
+msgid "When to send"
+msgstr "Kada siųsti"
+
+#: includes/modules/tools/views/view-tools.php:41
+msgid "Wipe all Booking and Payment data"
+msgstr "Išvalykite visus užsakymo ir mokėjimo duomenis"
+
+#: includes/modules/tools/views/view-tools.php:61
+msgid "Wipe Booking Data"
+msgstr "Išvalykite Užsakymo Duomenis"
+
+#. Name of the plugin
+#: index.php:170 includes/modules/facetwp/functions-integration-facet-wp.php:19
+msgid "WP Booking System"
+msgstr "WP Booking System"
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:92
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:141
+msgid "WP Booking System -> Settings -> Form"
+msgstr "\"WP Booking System\" -> Nustatymai -> Forma"
+
+#: includes/base/admin/calendar/views/view-csv-export.php:74
+msgid "year, month, day, legend, description"
+msgstr "metai, mėnuo, diena, įrašas, aprašymas"
+
+#: includes/base/class-widget-overview-calendar.php:159
+#: includes/base/class-widget-overview-calendar.php:226
+#: includes/base/class-widget-overview-calendar.php:237
+#: includes/base/class-widget-calendar.php:174
+#: includes/base/class-widget-calendar.php:184
+#: includes/base/class-widget-calendar.php:205
+#: includes/base/class-widget-calendar.php:306
+#: includes/base/class-widget-calendar.php:317
+#: includes/base/class-widget-calendar.php:327
+#: includes/base/class-widget-calendar.php:337
+#: includes/base/class-widget-calendar.php:348
+#: includes/base/class-widget-calendar.php:370
+#: includes/base/class-widget-calendar.php:449
+#: includes/base/admin/booking/views/view-add-booking.php:63
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:33
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:45
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:176
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:188
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:219
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:231
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:243
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:256
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:297
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:399
+#: includes/base/admin/calendar/views/view-ical-import-export.php:97
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:54
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:138
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:150
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:118
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:126
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:182
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:191
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:215
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:225
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:233
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:242
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:251
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:312
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:59
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:106
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:116
+msgid "Yes"
+msgstr "Taip"
+
+#: includes/base/class-widget-overview-calendar.php:227
+#: includes/base/class-widget-calendar.php:307
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:220
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:139
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:216
+#: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:107
+msgid "Yes, with red indicator"
+msgstr "Taip, su raudonu indikatoriumi"
+
+#: includes/base/admin/calendar/views/view-edit-calendar.php:143
+msgid ""
+"You can attach a post/page from your WordPress website or an external link "
+"to this calendar. If the calendar has a link attached, everywhere the "
+"calendar's title is displayed, the link will automatically be added to the "
+"title."
+msgstr ""
+"Prie šio kalendoriaus galite pridėti įrašą / puslapį iš savo „WordPress“ "
+"svetainės arba išorinę nuorodą. Jei prie kalendoriaus pridėta nuoroda, visur,"
+" kur rodomas kalendoriaus pavadinimas, nuoroda bus automatiškai pridėta prie "
+"pavadinimo."
+
+#: includes/modules/pricing/functions-part-payments.php:148
+msgid ""
+"You can charge a deposit and receive the rest of the amount in cash, or ask "
+"for the final payment to be done online using the same method (PayPal or "
+"Stripe) as the initial payment, for which you will have some extra options "
+"below."
+msgstr ""
+"Galite nuskaityti depozitą ir gauti likusią sumą grynaisiais arba paprašyti, "
+"kad galutinis mokėjimas būtų atliktas internetu, naudojant tą patį būdą "
+"(PayPal arba Stripe), kaip ir pradinis mokėjimas. Žemiau turėsite keletą "
+"papildomų parinkčių."
+
+#: includes/modules/update-checker/views/view-register-website.php:14
+#, php-format
+msgid ""
+"You can find your serial key in your WP Booking System account. %sClick here "
+"to go to your account.%s"
+msgstr ""
+"Savo serijos raktą galite rasti savo \"WP Booking System\" paskyroje. "
+"%sSpustelėkite čia, kad eitumėte į savo paskyrą.%s"
+
+#: includes/modules/pricing/functions-part-payments.php:190
+msgid ""
+"You can set up an email reminder under the <strong>Payment Reminder "
+"Notifications</strong> tab when editing a <strong>Form</strong>."
+msgstr ""
+"Redaguodami <strong>formą</strong>, skirtuke <strong>Mokėjimo priminimo "
+"pranešimai</strong> galite nustatyti priminimą el. paštu."
+
+#: includes/base/admin/booking/views/view-modal-email-customer.php:92
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:141
+msgid "You can set up message templates in"
+msgstr "Galite nustatyti pranešimų šablonus"
+
+#: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:89
+#: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:93
+msgid ""
+"You can use the <span class=\"wpbs-small-print-tag wpbs-select-on-click\">"
+"{Amount}</span> tag to show the total amount needed to be paid by the "
+"customer, or the <span class=\"wpbs-small-print-tag wpbs-select-on-click\">"
+"{Booking ID}</span> tag to add a transaction reference number."
+msgstr ""
+"Galite naudoti <span class=\"wpbs-small-print-tag wpbs-select-on-click\">"
+"{Amount}</span> (Kiekis) žymą, kad parodytų visą sumą, kurią klientas turi "
+"sumokėti, arba <span class=\"wpbs-small-print-tag wpbs-select-on-click\">"
+"{Booking ID}</span> (rezervacijos ID) žymą, kad pridėtumėte operacijos "
+"nuorodos numerį."
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:267
+msgid ""
+"You can use the description field of the date to add private information "
+"regarding your booking. This information will not be displayed anywhere else,"
+" but here."
+msgstr ""
+"Galite naudoti datos aprašymo lauką, kad pridėtumėte privačią informaciją "
+"apie rezervaciją. Ši informacija nebus rodoma niekur kitur, tik čia."
+
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:268
+msgid ""
+"You can use the tooltip field of the date to add information that you wish "
+"users to see when they hover over the calendar date in the front-end part of "
+"your website."
+msgstr ""
+"Galite naudoti datos patarimo lauką, kad pridėtumėte informacijos, kurią "
+"norite, kad naudotojai matytų, kai jie užves pelės žymeklį virš kalendoriaus "
+"datos jūsų svetainės priekinėje dalyje."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:43
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:31
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:57
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:57
+msgid ""
+"You can use these dynamic tags in any of the fields. They will be replaced "
+"with the values submitted in the form."
+msgstr ""
+"Šias dinamines žymas galite naudoti bet kuriame lauke. Jie bus pakeisti "
+"formoje pateiktomis reikšmėmis."
+
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:4
+msgid ""
+"You can use these dynamic tags in the Event Description and Event Tooltip "
+"fields. They will be replaced with the values submitted in the form."
+msgstr ""
+"Šias dinamines žymas galite naudoti Įvykio aprašymų ir Įvykio patarimų "
+"laukuose. Jie bus pakeisti formoje pateiktomis reikšmėmis."
+
+#: includes/base/admin/booking/class-bookings-outputter.php:242
+#, php-format
+msgid "You don't have any %s bookings."
+msgstr "Neturite jokių %s užsakymų."
+
+#: includes/base/admin/calendar/views/view-ical-import-export.php:271
+msgid ""
+"You don't have any iCal URL's included. Use the form below to add an iCal "
+"feed URL."
+msgstr ""
+"Neturite jokių „iCal“ URL. Norėdami pridėti „iCal“ srauto URL, naudokite "
+"toliau pateiktą formą."
+
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:22
+#: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:22
+msgid ""
+"You must add an Email field to the form in order to configure payment "
+"reminders."
+msgstr ""
+"Norėdami sukonfigūruoti mokėjimo priminimus, formoje turite pridėti lauką El."
+" paštas."
+
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:8
+msgid ""
+"You must add an Email field to the form in order to configure user "
+"notifications."
+msgstr ""
+"Norėdami sukonfigūruoti vartotojo pranešimus, formoje turite pridėti lauką "
+"El. paštas."
+
+#: includes/modules/pricing/functions-pricing.php:709
+msgid "Your Order"
+msgstr "Jūsų užsakymas"
+
+#: includes/modules/update-checker/functions.php:151
+#, php-format
+msgid ""
+"Your version of WP Booking System installed on this website is not "
+"registered. Plugin updates are not available without a valid license key. "
+"%sPlease click here to register your website%s."
+msgstr ""
+"Šioje svetainėje įdiegta WP užsakymo sistemos versija neregistruota. "
+"Įskiepio naujinimai nepasiekiami be galiojančio licencijos rakto. "
+"%sSpustelėkite čia norėdami užregistruoti savo svetainę%s."
+
+#: includes/modules/update-checker/functions.php:184
+#, php-format
+msgid ""
+"Your WP Booking System serial key has expired. Plugin updates are not "
+"available without a valid serial key. %sPlease click here to purchase a new "
+"license%s."
+msgstr ""
+"Baigėsi jūsų \"WP Booking System\" serijos rakto galiojimo laikas. "
+"Papildinių naujinimai nepasiekiami be galiojančio serijos rakto. %sNorėdami "
+"įsigyti naują licenciją, spustelėkite čia%s."

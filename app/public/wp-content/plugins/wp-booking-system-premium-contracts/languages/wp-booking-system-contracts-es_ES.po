@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Contracts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-22 22:00+0000\n"
+"PO-Revision-Date: 2021-11-22 22:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: wp-booking-system-contracts"
+
+#: index.php:128
+msgid "\">update</a> to the latest version."
+msgstr "\"> actualizar </a> a la última versión."
+
+#: includes/base/admin/booking/functions.php:15
+#: includes/base/admin/booking/functions.php:53
+#: includes/base/admin/settings/functions.php:38
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:9
+msgid "Contract"
+msgstr "Contrato"
+
+#: includes/base/admin/booking/functions.php:46
+msgid "Contract content not available for this booking."
+msgstr "El contenido del contrato no está disponible para esta reserva."
+
+#: includes/base/admin/booking/functions.php:49
+#: includes/base/admin/booking/views/view-modal-contract.php:22
+#: includes/base/admin/booking/views/view-modal-contract.php:22
+msgid "View Contract"
+msgstr "Ver contrato"
+
+#: includes/base/admin/booking/functions.php:49
+#: includes/base/admin/booking/views/view-modal-contract.php:23
+#: includes/base/admin/booking/views/view-modal-contract.php:23
+msgid "Download Contract"
+msgstr "Descargar contrato"
+
+#: includes/base/admin/booking/functions.php:128
+#: includes/base/admin/booking/functions.php:149
+msgid "Attach Contract to Email"
+msgstr "Adjuntar el contrato al correo electrónico"
+
+#: includes/base/admin/form/functions.php:19
+#: includes/base/admin/form/views/view-edit-form-tab-contract.php:36
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:17
+msgid "Contract Settings"
+msgstr "Configuración del contrato"
+
+#: includes/base/admin/settings/functions.php:13
+msgid "Contracts"
+msgstr "Contratos"
+
+#: includes/base/admin/booking/views/view-modal-contract.php:4
+msgid "Edit Contract"
+msgstr "Editar contrato"
+
+#: includes/base/admin/booking/views/view-modal-contract.php:16
+msgid "Update Contract"
+msgstr "Actualizar contrato"
+
+#: includes/base/admin/booking/views/view-modal-contract.php:16
+#: includes/base/admin/booking/views/view-modal-contract.php:18
+msgid "Please wait..."
+msgstr "Espere por favor..."
+
+#: includes/base/admin/booking/views/view-modal-contract.php:16
+#: includes/base/admin/booking/views/view-modal-contract.php:18
+msgid "Contract Updated"
+msgstr "Contrato actualizado"
+
+#: includes/base/admin/booking/views/view-modal-contract.php:18
+msgid "Regenerate Contract"
+msgstr "Contrato regenerado"
+
+#: includes/base/admin/form/views/view-edit-form-tab-contract.php:24
+msgid ""
+"It appears you made changes to the form. Make sure you save the form before "
+"you make any changes on this page to ensure all dynamic tags are up to date."
+msgstr ""
+"Parece que hiciste cambios en el formulario. Asegúrese de guardar el "
+"formulario antes de realizar cambios en esta página para asegurarse de que "
+"todas las etiquetas dinámicas estén actualizadas."
+
+#: includes/base/admin/form/views/view-edit-form-tab-contract.php:29
+msgid "Dynamic Tags"
+msgstr "Etiquetas dinámicas"
+
+#: includes/base/admin/form/views/view-edit-form-tab-contract.php:30
+msgid ""
+"You can use these dynamic tags in the contract body field. They will be "
+"replaced with the values submitted in the form."
+msgstr ""
+"Puede utilizar estas etiquetas dinámicas en el campo del cuerpo del contrato."
+" Serán reemplazados por los valores enviados en el formulario."
+
+#: includes/base/admin/form/views/view-edit-form-tab-contract.php:71
+msgid "Attach Contract to Emails"
+msgstr "Adjuntar el contrato a los correos electrónicos"
+
+#: includes/base/admin/form/views/view-edit-form-tab-contract.php:79
+#, php-format
+msgid "%s Email"
+msgstr "%s correo electrónico"
+
+#: includes/base/admin/form/views/view-edit-form-tab-contract.php:80
+#, php-format
+msgid "Include the contract as an attachment to the %s Notification email."
+msgstr ""
+"Incluya el contrato como archivo adjunto al %s correo electrónico de "
+"notificación."
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:21
+msgid "Logo Type"
+msgstr "Tipo de logotipo"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:26
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:27
+msgid "Text"
+msgstr "Texto"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:36
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:42
+msgid "Upload Image"
+msgstr "Cargar imagen"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:43
+msgid "remove image"
+msgstr "quitar la imagen"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:54
+msgid "Logo - Heading"
+msgstr "Logotipo - Encabezado"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:55
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:83
+msgid "The payment method name that appears on the booking form."
+msgstr "El nombre del método de pago que aparece en el formulario de reserva."
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:60
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:88
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:145
+msgid "Translations"
+msgstr "Traducciones"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:82
+msgid "Logo - Subheading"
+msgstr "Logotipo - Subencabezado"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:110
+msgid "Contract Series"
+msgstr "Serie del contrato"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:111
+msgid ""
+"Optional. A string that will be prepended to the contract number. For "
+"example if you add the series \"INV\", the contract number will be displayed "
+"as INV1234"
+msgstr ""
+"Opcional. Una cadena que se antepondrá al número de contrato. Por ejemplo, "
+"si agrega la serie \"INV\", el número de contrato se mostrará como INV1234"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:122
+msgid "Contract Number Offset"
+msgstr "Offset de número de contrato"
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:123
+msgid ""
+"The contract number will be the same as the Booking ID, which starts from 1. "
+"You can add an offset to this number, eg. if you want the first contract "
+"number to be 101, add an offset of 100."
+msgstr ""
+"El número de contrato será el mismo que el ID de reserva, que comienza desde "
+"1. Puede agregar una compensación a este número, por ejemplo. Si desea que "
+"el primer número de contrato sea 101, agregue una compensación de 100."
+
+#: includes/base/admin/settings/views/view-payment-settings-contract.php:131
+msgid "Contract Strings"
+msgstr "Cadenas del contrato"
+
+#. Name of the plugin
+msgid "WP Booking System - Contracts"
+msgstr "WP Booking System - Contratos"
+
+#. Description of the plugin
+msgid "Create PDF contracts or agreements and email them to your customers."
+msgstr ""
+"Cree contratos o acuerdos en PDF y envíelos por correo electrónico a sus "
+"clientes."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr ""

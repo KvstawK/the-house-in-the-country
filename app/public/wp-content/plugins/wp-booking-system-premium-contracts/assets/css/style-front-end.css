@@ -1,0 +1,37 @@
+.wpbs-form-field-signature .wpbs-signature-pad {
+    position: relative;
+}
+
+.wpbs-form-field-signature .wpbs-signature-pad canvas {
+    border: 1px solid #ccc !important;
+    border-radius: 2px;
+    width: 100%;
+    height: 180px;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.wpbs-form-field-signature .wpbs-signature-pad input {
+    display: none;
+}
+
+.wpbs-form-field-signature .wpbs-signature-pad a.wpbs-clear-signature {
+    display: none;
+    width: 24px;
+    height: 24px;
+    padding: 8px 8px 6px 8px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    box-sizing: content-box;
+}
+
+.wpbs-form-field-signature .wpbs-signature-pad a.wpbs-clear-signature svg path {
+    fill: #ccc;
+}
+
+.wpbs-form-field-signature .wpbs-signature-pad.has-signature a.wpbs-clear-signature {
+    display: block;
+}

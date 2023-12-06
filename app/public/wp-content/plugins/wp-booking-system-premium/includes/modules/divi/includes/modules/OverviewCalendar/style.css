@@ -1,0 +1,16 @@
+.wpbs-divi-module {
+    background: #3b82ff;
+    padding: 80px 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.wpbs-divi-module h3 {
+    color: #fff;
+    font-weight: 600;
+}
+
+.wpbs-divi-module p {
+    font-weight: 600;
+}

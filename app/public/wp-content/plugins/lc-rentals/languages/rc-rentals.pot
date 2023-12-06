@@ -1,0 +1,624 @@
+# Copyright (C) 2023 Rental Collective
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RC Rentals 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lc-rentals\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-15T08:24:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: lc-rentals\n"
+
+#. Plugin Name of the plugin
+msgid "RC Rentals"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.example.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "A rental management plugin for WordPress, created by Rentals Collective"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rental Collective"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rentalscollective.com/"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:3
+#: datepicker/rc-datepicker-check-in.php:4
+msgid "Check-in"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:4
+#: datepicker/rc-datepicker-check-in.php:5
+msgid "Choose check-in date"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:7
+#: datepicker/rc-datepicker-check-out.php:7
+msgid "Previous month"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:9
+#: datepicker/rc-datepicker-check-out.php:9
+msgid "Next month"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:15
+#: datepicker/rc-datepicker-check-out.php:15
+msgid "Sunday"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:16
+#: datepicker/rc-datepicker-check-out.php:16
+msgid "Monday"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:17
+#: datepicker/rc-datepicker-check-out.php:17
+msgid "Tuesday"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:18
+#: datepicker/rc-datepicker-check-out.php:18
+msgid "Wednesday"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:19
+#: datepicker/rc-datepicker-check-out.php:19
+msgid "Thursday"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:20
+#: datepicker/rc-datepicker-check-out.php:20
+msgid "Friday"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:21
+#: datepicker/rc-datepicker-check-out.php:21
+msgid "Saturday"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-out.php:3
+#: datepicker/rc-datepicker-check-out.php:4
+msgid "Check-out"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-out.php:4
+#: datepicker/rc-datepicker-check-out.php:5
+msgid "Choose check-out date"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:14
+msgctxt "Post type general name"
+msgid "RC Rentals"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:15
+msgctxt "Post type singular name"
+msgid "RC Rental"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:16
+msgctxt "Admin Menu text"
+msgid "RC Rentals"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:17
+msgctxt "Add New on Toolbar"
+msgid "RC Rentals"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:18
+msgid "Add New"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:19
+msgid "Add New RC Rental"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:20
+msgid "New RC Rental"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:21
+msgid "New RC Rental Name"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:22
+msgid "Edit RC Rental"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:23
+msgid "Update RC Rental"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:24
+#: inc/class.lc-rentals-cpt.php:25
+msgid "View RC Rental"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:26
+msgid "All RC Rentals"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:27
+msgid "Search RC Rentals"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:28
+msgid "Parent RC Rental"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:29
+msgid "Parent RC Rental:"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:30
+msgid "No RC Rental found."
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:31
+msgid "No RC Rental found in Trash."
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:32
+msgctxt "Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "RC Rental Image"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:33
+msgctxt "Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set RC Rental image"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:34
+msgctxt "Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove RC Rental image"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:35
+msgctxt "Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as RC Rental image"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:36
+msgctxt "The post type archive label used in nav menus. Default “Post Archives”. Added in 4.4"
+msgid "RC Rental archives"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:37
+msgctxt "Overrides the “Insert into post”/”Insert into page” phrase (used when inserting media into a post). Added in 4.4"
+msgid "Insert into RC Rental item"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:38
+msgctxt "Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this RC Rental"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:39
+msgctxt "Screen reader text for the filter links heading on the post type listing screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter RC Rentals list"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:40
+msgctxt "Screen reader text for the pagination heading on the post type listing screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "RC Rentals list navigation"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:41
+msgctxt "Screen reader text for the list heading on the post type listing screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "RC Rentals list"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:60
+msgctxt "Post type general name"
+msgid "RC Rentals Category"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:61
+msgctxt "Post type singular name"
+msgid "RC Rental Category"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:62
+msgid "All RC Rentals Categories"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:63
+msgid "Search RC Rentals Categories"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:64
+msgid "Parent RC Rental Category"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:65
+msgid "Parent RC Rental Category:"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:66
+msgid "Edit RC Rentals Category"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:67
+msgid "Update RC Rentals Category"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:68
+msgid "Add New RC Rentals Category"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:69
+msgid "New RC Rentals Category Name"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:70
+msgid "RC Rentals Categories"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:85
+msgctxt "Post type general name"
+msgid "RC Rentals Location"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:86
+msgctxt "Post type singular name"
+msgid "RC Rental Location"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:87
+msgid "All RC Rentals Locations"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:88
+msgid "Search RC Rentals Locations"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:89
+msgid "Parent RC Rental Location"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:90
+msgid "Parent RC Rental Location:"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:91
+msgid "Edit RC Rentals Location"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:92
+msgid "Update RC Rentals Location"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:93
+msgid "Add New RC Rentals Location"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:94
+msgid "New RC Rentals Location Name"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:95
+msgid "RC Rentals Locations"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:113
+msgid "RC Rental Info"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:129
+msgid "Number Of Guests: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:130
+#: inc/class.lc-rentals-cpt.php:134
+#: inc/class.lc-rentals-cpt.php:138
+#: inc/class.lc-rentals-cpt.php:142
+#: inc/class.lc-rentals-cpt.php:146
+#: inc/class.lc-rentals-cpt.php:150
+msgid "Enter a number"
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:133
+msgid "Number Of Double Beds: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:137
+msgid "Number Of Single Beds: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:141
+msgid "Number Of Bathrooms: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:145
+msgid "Square meters: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:149
+msgid "Price: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:155
+msgid "Essentials: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:162
+msgid "Swimming-pool: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:169
+msgid "Gym: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:176
+msgid "Kids friendly: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:183
+msgid "Jacuzzi: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:190
+msgid "Air Conditioning: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:197
+msgid "Cleaning Products: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:204
+msgid "Cooking Basics: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:211
+msgid "Dedicated Workspace: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:218
+msgid "Dishes And Utensils: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:225
+msgid "Clothes Dryer: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:232
+msgid "Washing Machine: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:239
+msgid "Hair Dryer: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:246
+msgid "Heater: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:253
+msgid "Kitchen: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:260
+msgid "TV: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:267
+msgid "Dishwasher: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:274
+msgid "WiFi: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:281
+msgid "Bathtub: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:288
+msgid "Shower: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:295
+msgid "Shampoo: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:302
+msgid "Hangers: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:309
+msgid "Iron: "
+msgstr ""
+
+#: inc/class.lc-rentals-cpt.php:316
+msgid "Safe Box: "
+msgstr ""
+
+#: inc/class.lc-rentals-reviews.php:25
+msgid "How would you rate your accommodation in "
+msgstr ""
+
+#: inc/class.lc-rentals-reviews.php:31
+msgid "Rate your staying with "
+msgstr ""
+
+#: inc/class.lc-rentals-reviews.php:31
+msgid " points"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:7
+#: views/lc-rentals-facilities-shortcode.php:9
+msgid "Essentials (Towels, bed sheets, soap, toilet paper, and pillows)"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:13
+#: views/lc-rentals-facilities-shortcode.php:15
+msgid "Gym"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:19
+msgid "Swimming-pool"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:21
+msgid "Private Swimming-pool"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:25
+#: views/lc-rentals-facilities-shortcode.php:27
+msgid "Kids Friendly"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:31
+#: views/lc-rentals-facilities-shortcode.php:33
+msgid "Jacuzzi"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:37
+#: views/lc-rentals-facilities-shortcode.php:39
+msgid "Air Conditioning"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:43
+#: views/lc-rentals-facilities-shortcode.php:45
+msgid "Cleaning Products"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:49
+#: views/lc-rentals-facilities-shortcode.php:51
+msgid "Cooking Basics (Pots and pans, oil, salt and pepper)"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:55
+#: views/lc-rentals-facilities-shortcode.php:57
+msgid "Dedicated workspace"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:61
+#: views/lc-rentals-facilities-shortcode.php:63
+msgid "Dishes & Utensils"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:67
+#: views/lc-rentals-facilities-shortcode.php:69
+msgid "Clothes Dryer"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:73
+#: views/lc-rentals-facilities-shortcode.php:75
+msgid "Washing Machine"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:79
+#: views/lc-rentals-facilities-shortcode.php:81
+msgid "Hair Dryer"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:85
+#: views/lc-rentals-facilities-shortcode.php:87
+msgid "Heating"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:91
+#: views/lc-rentals-facilities-shortcode.php:93
+msgid "Kitchen"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:97
+#: views/lc-rentals-facilities-shortcode.php:99
+msgid "TV"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:103
+#: views/lc-rentals-facilities-shortcode.php:105
+msgid "Dishwasher"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:109
+#: views/lc-rentals-facilities-shortcode.php:111
+msgid "WiFi"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:115
+#: views/lc-rentals-facilities-shortcode.php:117
+msgid "Bathtub"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:121
+#: views/lc-rentals-facilities-shortcode.php:123
+msgid "Shower"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:127
+#: views/lc-rentals-facilities-shortcode.php:129
+msgid "Shampoo"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:133
+#: views/lc-rentals-facilities-shortcode.php:135
+msgid "Hangers"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:139
+#: views/lc-rentals-facilities-shortcode.php:141
+msgid "Iron"
+msgstr ""
+
+#: views/lc-rentals-facilities-shortcode.php:145
+#: views/lc-rentals-facilities-shortcode.php:147
+msgid "Safe Box"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:4
+msgid "Search The Availability Of Our Rentals"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:8
+msgid "Rental Location"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:9
+msgid "Location"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:25
+msgid "Rental Type"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:26
+msgid "Type"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:41
+msgid "Check-in Date"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:46
+msgid "Check-out Date"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:51
+msgid "Number Of Persons"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:52
+msgid "persons"
+msgstr ""
+
+#: views/lc-rentals-search-shortcode.php:56
+#: views/lc-rentals-search-shortcode.php:58
+msgid "Search"
+msgstr ""

@@ -1,0 +1,44 @@
+
+.wpbs-calendars-wrapper.wpbs-legend-position-side .wpbs-legend .wpbs-legend-item, .wpbs-legend {text-align:right;}
+.wpbs-legend .wpbs-legend-item-icon {margin-right:0; margin-left:5px;}
+
+
+body.rtl .wpbs-main-wrapper .wpbs-form-selected-dates .wpbs-form-selected-date label {text-align:right !important;}
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field .wpbs-form-field-input {text-align:right !important;}
+
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field label {text-align:right !important;}
+
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-dropdown .wpbs-form-field-input:after, 
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_dropdown .wpbs-form-field-input:after {right:auto !important; left:15px !important}
+
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-consent .wpbs-form-field-input label,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label {padding-left:0 !important; padding-right:30px !important; margin: 0 0 5px 25px!important}
+
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label input,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-consent .wpbs-form-field-input label input,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label input,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label input,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label input,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label input {left:auto !important; right:5px !important}
+
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label span,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-consent .wpbs-form-field-input label span,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label span,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label span,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label span,
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label span {left:auto !important; right:0 !important}
+
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-form-field button.wpbs-coupon-code-button {right:auto !important; left:0 !important}
+
+body.rtl .wpbs-main-wrapper .wpbs-form-container .wpbs-currency-toggle-wrapper {float:left !important;}
+
+body.rtl .wpbs-main-wrapper table.wpbs-pricing-table td:first-child,
+body.rtl  .wpbs-main-wrapper table.wpbs-pricing-table th:first-child {text-align: right !important;}
+
+body.rtl .wpbs-payment-confirmation-stripe-form label {text-align:right !important;}
+
+body.rtl .wpbs-container[data-columns] .wpbs-calendars .wpbs-calendar {float:right;}

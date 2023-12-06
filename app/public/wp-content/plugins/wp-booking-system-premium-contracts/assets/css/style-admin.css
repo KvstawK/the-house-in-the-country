@@ -1,0 +1,24 @@
+#contract_due_date,
+#contract_vat,
+#contract_number_offset {
+    max-width: 100px;
+}
+
+.wpbs-form-section-contract .wpbs-email-tag--all-fields,
+.wpbs-form-section-contract .wpbs-email-tag--final-payment-link {
+    display: none !important;
+}
+
+.wpbs-booking-details-modal-footer-actions-contract a span {
+    position: relative;
+    top: 4px;
+    margin-right: 4px;
+}
+
+#wpbs-update-contract-details {margin-bottom: 15px;}
+
+.wpbs-settings-field-wrapper.wpbs-settings-field-inline.wpbs-settings-field-contract-attachment-payment-reminder .wpbs-settings-field-label {width:183px;}
+
+.wpbs-settings-field-wrapper-edit-contract {max-width:700px;}
+
+#contract_content_ifr {min-height:300px}

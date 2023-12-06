@@ -1,0 +1,11 @@
+#modal_add_search_widget_shortcode_selected_calendars_chosen { width: 100% !important; }
+#modal_add_search_widget_shortcode_selected_calendars_chosen .chosen-results { max-height: 100px; }
+
+.widget-content .wpbs-chosen-wrap .chosen-container { width: 100% !important; }
+.widget-content .wpbs-chosen-wrap .chosen-container .chosen-results { max-height: 100px; }
+
+.widget-content .wpbs-element-disabled { position: relative; }
+.widget-content .wpbs-element-disabled:before { content: ''; position: absolute; z-index: 1; top: 0; right: 0; bottom: 0; left: 0; background: #fff; opacity: 0.6; }
+
+#wpbs-modal-add-calendar-shortcode .wpbs-row p {padding:0 12px; margin-bottom:0.5em !important;}
+

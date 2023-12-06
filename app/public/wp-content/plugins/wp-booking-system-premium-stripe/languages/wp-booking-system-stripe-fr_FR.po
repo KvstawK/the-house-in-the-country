@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Stripe Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-28 00:53+0000\n"
+"PO-Revision-Date: 2021-01-06 13:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.7-alpha-49938\n"
+"X-Domain: wp-booking-system-stripe"
+
+#: index.php:133
+msgid "\">update</a> to the latest version."
+msgstr ""
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:11
+msgid "Active"
+msgstr "Active"
+
+#. Description of the plugin
+msgid "Allow customers to pay with their credit cards through Stripe."
+msgstr ""
+"Permettre aux clients de payer avec leurs cartes de crédit par le biais de "
+"Stripe\n"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:128
+msgid "API Credentials"
+msgstr "API informations d'Identification"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:111
+msgid "Capture payment when accepting booking"
+msgstr "Capture de paiement lors de l'acceptation de la réservation"
+
+#: includes/base/admin/settings/functions.php:41
+msgid "Card Details"
+msgstr "Les Détails de La Carte"
+
+#: includes/base/admin/settings/functions.php:61
+msgid "Card Details Label"
+msgstr "Étiquette des détails de la carte"
+
+#: includes/base/admin/settings/functions.php:40
+msgid "Cardholder Name"
+msgstr "Nom Du Titulaire de la Carte"
+
+#: includes/base/admin/settings/functions.php:56
+msgid "Cardholder Name Label"
+msgstr "Étiquette du nom du titulaire de la carte"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:56
+msgid "Description"
+msgstr "Description"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:28
+msgid "Display name"
+msgstr "Nom d'affichage"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:141
+msgid "Enable Test Mode"
+msgstr "Activer Le Mode de Test"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:6
+msgid "Give the customer the option to pay with a credit card using Stripe."
+msgstr ""
+"Donner au client la possibilité de payer avec une carte de crédit en "
+"utilisant une Bande."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr ""
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:112
+msgid ""
+"If enabled, when the client makes a payment, his credit card will only be "
+"Authorized (the money will be put on hold for 7 days) and the payment will "
+"be Captured (money transfered in your account) only when you Accept the "
+"booking. Accepting the booking after 7 days will result in a failed payment."
+msgstr ""
+"Si l'option est activée, lorsque le client effectue un paiement, sa carte de "
+"crédit ne sera Autorisée (l'argent sera mis en attente pendant 7 jours) et "
+"le paiement sera pris en compte (l'argent transféré sur votre compte) "
+"uniquement lorsque vous Accepter la réservation. L'acceptation de la "
+"réservation après 7 jours, le paiement échoué."
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:134
+msgid ""
+"If you need help getting your API Keys, <a target=\"_blank\" href=\"https:"
+"//www.wpbookingsystem.com/documentation/stripe-integration/\">check out our "
+"guide</a> which offers step by step instructions."
+msgstr ""
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:84
+msgid "Invoice Item Name"
+msgstr "Nom de La Facture "
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:176
+msgid "Live Publishable Key"
+msgstr "Clé publiable en direct"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:187
+msgid "Live Secret Key"
+msgstr "Clé secrète en direct"
+
+#: includes/base/functions.php:50
+msgid "Pay with your credit card using Stripe."
+msgstr "Payez avec votre carte de crédit en utilisant Stripe."
+
+#: includes/base/admin/settings/functions.php:66
+msgid "Payment Required Field"
+msgstr "Paiement Champ Obligatoire"
+
+#: includes/base/admin/settings/functions.php:71
+msgid "Payment Submit Button Label"
+msgstr "Bouton d'envoi de Paiement"
+
+#: includes/base/functions-part-payments.php:34
+#: includes/base/functions-actions-stripe.php:56
+msgid "Please add your API keys in the plugin's Settings Page."
+msgstr ""
+"S'il vous plaît ajouter vos clés API dans le plugin de la Page des "
+"Paramètres."
+
+#: includes/base/functions-actions-stripe.php:82
+msgid "Something went wrong. Please refresh the page and try again."
+msgstr ""
+"Quelque chose s'est mal passé. Veuillez actualiser la page et essayez à "
+"nouveau."
+
+#: includes/base/functions.php:49
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:6
+msgid "Stripe"
+msgstr "Stripe"
+
+#: includes/base/functions-part-payments.php:58
+#: includes/base/functions-actions-stripe.php:127
+msgid "Stripe Test mode is enabled."
+msgstr "Stripe mode test activé."
+
+#: includes/base/admin/settings/functions.php:43
+msgid "Submit"
+msgstr "Soumettre"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:154
+msgid "Test Publishable Key"
+msgstr "Tester la clé publiable"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:165
+msgid "Test Secret Key"
+msgstr "Tester la clé secrète"
+
+#: includes/base/admin/settings/functions.php:72
+msgid "The button label when submitting a payment form."
+msgstr ""
+"Le libellé du bouton lors de la soumission d'un formulaire de paiement."
+
+#: includes/base/admin/settings/functions.php:67
+msgid "The error message when a payment form field is empty."
+msgstr ""
+"Le message d'erreur lorsqu'un formulaire de paiement en champ est vide."
+
+#: includes/base/admin/settings/functions.php:62
+msgid "The label for the Card Details in the payment form."
+msgstr ""
+"L'étiquette pour les Détails de la Carte dans le formulaire de paiement."
+
+#: includes/base/admin/settings/functions.php:57
+msgid "The label for the Cardholder's Name in the payment form."
+msgstr "L'étiquette pour le Nom du Titulaire dans le formulaire de paiement."
+
+#: includes/base/functions-actions-stripe.php:103
+msgid "The mimimun payable amount is 0.50$"
+msgstr "Le mimimun à payer montant est de "
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:85
+msgid ""
+"The name of the product that appears on the Stripe invoice. Eg. \"Booking at "
+"Anne's house.\""
+msgstr "Le nom du produit qui apparaît sur la facture Stripe."
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:57
+msgid "The payment method description that appears on the booking form."
+msgstr ""
+"Description de la méthode de paiement  qui figure sur le formulaire de "
+"réservation."
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:29
+msgid "The payment method name that appears on the booking form."
+msgstr ""
+"Le nom du mode de paiement qui apparaît sur le formulaire de réservation."
+
+#: includes/base/admin/settings/functions.php:42
+msgid "This field is required."
+msgstr "Ce champ est requis."
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:34
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:62
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:90
+msgid "Translations"
+msgstr "Traductions"
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"
+
+#: includes/base/admin/settings/views/view-payment-settings-stripe.php:142
+msgid ""
+"We recommend enabling test mode and testing the payment integration before "
+"going live."
+msgstr ""
+"Nous vous recommandons d'activer le mode test et de tester l'intégration du "
+"paiement avant de passer en ligne."
+
+#. Name of the plugin
+msgid "WP Booking System - Stripe Add-on"
+msgstr "WP Système de Réservation - Stripe Module complémentaire"

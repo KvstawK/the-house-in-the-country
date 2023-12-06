@@ -1,0 +1,642 @@
+# Copyright (C) 2023 e.adjustments
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: EA Rentals 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rc-rentals\n"
+"POT-Creation-Date: 2023-03-15T08:24:14+00:00\n"
+"PO-Revision-Date: 2023-03-15 11:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: rc-rentals\n"
+
+#. Plugin Name of the plugin
+msgid "RC Rentals"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.example.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "A rental management plugin for WordPress, created by Rentals Collective"
+msgstr ""
+"Ένα πρόσθετο διαχείρισης ενοικιαζόμενων για το WordPress, δημιουργήθηκε από "
+"το Rentals Collective"
+
+#. Author of the plugin
+msgid "Rental Collective"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rentalscollective.com/"
+msgstr ""
+
+#: datepicker/rc-datepicker-check-in.php:3
+#: datepicker/rc-datepicker-check-in.php:4
+msgid "Check-in"
+msgstr "Άφιξη"
+
+#: datepicker/rc-datepicker-check-in.php:4
+#: datepicker/rc-datepicker-check-in.php:5
+msgid "Choose check-in date"
+msgstr "Επιλέξτε ημερομηνία άφιξης"
+
+#: datepicker/rc-datepicker-check-in.php:7
+#: datepicker/rc-datepicker-check-out.php:7
+msgid "Previous month"
+msgstr "Προηγούμενος μήνας"
+
+#: datepicker/rc-datepicker-check-in.php:9
+#: datepicker/rc-datepicker-check-out.php:9
+msgid "Next month"
+msgstr "Επόμενος μήνας"
+
+#: datepicker/rc-datepicker-check-in.php:15
+#: datepicker/rc-datepicker-check-out.php:15
+msgid "Sunday"
+msgstr "Κυριακή"
+
+#: datepicker/rc-datepicker-check-in.php:16
+#: datepicker/rc-datepicker-check-out.php:16
+msgid "Monday"
+msgstr "Δευτέρα"
+
+#: datepicker/rc-datepicker-check-in.php:17
+#: datepicker/rc-datepicker-check-out.php:17
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+#: datepicker/rc-datepicker-check-in.php:18
+#: datepicker/rc-datepicker-check-out.php:18
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+#: datepicker/rc-datepicker-check-in.php:19
+#: datepicker/rc-datepicker-check-out.php:19
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+#: datepicker/rc-datepicker-check-in.php:20
+#: datepicker/rc-datepicker-check-out.php:20
+msgid "Friday"
+msgstr "Παρασκευή"
+
+#: datepicker/rc-datepicker-check-in.php:21
+#: datepicker/rc-datepicker-check-out.php:21
+msgid "Saturday"
+msgstr "Σάββατο"
+
+#: datepicker/rc-datepicker-check-out.php:3
+#: datepicker/rc-datepicker-check-out.php:4
+msgid "Check-out"
+msgstr "Αναχώρηση"
+
+#: datepicker/rc-datepicker-check-out.php:4
+#: datepicker/rc-datepicker-check-out.php:5
+msgid "Choose check-out date"
+msgstr "Επιλέξτε ημερομηνία αναχώρησης"
+
+#: inc/class.rc-rentals-cpt.php:14
+msgctxt "Post type general name"
+msgid "RC Rentals"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:15
+msgctxt "Post type singular name"
+msgid "RC Rental"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:16
+msgctxt "Admin Menu text"
+msgid "RC Rentals"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:17
+msgctxt "Add New on Toolbar"
+msgid "RC Rentals"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:18
+msgid "Add New"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:19
+msgid "Add New RC Rental"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:20
+msgid "New RC Rental"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:21
+msgid "New RC Rental Name"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:22
+msgid "Edit RC Rental"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:23
+msgid "Update RC Rental"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:24 inc/class.rc-rentals-cpt.php:25
+msgid "View RC Rental"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:26
+msgid "All RC Rentals"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:27
+msgid "Search RC Rentals"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:28
+msgid "Parent RC Rental"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:29
+msgid "Parent RC Rental:"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:30
+msgid "No RC Rental found."
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:31
+msgid "No RC Rental found in Trash."
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:32
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "RC Rental Image"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:33
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set RC Rental image"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:34
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove RC Rental image"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:35
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as RC Rental image"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:36
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "RC Rental archives"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:37
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into RC Rental item"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:38
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this RC Rental"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:39
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter RC Rentals list"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:40
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "RC Rentals list navigation"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:41
+msgctxt ""
+"Screen reader text for the list heading on the post type listing screen. "
+"Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "RC Rentals list"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:60
+msgctxt "Post type general name"
+msgid "RC Rentals Category"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:61
+msgctxt "Post type singular name"
+msgid "RC Rental Category"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:62
+msgid "All RC Rentals Categories"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:63
+msgid "Search RC Rentals Categories"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:64
+msgid "Parent RC Rental Category"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:65
+msgid "Parent RC Rental Category:"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:66
+msgid "Edit RC Rentals Category"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:67
+msgid "Update RC Rentals Category"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:68
+msgid "Add New RC Rentals Category"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:69
+msgid "New RC Rentals Category Name"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:70
+msgid "RC Rentals Categories"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:85
+msgctxt "Post type general name"
+msgid "RC Rentals Location"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:86
+msgctxt "Post type singular name"
+msgid "RC Rental Location"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:87
+msgid "All RC Rentals Locations"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:88
+msgid "Search RC Rentals Locations"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:89
+msgid "Parent RC Rental Location"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:90
+msgid "Parent RC Rental Location:"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:91
+msgid "Edit RC Rentals Location"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:92
+msgid "Update RC Rentals Location"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:93
+msgid "Add New RC Rentals Location"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:94
+msgid "New RC Rentals Location Name"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:95
+msgid "RC Rentals Locations"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:113
+msgid "RC Rental Info"
+msgstr ""
+
+#: inc/class.rc-rentals-cpt.php:129
+msgid "Number Of Guests: "
+msgstr "Αριθμός Επισκεπτών: "
+
+#: inc/class.rc-rentals-cpt.php:130 inc/class.rc-rentals-cpt.php:134
+#: inc/class.rc-rentals-cpt.php:138 inc/class.rc-rentals-cpt.php:142
+#: inc/class.rc-rentals-cpt.php:146 inc/class.rc-rentals-cpt.php:150
+msgid "Enter a number"
+msgstr "Εισάγετε έναν αριθμό"
+
+#: inc/class.rc-rentals-cpt.php:133
+msgid "Number Of Double Beds: "
+msgstr "Αριθμός Διπλών Κρεβατιών: "
+
+#: inc/class.rc-rentals-cpt.php:137
+msgid "Number Of Single Beds: "
+msgstr "Αριθμός Μονών Κρεβατιών: "
+
+#: inc/class.rc-rentals-cpt.php:141
+msgid "Number Of Bathrooms: "
+msgstr "Αριθμός Λουτρών: "
+
+#: inc/class.rc-rentals-cpt.php:145
+msgid "Square meters: "
+msgstr "Τετραγωνικά μέτρα: "
+
+#: inc/class.rc-rentals-cpt.php:149
+msgid "Price: "
+msgstr "Τιμή: "
+
+#: inc/class.rc-rentals-cpt.php:155
+msgid "Essentials: "
+msgstr "Βασική: "
+
+#: inc/class.rc-rentals-cpt.php:162
+msgid "Swimming-pool: "
+msgstr "Πισίνα: "
+
+#: inc/class.rc-rentals-cpt.php:169
+msgid "Gym: "
+msgstr "Γυμναστήριο: "
+
+#: inc/class.rc-rentals-cpt.php:176
+msgid "Kids friendly: "
+msgstr "Φιλικό Προς Τα Παιδιά: "
+
+#: inc/class.rc-rentals-cpt.php:183
+msgid "Jacuzzi: "
+msgstr "Τζακούζι: "
+
+#: inc/class.rc-rentals-cpt.php:190
+msgid "Air Conditioning: "
+msgstr "Κλιματισμός: "
+
+#: inc/class.rc-rentals-cpt.php:197
+msgid "Cleaning Products: "
+msgstr "Καθαριστικά: "
+
+#: inc/class.rc-rentals-cpt.php:204
+msgid "Cooking Basics: "
+msgstr "Βασικά Μαγειρικής: "
+
+#: inc/class.rc-rentals-cpt.php:211
+msgid "Dedicated Workspace: "
+msgstr "Χώρος Εργασίας: "
+
+#: inc/class.rc-rentals-cpt.php:218
+msgid "Dishes And Utensils: "
+msgstr "Πιάτα Και Σκεύη: "
+
+#: inc/class.rc-rentals-cpt.php:225
+msgid "Clothes Dryer: "
+msgstr "Στεγνωτήριο Ρούχων: "
+
+#: inc/class.rc-rentals-cpt.php:232
+msgid "Washing Machine: "
+msgstr "Πλυντήριο Ρούχων: "
+
+#: inc/class.rc-rentals-cpt.php:239
+msgid "Hair Dryer: "
+msgstr "Πιστολάκι Για Μαλλιά: "
+
+#: inc/class.rc-rentals-cpt.php:246
+msgid "Heater: "
+msgstr "Θέρμανση: "
+
+#: inc/class.rc-rentals-cpt.php:253
+msgid "Kitchen: "
+msgstr "Κουζίνα: "
+
+#: inc/class.rc-rentals-cpt.php:260
+msgid "TV: "
+msgstr "Τηλεόραση: "
+
+#: inc/class.rc-rentals-cpt.php:267
+msgid "Dishwasher: "
+msgstr "Πλυντήριο πιάτων: "
+
+#: inc/class.rc-rentals-cpt.php:274
+msgid "WiFi: "
+msgstr "Ίντερνετ: "
+
+#: inc/class.rc-rentals-cpt.php:281
+msgid "Bathtub: "
+msgstr "Μπανιέρα: "
+
+#: inc/class.rc-rentals-cpt.php:288
+msgid "Shower: "
+msgstr "Ντουζ: "
+
+#: inc/class.rc-rentals-cpt.php:295
+msgid "Shampoo: "
+msgstr "Σαμπουάν: "
+
+#: inc/class.rc-rentals-cpt.php:302
+msgid "Hangers: "
+msgstr "Κρεμάστρες: "
+
+#: inc/class.rc-rentals-cpt.php:309
+msgid "Iron: "
+msgstr "ΣίδεροΡούχων: "
+
+#: inc/class.rc-rentals-cpt.php:316
+msgid "Safe Box: "
+msgstr "Χρηματοκιβώτιο: "
+
+#: inc/class.rc-rentals-reviews.php:25
+msgid "How would you rate your accommodation in "
+msgstr "Πώς θα αξιολογούσατε τη διαμονή σας στο "
+
+#: inc/class.rc-rentals-reviews.php:31
+msgid "Rate your staying with "
+msgstr "Βαθμολογήστε τη διαμονή σας με "
+
+#: inc/class.rc-rentals-reviews.php:31
+msgid " points"
+msgstr " βαθμούς"
+
+#: views/rc-rentals-facilities-shortcode.php:7
+#: views/rc-rentals-facilities-shortcode.php:9
+msgid "Essentials (Towels, bed sheets, soap, toilet paper, and pillows)"
+msgstr ""
+"Είδη πρώτης ανάγκης (πετσέτες, σεντόνια, σαπούνι, χαρτί υγείας και μαξιλάρια)"
+
+#: views/rc-rentals-facilities-shortcode.php:13
+#: views/rc-rentals-facilities-shortcode.php:15
+msgid "Gym"
+msgstr "Γυμναστήριο"
+
+#: views/rc-rentals-facilities-shortcode.php:19
+msgid "Swimming-pool"
+msgstr "Πισίνα"
+
+#: views/rc-rentals-facilities-shortcode.php:21
+msgid "Private Swimming-pool"
+msgstr "Ιδιωτική Πισίνα"
+
+#: views/rc-rentals-facilities-shortcode.php:25
+#: views/rc-rentals-facilities-shortcode.php:27
+msgid "Kids Friendly"
+msgstr "Φιλικό Προς Τα Παιδιά"
+
+#: views/rc-rentals-facilities-shortcode.php:31
+#: views/rc-rentals-facilities-shortcode.php:33
+msgid "Jacuzzi"
+msgstr "Τζακούζι"
+
+#: views/rc-rentals-facilities-shortcode.php:37
+#: views/rc-rentals-facilities-shortcode.php:39
+msgid "Air Conditioning"
+msgstr "Κλιματισμός"
+
+#: views/rc-rentals-facilities-shortcode.php:43
+#: views/rc-rentals-facilities-shortcode.php:45
+msgid "Cleaning Products"
+msgstr "Καθαριστικά"
+
+#: views/rc-rentals-facilities-shortcode.php:49
+#: views/rc-rentals-facilities-shortcode.php:51
+msgid "Cooking Basics (Pots and pans, oil, salt and pepper)"
+msgstr ""
+"Βασικά είδη μαγειρέματος (κατσαρόλες και τηγάνια, λάδι, αλάτι και πιπέρι)"
+
+#: views/rc-rentals-facilities-shortcode.php:55
+#: views/rc-rentals-facilities-shortcode.php:57
+msgid "Dedicated workspace"
+msgstr "Χώρος Εργασίας"
+
+#: views/rc-rentals-facilities-shortcode.php:61
+#: views/rc-rentals-facilities-shortcode.php:63
+msgid "Dishes & Utensils"
+msgstr "Πιάτα Και Σκεύη"
+
+#: views/rc-rentals-facilities-shortcode.php:67
+#: views/rc-rentals-facilities-shortcode.php:69
+msgid "Clothes Dryer"
+msgstr "Στεγνωτήριο Ρούχων"
+
+#: views/rc-rentals-facilities-shortcode.php:73
+#: views/rc-rentals-facilities-shortcode.php:75
+msgid "Washing Machine"
+msgstr "Πλυντήριο Ρούχων"
+
+#: views/rc-rentals-facilities-shortcode.php:79
+#: views/rc-rentals-facilities-shortcode.php:81
+msgid "Hair Dryer"
+msgstr "Πιστολάκι Για Μαλλιά"
+
+#: views/rc-rentals-facilities-shortcode.php:85
+#: views/rc-rentals-facilities-shortcode.php:87
+msgid "Heating"
+msgstr "Θέρμανση"
+
+#: views/rc-rentals-facilities-shortcode.php:91
+#: views/rc-rentals-facilities-shortcode.php:93
+msgid "Kitchen"
+msgstr "Κουζίνα"
+
+#: views/rc-rentals-facilities-shortcode.php:97
+#: views/rc-rentals-facilities-shortcode.php:99
+msgid "TV"
+msgstr "Τηλεόραση"
+
+#: views/rc-rentals-facilities-shortcode.php:103
+#: views/rc-rentals-facilities-shortcode.php:105
+msgid "Dishwasher"
+msgstr "Πλυντήριο πιάτων"
+
+#: views/rc-rentals-facilities-shortcode.php:109
+#: views/rc-rentals-facilities-shortcode.php:111
+msgid "WiFi"
+msgstr "Ίντερνετ"
+
+#: views/rc-rentals-facilities-shortcode.php:115
+#: views/rc-rentals-facilities-shortcode.php:117
+msgid "Bathtub"
+msgstr "Μπανιέρα"
+
+#: views/rc-rentals-facilities-shortcode.php:121
+#: views/rc-rentals-facilities-shortcode.php:123
+msgid "Shower"
+msgstr "Ντουζ"
+
+#: views/rc-rentals-facilities-shortcode.php:127
+#: views/rc-rentals-facilities-shortcode.php:129
+msgid "Shampoo"
+msgstr "Σαμπουάν"
+
+#: views/rc-rentals-facilities-shortcode.php:133
+#: views/rc-rentals-facilities-shortcode.php:135
+msgid "Hangers"
+msgstr "Κρεμάστρες"
+
+#: views/rc-rentals-facilities-shortcode.php:139
+#: views/rc-rentals-facilities-shortcode.php:141
+msgid "Iron"
+msgstr "Σίδερο Ρούχων"
+
+#: views/rc-rentals-facilities-shortcode.php:145
+#: views/rc-rentals-facilities-shortcode.php:147
+msgid "Safe Box"
+msgstr "Χρηματοκιβώτιο"
+
+#: views/rc-rentals-search-shortcode.php:4
+msgid "Search The Availability Of Our Rentals"
+msgstr "Αναζήτηση Της Διαθεσιμότητας Των Ακινήτων Μας"
+
+#: views/rc-rentals-search-shortcode.php:8
+msgid "Rental Location"
+msgstr "Τοποθεσία Ακινήτου"
+
+#: views/rc-rentals-search-shortcode.php:9
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: views/rc-rentals-search-shortcode.php:25
+msgid "Rental Type"
+msgstr "Τύπος Ακινήτου"
+
+#: views/rc-rentals-search-shortcode.php:26
+msgid "Type"
+msgstr "Τύπος"
+
+#: views/rc-rentals-search-shortcode.php:41
+msgid "Check-in Date"
+msgstr "Ημερομηνία Άφιξης"
+
+#: views/rc-rentals-search-shortcode.php:46
+msgid "Check-out Date"
+msgstr "Ημερομηνία Αναχώρησης"
+
+#: views/rc-rentals-search-shortcode.php:51
+msgid "Number Of Persons"
+msgstr "Αριθμός Επισκεπτών"
+
+#: views/rc-rentals-search-shortcode.php:52
+msgid "persons"
+msgstr "επισκέπτες"
+
+#: views/rc-rentals-search-shortcode.php:56
+#: views/rc-rentals-search-shortcode.php:58
+msgid "Search"
+msgstr "Αναζήτηση"

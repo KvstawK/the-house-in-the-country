@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Search Add-on\n"
+"POT-Creation-Date: 2021-09-16 10:58+0200\n"
+"PO-Revision-Date: 2021-09-16 11:00+0200\n"
+"Last-Translator: Tobias D. <info@td-projects.de>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:12
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:192
+msgid "Insert Search Widget"
+msgstr "Such-Widget einfügen"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:4
+msgid "Insert a Calendar Search Widget"
+msgstr "Einfügen eines Kalender Such-Widgets"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:5
+msgid ""
+"Create a search widget that allows the visitor to search for available dates "
+"in your calendars"
+msgstr ""
+"Erstelle ein Such-Widget, mit dem der Besucher nach verfügbaren Terminen in "
+"deinen Kalendern suchen kann"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:8
+#: includes/base/admin/settings/functions.php:16
+msgid "Search Widget"
+msgstr "Such-Widget"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:17
+#: includes/base/class-widget-search.php:108
+#: includes/base/class-widget-search.php:118
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1503
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1506
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:123
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:127
+msgid "Calendars"
+msgstr "Kalendar"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:20
+#: includes/base/class-widget-search.php:111
+msgid "All Calendars"
+msgstr "Alle Kalender"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:21
+#: includes/base/class-widget-search.php:112
+msgid "Selected Calendars"
+msgstr "Ausgewählte Kalender"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:29
+msgid "Select Calendars"
+msgstr "Kalender auswählen"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:45
+msgid "Basic Options"
+msgstr "Grundlegende Optionen"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:54
+#: includes/base/class-widget-search.php:130
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1518
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:137
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:76
+msgid "Language"
+msgstr "Sprache"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:56
+#: includes/base/class-widget-search.php:139
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:23
+msgid "Auto (let WP choose)"
+msgstr "Auto (WP wählen lassen)"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:77
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1532
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:152
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:52
+msgid "Week Start Day"
+msgstr "Woche Anfangstag"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:80
+#: includes/base/class-widget-search.php:152
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1534
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:155
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:31
+msgid "Monday"
+msgstr "Montag"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:81
+#: includes/base/class-widget-search.php:153
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1534
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:156
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:32
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:82
+#: includes/base/class-widget-search.php:154
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1534
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:157
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:33
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:83
+#: includes/base/class-widget-search.php:155
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1534
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:158
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:34
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:84
+#: includes/base/class-widget-search.php:156
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1534
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:159
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:35
+msgid "Friday"
+msgstr "Freitag"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:85
+#: includes/base/class-widget-search.php:157
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1534
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:160
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:36
+msgid "Saturday"
+msgstr "Samstag"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:86
+#: includes/base/class-widget-search.php:158
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1534
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:161
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:37
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:94
+#: includes/base/class-widget-search.php:164
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1525
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:143
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:44
+msgid "Widget Title"
+msgstr "Widget Titel"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:96
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:106
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:133
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:143
+#: includes/base/class-widget-search.php:168
+#: includes/base/class-widget-search.php:179
+#: includes/base/class-widget-search.php:201
+#: includes/base/class-widget-search.php:212
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1527
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1541
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1555
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1562
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:146
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:169
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:187
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:196
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:48
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:64
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:88
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:96
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:97
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:107
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:134
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:144
+#: includes/base/class-widget-search.php:169
+#: includes/base/class-widget-search.php:180
+#: includes/base/class-widget-search.php:202
+#: includes/base/class-widget-search.php:213
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1527
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1541
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1555
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1562
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:147
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:170
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:188
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:197
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:48
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:64
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:88
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:96
+msgid "No"
+msgstr "Nein"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:104
+#: includes/base/class-widget-search.php:175
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1539
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:166
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:60
+msgid "Automatically Mark Selection"
+msgstr "Automatische Auswahl markieren"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:121
+#: includes/base/class-widget-search.php:186
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1546
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:175
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:68
+msgid "Selection Type"
+msgstr "Auswahlart"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:123
+#: includes/base/class-widget-search.php:190
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1548
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:178
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:72
+msgid "Date Range"
+msgstr "Datumsbereich"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:124
+#: includes/base/class-widget-search.php:191
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1548
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:179
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:72
+msgid "Single Day"
+msgstr "Einzelner Tag"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:131
+#: includes/base/class-widget-search.php:197
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1553
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:184
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:84
+msgid "Show Featured Image"
+msgstr "Beitragsbild anzeigen"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:141
+#: includes/base/class-widget-search.php:208
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1560
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:193
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:92
+msgid "Show Starting Price"
+msgstr "Startpreis anzeigen"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:151
+#: includes/base/class-widget-search.php:219
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1567
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:202
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:100
+msgid "Results Layout"
+msgstr "Ergebnis-Layout"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:153
+#: includes/base/class-widget-search.php:223
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1569
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:205
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:104
+msgid "List"
+msgstr "Liste"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:154
+#: includes/base/class-widget-search.php:224
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1569
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:206
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:104
+msgid "Grid"
+msgstr "Raster"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:167
+#: includes/base/class-widget-search.php:230
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1574
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:211
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:108
+msgid "Results per Page"
+msgstr "Ergebnisse pro Seite"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:174
+#: includes/base/class-widget-search.php:237
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1580
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:216
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:115
+msgid "Redirect"
+msgstr "Umleitung"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:180
+msgid "Strings"
+msgstr "Zeichen"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:185
+#, php-format
+msgid ""
+"You can configure strings like labels and error messages from the <a target="
+"\"_blank\" href=\"%s\">settings page</a>."
+msgstr ""
+"Du kannst Strings wie Labels und Fehlermeldungen auf der <a target=\"_blank"
+"\" href=\"%s\">Einstellungsseite</a> konfigurieren."
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:193
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: includes/base/admin/settings/views/view-search_addon.php:9
+msgid "Search Widget Title"
+msgstr "Such-Widget-Titel"
+
+#: includes/base/admin/settings/views/view-search_addon.php:12
+msgid "Start Date Label"
+msgstr "Beschriftung Startdatum"
+
+#: includes/base/admin/settings/views/view-search_addon.php:15
+msgid "Start Date Placeholder"
+msgstr "Startdatum Platzhalter"
+
+#: includes/base/admin/settings/views/view-search_addon.php:18
+msgid "End Date Label"
+msgstr "Beschriftung Enddatum"
+
+#: includes/base/admin/settings/views/view-search_addon.php:21
+msgid "End Date Placeholder"
+msgstr "Enddatum Platzhalter"
+
+#: includes/base/admin/settings/views/view-search_addon.php:24
+msgid "Date Label"
+msgstr "Beschriftung Datum"
+
+#: includes/base/admin/settings/views/view-search_addon.php:27
+msgid "Search Button Label"
+msgstr "Suchschaltflächenbeschriftung"
+
+#: includes/base/admin/settings/views/view-search_addon.php:30
+msgid "No Start Date Error"
+msgstr "\"Kein Startdatum\"-Fehler"
+
+#: includes/base/admin/settings/views/view-search_addon.php:33
+msgid "No End Date Error"
+msgstr "\"Kein Enddatum\"-Fehler"
+
+#: includes/base/admin/settings/views/view-search_addon.php:36
+msgid "Invalid Start Date Error"
+msgstr "\"Ungültiges Startdatum\"-Fehler"
+
+#: includes/base/admin/settings/views/view-search_addon.php:39
+msgid "Invalid End Date Error"
+msgstr "\"Ungültiges Enddatum\"-Fehler"
+
+#: includes/base/admin/settings/views/view-search_addon.php:42
+msgid "Results Title"
+msgstr "Ergebnistitel"
+
+#: includes/base/admin/settings/views/view-search_addon.php:45
+msgid "No Results Warning"
+msgstr "\"Kein Ergebnis\"-Warnung"
+
+#: includes/base/admin/settings/views/view-search_addon.php:48
+msgid "Details Button Label"
+msgstr "Beschriftung für Details-Button"
+
+#: includes/base/admin/settings/views/view-search_addon.php:51
+msgid "Price"
+msgstr "Preis"
+
+#: includes/base/admin/settings/views/view-search_addon.php:54
+msgid "Pagination - Previous"
+msgstr "Paginierung - Vorherige"
+
+#: includes/base/admin/settings/views/view-search_addon.php:57
+msgid "Pagination - Next"
+msgstr "Paginierung - Nächste"
+
+#: includes/base/admin/settings/views/view-search_addon.php:73
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#: includes/base/admin/settings/views/view-search_addon.php:93
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: includes/base/class-widget-search.php:16
+msgid "Insert a WP Booking System Search Widget"
+msgstr "Einfügen eines WP-Buchungssystem-Such-Widgets"
+
+#: includes/base/class-widget-search.php:149
+msgid "Start Day of the Week"
+msgstr "Anfangstag der Woche"
+
+#: includes/base/search-widget/functions.php:38
+#: includes/base/search-widget/functions.php:44
+msgid "Search"
+msgstr "Suche"
+
+#: includes/base/search-widget/functions.php:39
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: includes/base/search-widget/functions.php:41
+msgid "End Date"
+msgstr "Enddatum"
+
+#: includes/base/search-widget/functions.php:43
+msgid "Date"
+msgstr "Datum"
+
+#: includes/base/search-widget/functions.php:45
+msgid "Please select a starting date."
+msgstr "Bitte wähle ein Startdatum aus."
+
+#: includes/base/search-widget/functions.php:46
+msgid "Please select an ending date."
+msgstr "Wähle ein Enddatum aus."
+
+#: includes/base/search-widget/functions.php:47
+msgid "Invalid start date."
+msgstr "Ungültiges Startdatum."
+
+#: includes/base/search-widget/functions.php:48
+msgid "Invalid end date"
+msgstr "Ungültiges Enddatum"
+
+#: includes/base/search-widget/functions.php:49
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: includes/base/search-widget/functions.php:50
+msgid "No available dates were found."
+msgstr "Es wurden keine verfügbaren Daten gefunden."
+
+#: includes/base/search-widget/functions.php:51
+msgid "View"
+msgstr "Anzeigen"
+
+#: includes/base/search-widget/functions.php:52
+msgid "Starting from $% per day."
+msgstr "Ab $% pro Tag."
+
+#: includes/base/search-widget/functions.php:53
+msgid "Previous"
+msgstr "Vorherige"
+
+#: includes/base/search-widget/functions.php:54
+msgid "Next"
+msgstr "Nächste"
+
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1418
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:29
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/modules/blocks/search-widget/assets/js/build/script-block-search-widget.js:1515
+#: includes/modules/blocks/search-widget/assets/js/src/script-block-search-widget.js:134
+msgid ""
+"Select the calendars you wish to be included in the search, or leave empty "
+"to show all calendars."
+msgstr ""
+"Wähle die Kalender aus, die du in die Suche einbeziehen möchtest, oder lass "
+"sie leer, um alle Kalender anzuzeigen."
+
+#: includes/modules/divi/includes/modules/CalendarSearch/CalendarSearch.php:10
+msgid "Calendar Search"
+msgstr "Kalendersuche"
+
+#: index.php:131
+msgid "The <strong>Search</strong> Add-on requires WP Booking System version "
+msgstr ""
+"Das <strong>Search</strong> Add-on erfordert WP Booking System Version "
+
+#. Plugin Name of the plugin/theme
+msgid "WP Booking System - Search Add-on"
+msgstr "WP Booking System - Search Add-on"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.wpbookingsystem.com/"
+msgstr "https://www.wpbookingsystem.com/"
+
+#. Description of the plugin/theme
+msgid "A search add-on for WP Booking System"
+msgstr "Ein Such-Add-on für WP Booking System"
+
+#. Author of the plugin/theme
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"

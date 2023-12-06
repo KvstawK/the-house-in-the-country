@@ -1,0 +1,12 @@
+.pure-u-1-4 { border: none; background: #eee; }
+.ac_inner-div { border: solid 1px #aaa; padding: 5px; }
+.ac_b 	{ font-weight: bold; }
+.ac_p	{ padding: 5px; }
+.ac_percent_div { width:100%; height:5px; display:flex; background:white; box-sizing: border-box; overflow: hidden;
+	white-space: nowrap; border: solid 1px #999; border-radius: 3px; }
+.ac_percent { height:5px; display:flex; box-sizing: }
+.ac_pie { display:inline-block; width: 16px; height: 16px; border-radius: 50%; border: solid 1px #ccc; margin-left:5px; vertical-align: bottom; }
+.pure-table { border: 1px solid #cbcbcb !important; border-collapse: separate; }
+.dashicons { font-size: 16px; vertical-align: bottom; margin-bottom:-3px; }
+hr	{ margin-top:0; }
+thead td { font-weight: bold; }

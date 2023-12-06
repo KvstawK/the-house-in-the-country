@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Search Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-28 00:46+0000\n"
+"PO-Revision-Date: 2021-01-06 13:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.7-alpha-49938\n"
+"X-Domain: wp-booking-system-search"
+
+#: index.php:128
+msgid "\">update</a> to the latest version."
+msgstr ""
+
+#. Description of the plugin
+msgid "A search add-on for WP Booking System"
+msgstr "Un complément de recherche sur WP Système de Réservation"
+
+#: includes/base/class-widget-search.php:97
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:20
+msgid "All Calendars"
+msgstr "Tous Les Calendriers"
+
+#: includes/base/class-widget-search.php:125
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:56
+msgid "Auto (let WP choose)"
+msgstr "Auto (laissez WP choisir)"
+
+#: includes/base/class-widget-search.php:146
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:87
+msgid "Automatically Mark Selection"
+msgstr "Marquer Automatiquement La Sélection"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:45
+msgid "Basic Options"
+msgstr "Options De Base"
+
+#: includes/base/class-widget-search.php:94
+#: includes/base/class-widget-search.php:104
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:17
+msgid "Calendars"
+msgstr "Calendriers"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:110
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:5
+msgid ""
+"Create a search widget that allows the visitor to search for available dates "
+"in your calendars"
+msgstr ""
+"Créer un widget de recherche qui permet au visiteur de recherche pour les "
+"dates dans vos agendas"
+
+#: includes/base/admin/settings/views/view-search_addon.php:39
+msgid "Details Button Label"
+msgstr "Détails De L'Étiquette Du Bouton"
+
+#: includes/base/search-widget/functions.php:40
+msgid "End Date"
+msgstr "Date de Fin"
+
+#: includes/base/admin/settings/views/view-search_addon.php:15
+msgid "End Date Label"
+msgstr "Date de Fin de L'Étiquette"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr ""
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:4
+msgid "Insert a Calendar Search Widget"
+msgstr "Insérer un Calendrier Widget de Recherche"
+
+#: includes/base/class-widget-search.php:16
+msgid "Insert a WP Booking System Search Widget"
+msgstr "Insérer un WP Système de Réservation Widget de Recherche"
+
+#: includes/base/admin/calendar/functions-shortcode-generator.php:12
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:109
+msgid "Insert Search Widget"
+msgstr "Insérez Le Widget de Recherche"
+
+#: includes/base/search-widget/functions.php:45
+msgid "Invalid end date"
+msgstr "Non valide de la date de fin"
+
+#: includes/base/admin/settings/views/view-search_addon.php:30
+msgid "Invalid End Date Error"
+msgstr "Non Valide  de Date de Fin"
+
+#: includes/base/admin/settings/views/view-search_addon.php:27
+msgid "Invalid Start Date Error"
+msgstr "Invalide Date de Début Erreur"
+
+#: includes/base/search-widget/functions.php:44
+msgid "Invalid start date."
+msgstr "Invalide date de début."
+
+#: includes/base/class-widget-search.php:116
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:54
+msgid "Language"
+msgstr "Langue"
+
+#: includes/base/class-widget-search.php:140
+#: includes/base/class-widget-search.php:151
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:80
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:90
+msgid "No"
+msgstr "Pas de"
+
+#: includes/base/search-widget/functions.php:47
+msgid "No available dates were found."
+msgstr "Pas de dates disponibles trouvées."
+
+#: includes/base/admin/settings/views/view-search_addon.php:24
+msgid "No End Date Error"
+msgstr "Pas de Date de Fin d'Erreur"
+
+#: includes/base/admin/settings/views/view-search_addon.php:36
+msgid "No Results Warning"
+msgstr "Aucun Résultat D'Avertissement"
+
+#: includes/base/admin/settings/views/view-search_addon.php:21
+msgid "No Start Date Error"
+msgstr "Pas De Date De Début D'Erreur"
+
+#: includes/base/search-widget/functions.php:42
+msgid "Please select a starting date."
+msgstr "Veuillez sélectionner une date de début."
+
+#: includes/base/search-widget/functions.php:43
+msgid "Please select an ending date."
+msgstr "Veuillez sélectionner une date de fin."
+
+#: includes/base/admin/settings/views/view-search_addon.php:33
+msgid "Results Title"
+msgstr "Résultats de Titre"
+
+#: includes/base/admin/settings/views/view-search_addon.php:75
+msgid "Save Settings"
+msgstr "Enregistrer Les Paramètres"
+
+#: includes/base/search-widget/functions.php:38
+#: includes/base/search-widget/functions.php:41
+msgid "Search"
+msgstr "Recherche"
+
+#: includes/base/admin/settings/views/view-search_addon.php:18
+msgid "Search Button Label"
+msgstr "Bouton de Recherche de L'Étiquette"
+
+#: includes/base/search-widget/functions.php:46
+msgid "Search Results"
+msgstr "Résultats de La Recherche"
+
+#: includes/base/admin/settings/functions.php:16
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:8
+msgid "Search Widget"
+msgstr "Widget de Recherche"
+
+#: includes/base/admin/settings/views/view-search_addon.php:9
+msgid "Search Widget Title"
+msgstr "Widget de Recherche de Titre"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:29
+msgid "Select Calendars"
+msgstr "Sélectionnez Les Calendriers"
+
+#: includes/base/class-widget-search.php:98
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:21
+msgid "Selected Calendars"
+msgstr "Calendriers Sélectionnés"
+
+#: includes/base/search-widget/functions.php:39
+msgid "Start Date"
+msgstr "Date de Début"
+
+#: includes/base/admin/settings/views/view-search_addon.php:12
+msgid "Start Date Label"
+msgstr "Date de Début de L'Étiquette"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:97
+msgid "Strings"
+msgstr "Les chaînes"
+
+#: includes/base/admin/settings/views/view-search_addon.php:55
+msgid "Translations"
+msgstr "Traductions"
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"
+
+#: includes/base/search-widget/functions.php:48
+msgid "View"
+msgstr "Vue"
+
+#: includes/base/class-widget-search.php:135
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:77
+msgid "Widget Title"
+msgstr "Widget de Titre"
+
+#. Name of the plugin
+msgid "WP Booking System - Search Add-on"
+msgstr "WP Système de Réservation de Recherche d'Add-on"
+
+#: includes/base/class-widget-search.php:139
+#: includes/base/class-widget-search.php:150
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:79
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:89
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/base/admin/calendar/views/view-shortcode-generator-insert-search-widget.php:102
+#, php-format
+msgid ""
+"You can configure strings like labels and error messages from the <a "
+"target=\"_blank\" href=\"%s\">settings page</a>."
+msgstr ""

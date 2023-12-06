@@ -1,0 +1,197 @@
+/******************************************************************************************/
+/* Add New discount Page
+/******************************************************************************************/
+
+/* Admin notices */
+.wrap.wpbs-wrap-add-discount div.notice { max-width: 500px; margin-left: auto; margin-right: auto; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+/* Icon */
+#wpbs-add-new-discount-icon { text-align: center; }
+#wpbs-add-new-discount-icon .wpbs-icon-wrap { position: relative; background: #e6e6e6; width: 70px; height: 70px; border-radius: 50%; margin: 50px auto 10px; }
+
+#wpbs-add-new-discount-icon .wpbs-icon-wrap .dashicons-tickets-alt { font-size: 38px; vertical-align: middle; text-align: center; width: 70px; height: 70px; line-height: 68px; }
+#wpbs-add-new-discount-icon .wpbs-icon-wrap .dashicons-plus { position: absolute; top: -10px; right: -10px; background: #c1c1c1; border-radius: 50%; width: 30px; height: 30px; text-align: center; line-height: 32px; vertical-align: middle; }
+
+/* Heading */
+#wpbs-add-new-discount-heading { text-align: center; margin-bottom: 35px;  display:block !important; }
+
+/* Postbox */
+#wpbs-add-new-discount-postbox { max-width: 500px; margin: 0 auto; }
+#wpbs-add-new-discount-postbox .inside { padding: 30px 20px; margin: 0; }
+
+#wpbs-add-new-discount-postbox h1 { text-align: center; margin-bottom: 35px; }
+
+#wpbs-add-new-discount-postbox label { display: block; font-weight: bold; margin-bottom: 5px; }
+#wpbs-add-new-discount-postbox input[type="text"],
+#wpbs-add-new-discount-postbox select { width: 100%; height: 32px; }
+
+#wpbs-add-new-discount-postbox select { margin-bottom: 5px; }
+
+#wpbs-add-new-discount-postbox input[type=submit] { display: inline-block; margin: 0 auto; }
+
+#wpbs-add-new-discount-postbox #major-publishing-actions { padding: 20px; text-align: right; }
+#wpbs-add-new-discount-postbox #major-publishing-actions:after { content: ''; display: block; clear: both; }
+#wpbs-add-new-discount-postbox #major-publishing-actions a { float: left; color: #777; line-height: 36px; outline: 0; -webkit-box-shadow: none; box-shadow: none; }
+#wpbs-add-new-discount-postbox #major-publishing-actions a:hover { color: #444; }
+
+
+.wpbs-discount-form-fields {display: inline-block; margin-bottom: 20px;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule {margin: 8px 0;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule input {display: inline-block; vertical-align: top;}
+
+.wpbs-discount-form-fields .wpbs-discount-rule-group .discount-rule-group-separator {text-align: center; position: relative; padding: 10px 0;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .discount-rule-group-separator:before {content: ""; position: absolute; left: 0; top: 50%; width: 100%; height: 1px; z-index: -1; background: #ddd; }
+.wpbs-discount-form-fields .wpbs-discount-rule-group .discount-rule-group-separator p {display: inline-block; position: relative; background-color: #f1f1f1; padding: 0 15px; margin: 0; font-style: italic;}
+
+.wpbs-discount-form-fields .discount-rule-group-add-group {text-align: center;}
+
+.wpbs-discount-form-fields .wpbs-discount-rule-group {font-size: 0;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .discount-rule-value {min-width: 200px; margin: 0 4px 0 0; display: inline-block; vertical-align: top; height: 30px;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group select {min-width: 200px; margin: 0 4px 0 0; display: inline-block; vertical-align: top; height: 30px;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group select.discount-rule-condition {min-width: 400px;}
+
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule {position: relative;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule .discount-rule-value-weekdays {display: none;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule .discount-rule-form-fields {display: none;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-form-field .discount-rule-form-fields {display: inline-block;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-form-field select.discount-rule-condition {max-width: 196px; min-width:auto;}
+
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule .discount-rule-user-roles {display: none;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-user_role .discount-rule-user-roles {display: inline-block;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-user_role input.discount-rule-value-default {display: none;}
+
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule .discount-rule-add-and {height: 29px;}
+
+/* User Role */
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-user select.discount-rule-comparison {min-width: 404px}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-user input.discount-rule-value-default {display: none;}
+
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-payment_type select.discount-rule-comparison {min-width: 404px}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-payment_type input.discount-rule-value-default {display: none;}
+
+/* Weekday */
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-booking-weekday input.discount-rule-value-default {display: none;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-booking-weekday select.discount-rule-value-weekdays {display: inline-block;}
+
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule-remove {display: inline-block; text-decoration: none; font-size: 21px; color: #f00; padding: 4px; position: absolute; top: 1px; right: -32px; outline: none; -webkit-box-shadow: none; box-shadow: none;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group:first-of-type .wpbs-discount-rule:first-of-type .wpbs-discount-rule-remove {display: none !important;}
+.wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule-remove:hover {color: inherit;}
+
+#wpbs-discount-rule-template {display: none;}
+
+
+.wpbs-wrap-edit-discount .wpbs-discount-validity-row {position: relative; margin-bottom:5px;}
+.wpbs-wrap-edit-discount .wpbs-discount-validity-row:after {content:""; display:block; clear:both;}
+.wpbs-wrap-edit-discount .wpbs-discount-validity-row .wpbs-discount-remove-validity-period {position: absolute; color: #f00; text-decoration: none; font-size: 22px; top: 4px; right: -22px;}
+.wpbs-wrap-edit-discount .wpbs-discount-validity-row .wpbs-discount-remove-validity-period:hover {color: inherit;}
+.wpbs-wrap-edit-discount .wpbs-discount-validity-row:first-child .wpbs-discount-remove-validity-period {display:none;}
+
+.wpbs-settings-field-discount-apply-to {display: none;}
+
+
+/******************************************************************************************/
+/* Edit discount Page
+/******************************************************************************************/
+.wrap.wpbs-wrap-edit-discount #titlediv {margin-bottom: 20px;}
+
+.wrap.wpbs-wrap-edit-discount .wpbs-discount-value-field-inner .input-before .before {line-height: 26px;}
+.wrap.wpbs-wrap-edit-discount .wpbs-discount-value-field-inner .input-before .before span {display: none;}
+
+
+
+/******************************************************************************************/
+/* Add New Coupon Page
+/******************************************************************************************/
+
+/* Admin notices */
+.wrap.wpbs-wrap-add-coupon div.notice { max-width: 500px; margin-left: auto; margin-right: auto; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+/* Icon */
+#wpbs-add-new-coupon-icon { text-align: center; }
+#wpbs-add-new-coupon-icon .wpbs-icon-wrap { position: relative; background: #e6e6e6; width: 70px; height: 70px; border-radius: 50%; margin: 50px auto 10px; }
+
+#wpbs-add-new-coupon-icon .wpbs-icon-wrap .dashicons-tickets-alt { font-size: 38px; vertical-align: middle; text-align: center; width: 70px; height: 70px; line-height: 68px; }
+#wpbs-add-new-coupon-icon .wpbs-icon-wrap .dashicons-plus { position: absolute; top: -10px; right: -10px; background: #c1c1c1; border-radius: 50%; width: 30px; height: 30px; text-align: center; line-height: 32px; vertical-align: middle; }
+
+/* Heading */
+#wpbs-add-new-coupon-heading { text-align: center; margin-bottom: 35px; display:block !important; }
+
+/* Postbox */
+#wpbs-add-new-coupon-postbox { max-width: 500px; margin: 0 auto; }
+#wpbs-add-new-coupon-postbox .inside { padding: 30px 20px; margin: 0; }
+
+#wpbs-add-new-coupon-postbox h1 { text-align: center; margin-bottom: 35px; }
+
+#wpbs-add-new-coupon-postbox label { display: block; font-weight: bold; margin-bottom: 5px; }
+#wpbs-add-new-coupon-postbox input[type="text"],
+#wpbs-add-new-coupon-postbox select { width: 100%; height: 32px; }
+
+#wpbs-add-new-coupon-postbox select { margin-bottom: 5px; }
+
+#wpbs-add-new-coupon-postbox input[type=submit] { display: inline-block; margin: 0 auto; }
+
+#wpbs-add-new-coupon-postbox #major-publishing-actions { padding: 20px; text-align: right; }
+#wpbs-add-new-coupon-postbox #major-publishing-actions:after { content: ''; display: block; clear: both; }
+#wpbs-add-new-coupon-postbox #major-publishing-actions a { float: left; color: #777; line-height: 36px; outline: 0; -webkit-box-shadow: none; box-shadow: none; }
+#wpbs-add-new-coupon-postbox #major-publishing-actions a:hover { color: #444; }
+
+/******************************************************************************************/
+/* Edit coupon Page
+/******************************************************************************************/
+.wrap.wpbs-wrap-edit-coupon #titlediv {margin-bottom: 20px;}
+
+.wrap.wpbs-wrap-edit-coupon .wpbs-coupon-value-field-inner .input-before .before {line-height: 26px;}
+.wrap.wpbs-wrap-edit-coupon .wpbs-coupon-value-field-inner .input-before .before span {display: none;}
+
+.wrap.wpbs-wrap-edit-discount .wpbs-discount-validity-wrapper:after,
+.wrap.wpbs-wrap-edit-coupon .wpbs-coupon-validity-wrapper:after {content:""; clear:both; display:block;}
+.wrap.wpbs-wrap-edit-discount .wpbs-discount-validity-wrapper .wpbs-discount-validity-date,
+.wrap.wpbs-wrap-edit-coupon .wpbs-coupon-validity-wrapper .wpbs-coupon-validity-date {width:49%; float:left; margin-right:2%; cursor:pointer; background: #fff; margin-left:0;} 
+.wrap.wpbs-wrap-edit-discount .wpbs-discount-validity-wrapper .wpbs-discount-validity-date:nth-child(2),
+.wrap.wpbs-wrap-edit-coupon .wpbs-coupon-validity-wrapper .wpbs-coupon-validity-date:nth-child(2) {margin-right: 0;}
+
+.wpbs-settings-field-coupon-apply-to {display: none;}
+
+.wpbs-coupon-week-days {display: block;float: left; margin-right:15px;}
+.wpbs-coupon-week-days span {display:block; text-align:center;}
+.wpbs-coupon-week-days input {margin: 0;}
+
+/******************************************************************************************/
+/* Media Queries
+/******************************************************************************************/
+@media screen and (max-width: 1300px){ .wpbs-wrap-edit-discount .wpbs-settings-field-wrapper.wpbs-settings-field-inline .wpbs-settings-field-label {position: relative; left: auto; top: auto; width: auto; margin-bottom: 7px;}
+    .wpbs-wrap-edit-discount .wpbs-settings-field-wrapper.wpbs-settings-field-inline {padding-left: 0;}
+}
+
+@media screen and (max-width: 1100px){
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .discount-rule-value {min-width: 183px;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group select {min-width: 183px;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group select.discount-rule-condition {min-width: 366px;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-form-field select.discount-rule-condition {min-width: 176px;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule.wpbs-discount-rule-user select.discount-rule-comparison {min-width: 370px}
+}
+
+@media screen and (max-width: 1010px){
+    .wpbs-discount-form-fields {display: block;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule {display: -webkit-box;display: -ms-flexbox;display: flex; -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule > * {-webkit-box-flex: 1;-ms-flex: 1;flex: 1; min-width: 1px !important;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule .discount-rule-add-and {-webkit-box-flex: 0 !important;-ms-flex: none !important;flex: none !important;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule .wpbs-discount-rule-remove {-webkit-box-flex: 0 !important;-ms-flex: none !important;flex: none !important; position: relative; right: -5px;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group:first-of-type .wpbs-discount-rule:first-of-type .wpbs-discount-rule-remove {display: inline-block !important; visibility: hidden; opacity: 0; pointer-events: none;}
+    .wpbs-discount-form-fields select {height: 30px !important; font-size: 16px !important;}
+}
+
+@media screen and (max-width: 767px){
+    .wpbs-wrap-edit-discount .wpbs-settings-field-wrapper.wpbs-settings-field-inline .wpbs-settings-field-label {margin-bottom: 0;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule:first-of-type {margin-top: 0;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule {display: block; -webkit-box-align: inherit; -ms-flex-align: inherit; align-items: inherit; margin: 20px 0 0 0;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule > * {-webkit-box-flex: 0;-ms-flex: none;flex: none; min-width: 1px !important;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .wpbs-discount-rule .wpbs-discount-rule-remove {right: auto; margin-left: 5px;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group:first-of-type .wpbs-discount-rule:first-of-type .wpbs-discount-rule-remove {display: none !important;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group select {width: 100% !important; margin-bottom: 4px !important;}
+    .wpbs-discount-form-fields .wpbs-discount-rule-group .discount-rule-value {width: 100% !important; margin-bottom: 4px !important;}
+}
+
+.wp-list-table.wpbs_coupons .wpbs-list-table-code { background-color: #eee; border: 1px solid #ccc; border-radius:5px; padding: 3px 6px 2px; font-family: 'Courier New', monospace;}
+.wp-list-table .wpbs-discount-expired {display:inline-block; border:1px solid #d63638; border-radius:5px; padding: 3px 6px 2px; background:#ffd1d1; font-weight: bold; font-size:12px; line-height:1.1;}
+

@@ -1,0 +1,5 @@
+[06-Dec-2023 11:50:47 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/kostask/Local Sites/thehouseinthecountry/app/public/wp-includes/load.php on line 381
+[06-Dec-2023 11:51:25 UTC] [ERROR] : WP_CACHE constant is not present in wp-config.php
+[06-Dec-2023 11:51:25 UTC] [ERROR] : WP_CACHE constant is not present in wp-config.php
+[06-Dec-2023 11:52:25 UTC] Cron unschedule event error for hook: wordfence_daily_autoUpdate, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[06-Dec-2023 11:52:25 UTC] Cron unschedule event error for hook: wordfence_daily_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}

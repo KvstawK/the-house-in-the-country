@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Reporting Add-on\n"
+"POT-Creation-Date: 2021-02-02 01:56+0100\n"
+"PO-Revision-Date: 2021-02-02 01:57+0100\n"
+"Last-Translator: Tobias D. <info@td-projects.de>\n"
+"Language-Team: Tobias D. <info@td-projects.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/base/admin/reporting/functions.php:45
+#: includes/base/admin/reporting/functions.php:46
+msgid "Reports"
+msgstr "Berichte"
+
+#: includes/base/admin/reporting/views/view-reporting.php:56
+msgid "Reporting"
+msgstr "Berichterstattung"
+
+#: index.php:141
+msgid ""
+"The <strong>Reporting</strong> Add-on requires WP Booking System version "
+msgstr ""
+"Das <strong>Reporting</strong> Add-on erfordert die WP Booking System "
+"Version "
+
+#. Plugin Name of the plugin/theme
+msgid "WP Booking System - Reporting Add-on"
+msgstr "WP Booking System - Reporting Add-on"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.wpbookingsystem.com/"
+msgstr "https://www.wpbookingsystem.com/"
+
+#. Description of the plugin/theme
+msgid "Creates a dashboard with reports and statistics for your bookings."
+msgstr ""
+"Erzeugt ein Dashboard mit Berichten und Statistiken für deine Buchungen."
+
+#. Author of the plugin/theme
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"

@@ -1,0 +1,178 @@
+# Copyright (C) 2023 Rental Collective
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RC Contact Forms 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lc-contact-forms\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-31T11:53:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: lc-contact-forms\n"
+
+#. Plugin Name of the plugin
+msgid "RC Contact Forms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.example.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "A contact forms plugin for WordPress, created by Lodgings Collective"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rental Collective"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rentalscollective.com/"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:17
+msgid "You have exceeded the maximum number of submissions. Please try again later!"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:24
+msgid "Please enter your name"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:24
+msgid "Your Name"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:27
+#: views/lc-list-property-form-shortcode.php:44
+msgid "Please enter your email"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:27
+msgid "Your Email"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:30
+msgid "Please enter your subject"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:30
+msgid "Subject"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:33
+msgid "Please enter your message"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:33
+#: views/lc-list-property-form-shortcode.php:62
+msgid "Your Message"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:35
+#: views/lc-list-property-form-shortcode.php:66
+msgid "Send"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:106
+msgid "Thanks for contacting me, expect a response soon!"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:11
+msgid "Thanks for contacting us. We will get back to you soon!"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:23
+msgid "Choose Your Package:"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:26
+msgid "Online Marketplaces Management Package, 5%"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:26
+msgid "Online Marketplaces Management Package, 5"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:27
+msgid "Posting Your Rental In Our Platform Package, 10%"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:27
+msgid "Posting Your Rental In Our Platform Package, 10"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:28
+msgid "Vacation Rental Website Creation & SEO Promotion Package, 10%"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:28
+msgid "Vacation Rental Website Creation & SEO Promotion Package, 10"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:29
+msgid "Full Vacation Rental Online Solution Package, 10%"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:29
+msgid "Full Vacation Rental Online Solution Package, 10"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:36
+msgid "Please enter your property's title"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:38
+msgid "ex: Villa Lovely"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:46
+msgid "Email"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:52
+msgid "Please enter the URLs of your vacation rental (one per line)"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:54
+msgid ""
+"ex:\n"
+"https://www.airbnb.com/your-apartment-name.com,\n"
+"https://www.booking.com/your-villa-name.com,\n"
+"https://www.your-website.com"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:60
+msgid "Please enter a message for us (optional)"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:85
+msgid "You have exceeded the maximum number of submissions. Please try again later."
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:90
+msgid "Invalid nonce"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:102
+msgid "Please fill in all the required fields."
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:109
+msgid "Vacation Rental Submitted"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:118
+msgid "Promotion Package:"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:121
+msgid "URLs:"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:131
+msgid "An unexpected error occurred"
+msgstr ""

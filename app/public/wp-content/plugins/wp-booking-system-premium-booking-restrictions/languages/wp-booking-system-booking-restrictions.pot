@@ -1,0 +1,315 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Advanced Booking Restrictions Add-"
+"on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-25 08:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: wp-booking-system-booking-restrictions"
+
+#: includes/base/admin/form/functions.php:71
+#, php-format
+msgid ""
+"%s to %s is a fixed date range and cannot be booked in any other combination."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:263
+msgid "Add Custom Period Restriction Rule"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:82
+msgid "Add Fixed Date Interval"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:227
+msgid "Advance reservation"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:19
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restrictions.php:16
+msgid "Booking Restrictions"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:82
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:103
+msgid "Date range"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:67
+msgid "Date range type"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:250
+msgid "Days"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:17
+msgid "Enable Booking Restrictions"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:12
+msgid "Enable Fixed Date Intervals"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:61
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:93
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:114
+msgid "End date"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:179
+msgid "End day"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:168
+msgid "Enforce specific days"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:73
+msgid "Fixed Date"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:44
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restrictions.php:18
+msgid "Fixed Date Intervals"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:89
+msgid "Fixed Days"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:114
+msgid "Fixed Intervals"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:142
+msgid "Fixed number of days"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:246
+msgid "Force a number of days between bookings."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:169
+msgid "Force the booking to start or end on a specific day of the week."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:104
+msgid "Maximum Advance Days"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:136
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:237
+msgid "Maximum days"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:99
+msgid "Minimum Advance Days"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:131
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:232
+msgid "Minimum days"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:152
+msgid "Minimum stay based on start day"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:158
+msgid "One or more custom periods are missing a start date."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:163
+msgid "One or more custom periods are missing an end date."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:206
+msgid "One or more custom periods overlap."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:280
+msgid "One or more date intervals overlap."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:251
+msgid "One or more intervals are missing a start date."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:256
+msgid "One or more intervals are missing an end date."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:261
+msgid "One or more intervals contain a start date greater than the end date."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:70
+msgid "or"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:68
+#, php-format
+msgid "Please select exactly %s days."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:67
+msgid "Price Override"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:72
+msgid "Recurring"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:53
+msgid "Remove"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:51
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:52
+msgid "Restriction Rule - Custom Period"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:52
+msgid "Restriction Rule - General"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:143
+msgid ""
+"Set a fixed number of days for bookings. You can enter multiple days "
+"separated by a comma. Eg \"7,14,21\"."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Set advanced booking restrictions like minimum or maximum days, enforce a "
+"day of the week, and more."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:83
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:104
+msgid ""
+"Set restriction rules for a custom date range. This will override the "
+"\"General\" restriction rules."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:127
+msgid ""
+"Set the minimum or maximum number of days for a booking. If you are using "
+"the \"Split\" selection type, the number of nights will be counted instead."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:153
+msgid ""
+"Set the minimum stay for a specific day of the week. The value cannot be "
+"lower or higher than the \"Stay length\" values."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:55
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:87
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:108
+msgid "Start date"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:175
+msgid "Start day"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:126
+msgid "Stay length"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:90
+#: includes/base/admin/form/functions.php:100
+#: includes/base/admin/form/functions.php:105
+#: includes/base/admin/form/functions.php:110
+#, php-format
+msgid ""
+"The \"%s\" will be replaced by the number of days set in the Booking "
+"Restriction tab."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:115
+#, php-format
+msgid "The \"%s\" will be replaced with the interval Start and End dates."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:66
+#, php-format
+msgid "The booking must start at least %s days from today."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:67
+#, php-format
+msgid "The booking must start no later than %s days from today."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:187
+msgid ""
+"The minimum advance reservation stay cannot be greater than the maximum "
+"advance reservation stay."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:228
+msgid ""
+"The minimum and maximum advance reservation restrictions refer to the "
+"minimum or maximum periods for how far in advance guests can book."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:175
+msgid "The minimum stay cannot be greater than the maximum stay."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:181
+msgid "The minimum stay per day cannot be lower than the general minimum stay."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:168
+msgid "The start date for a Fixed Date rule is higher than the end date."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:69
+#, php-format
+msgid "The turnaround period must be %s days."
+msgstr ""
+
+#: includes/base/admin/form/functions.php:109
+msgid "Turnaround Time"
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:245
+msgid "Turnaround time"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:95
+msgid ""
+"Used for joining weekdays when there are multiple Starting or Ending days. "
+"Eg. \"Monday *or* Sunday\""
+msgstr ""
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:94
+msgid "Weekday Separator"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Booking System - Advanced Booking Restrictions Add-on"
+msgstr ""

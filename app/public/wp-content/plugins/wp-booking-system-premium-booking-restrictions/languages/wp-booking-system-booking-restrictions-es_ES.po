@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Advanced Booking Restrictions Add-"
+"on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-11 13:11+0000\n"
+"PO-Revision-Date: 2021-11-23 08:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: wp-booking-system-booking-restrictions"
+
+#: includes/base/admin/form/functions.php:71
+#, php-format
+msgid ""
+"%s to %s is a fixed date range and cannot be booked in any other combination."
+msgstr ""
+"%s a %s es un intervalo de fechas fijo y no se puede reservar en ninguna "
+"otra combinación."
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:263
+msgid "Add Custom Period Restriction Rule"
+msgstr "Agregar regla de restricción de período personalizada"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:82
+msgid "Add Fixed Date Interval"
+msgstr "Agregar intervalo de fecha fija"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:227
+msgid "Advance reservation"
+msgstr "Reserva anticipada"
+
+#: includes/base/admin/form/functions.php:19
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restrictions.php:16
+msgid "Booking Restrictions"
+msgstr "Restricciones de reserva"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:82
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:103
+msgid "Date range"
+msgstr "Rango de fechas"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:67
+msgid "Date range type"
+msgstr "Tipo de intervalo de fechas"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:250
+msgid "Days"
+msgstr "Dias"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:17
+msgid "Enable Booking Restrictions"
+msgstr "Habilitar restricciones de reserva"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:12
+msgid "Enable Fixed Date Intervals"
+msgstr "Habilitar intervalos de fechas fijas"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:61
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:93
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:114
+msgid "End date"
+msgstr "Fecha de salida"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:179
+msgid "End day"
+msgstr "Día de salida"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:168
+msgid "Enforce specific days"
+msgstr "Hacer cumplir días específicos"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:73
+msgid "Fixed Date"
+msgstr "Fecha fijada"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restrictions.php:18
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:44
+msgid "Fixed Date Intervals"
+msgstr "Intervalos de fecha fija"
+
+#: includes/base/admin/form/functions.php:89
+msgid "Fixed Days"
+msgstr "Días fijos"
+
+#: includes/base/admin/form/functions.php:114
+msgid "Fixed Intervals"
+msgstr "Intervalos fijos"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:142
+msgid "Fixed number of days"
+msgstr "Número fijo de días"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:246
+msgid "Force a number of days between bookings."
+msgstr "Fuerza un número de días entre reservas."
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:169
+msgid "Force the booking to start or end on a specific day of the week."
+msgstr ""
+"Obligar a que la reserva comience o finalice en un día específico de la "
+"semana."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:104
+msgid "Maximum Advance Days"
+msgstr "Días máximos en adelante"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:136
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:237
+msgid "Maximum days"
+msgstr "Días máximos"
+
+#: includes/base/admin/form/functions.php:99
+msgid "Minimum Advance Days"
+msgstr "Días mínimos en adelante"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:131
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:232
+msgid "Minimum days"
+msgstr "Días mínimos"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:152
+msgid "Minimum stay based on start day"
+msgstr "Estancia mínima basada en el día de entrada"
+
+#: includes/base/admin/form/functions.php:158
+msgid "One or more custom periods are missing a start date."
+msgstr "A uno o más períodos personalizados les falta una fecha de entrada."
+
+#: includes/base/admin/form/functions.php:163
+msgid "One or more custom periods are missing an end date."
+msgstr "A uno o más períodos personalizados les falta una fecha de salida."
+
+#: includes/base/admin/form/functions.php:206
+msgid "One or more custom periods overlap."
+msgstr "Uno o más períodos personalizados se superponen."
+
+#: includes/base/admin/form/functions.php:280
+msgid "One or more date intervals overlap."
+msgstr "Uno o más intervalos de fechas se superponen."
+
+#: includes/base/admin/form/functions.php:251
+msgid "One or more intervals are missing a start date."
+msgstr "A uno o más intervalos les falta una fecha de entrada."
+
+#: includes/base/admin/form/functions.php:256
+msgid "One or more intervals are missing an end date."
+msgstr "A uno o más intervalos les falta una fecha de salida."
+
+#: includes/base/admin/form/functions.php:261
+msgid "One or more intervals contain a start date greater than the end date."
+msgstr ""
+"Uno o más intervalos contienen una fecha de entrada mayor que la fecha de "
+"salida."
+
+#: includes/base/admin/form/functions.php:70
+msgid "or"
+msgstr "o"
+
+#: includes/base/admin/form/functions.php:68
+#, php-format
+msgid "Please select exactly %s days."
+msgstr "Seleccione exactamente %s días."
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:67
+msgid "Price Override"
+msgstr "Sobrescribir precio"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:72
+msgid "Recurring"
+msgstr "Periódico"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:53
+msgid "Remove"
+msgstr "Eliminar"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:51
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:52
+msgid "Restriction Rule - Custom Period"
+msgstr "Regla de restricción: período personalizado"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:52
+msgid "Restriction Rule - General"
+msgstr "Regla de restricción - General"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:143
+msgid ""
+"Set a fixed number of days for bookings. You can enter multiple days "
+"separated by a comma. Eg \"7,14,21\"."
+msgstr ""
+"Establezca un número fijo de días para las reservas. Puede ingresar varios "
+"días separados por una coma. Por ejemplo, \"7,14,21\"."
+
+#. Description of the plugin
+msgid ""
+"Set advanced booking restrictions like minimum or maximum days, enforce a "
+"day of the week, and more."
+msgstr ""
+"Establezca restricciones de reserva avanzadas como días mínimos o máximos, "
+"aplique un día de la semana y más."
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:83
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:104
+msgid ""
+"Set restriction rules for a custom date range. This will override the "
+"\"General\" restriction rules."
+msgstr ""
+"Establezca reglas de restricción para un rango de fechas personalizado. Esto "
+"anulará las reglas de restricción \"generales\"."
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:127
+msgid ""
+"Set the minimum or maximum number of days for a booking. If you are using "
+"the \"Split\" selection type, the number of nights will be counted instead."
+msgstr ""
+"Establezca el número mínimo o máximo de días para una reserva. Si utiliza el "
+"tipo de selección \"Dividir\", se contará el número de noches."
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:153
+msgid ""
+"Set the minimum stay for a specific day of the week. The value cannot be "
+"lower or higher than the \"Stay length\" values."
+msgstr ""
+"Establezca la estancia mínima para un día específico de la semana. El valor "
+"no puede ser menor o mayor que los valores de \"Duración de estancia\"."
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-fixed-intervals.php:55
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:87
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:108
+msgid "Start date"
+msgstr "Fecha de entrada"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:175
+msgid "Start day"
+msgstr "Día de entrada"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:126
+msgid "Stay length"
+msgstr "Duración de la estancia"
+
+#: includes/base/admin/form/functions.php:90
+#: includes/base/admin/form/functions.php:100
+#: includes/base/admin/form/functions.php:105
+#: includes/base/admin/form/functions.php:110
+#, php-format
+msgid ""
+"The \"%s\" will be replaced by the number of days set in the Booking "
+"Restriction tab."
+msgstr ""
+"El \"%s\" será reemplazado por el número de días establecido en la pestaña "
+"Restricción de reserva."
+
+#: includes/base/admin/form/functions.php:115
+#, php-format
+msgid "The \"%s\" will be replaced with the interval Start and End dates."
+msgstr ""
+"El \"%s\" se reemplazará con el intervalo de fechas de entrada y salida."
+
+#: includes/base/admin/form/functions.php:66
+#, php-format
+msgid "The booking must start at least %s days from today."
+msgstr "La reserva debe comenzar al menos %s días a partir de hoy."
+
+#: includes/base/admin/form/functions.php:67
+#, php-format
+msgid "The booking must start no later than %s days from today."
+msgstr "La reserva debe comenzar a más tardar %s días a partir de hoy."
+
+#: includes/base/admin/form/functions.php:187
+msgid ""
+"The minimum advance reservation stay cannot be greater than the maximum "
+"advance reservation stay."
+msgstr ""
+"La estancia mínima por reserva anticipada no puede ser mayor que la estancia "
+"máxima por reservación anticipada."
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:228
+msgid ""
+"The minimum and maximum advance reservation restrictions refer to the "
+"minimum or maximum periods for how far in advance guests can book."
+msgstr ""
+"Las restricciones de reserva anticipada mínima y máxima se refieren a los "
+"períodos mínimos o máximos de con qué anticipación los huéspedes pueden "
+"reservar."
+
+#: includes/base/admin/form/functions.php:175
+msgid "The minimum stay cannot be greater than the maximum stay."
+msgstr "La estancia mínima no puede ser mayor que la estancia máxima."
+
+#: includes/base/admin/form/functions.php:181
+msgid "The minimum stay per day cannot be lower than the general minimum stay."
+msgstr ""
+"La estancia mínima por día no puede ser inferior a la estancia mínima "
+"general."
+
+#: includes/base/admin/form/functions.php:168
+msgid "The start date for a Fixed Date rule is higher than the end date."
+msgstr ""
+"La fecha de entrada de una regla de fecha fija es superior a la fecha de "
+"salida."
+
+#: includes/base/admin/form/functions.php:69
+#, php-format
+msgid "The turnaround period must be %s days."
+msgstr "El período de respuesta debe ser de %s días."
+
+#: includes/base/admin/form/functions.php:109
+msgid "Turnaround Time"
+msgstr "Tiempo de respuesta"
+
+#: includes/base/admin/form/views/view-edit-form-tab-booking-restriction-rules.php:245
+msgid "Turnaround time"
+msgstr "Tiempo de respuesta"
+
+#: includes/base/admin/form/functions.php:95
+msgid ""
+"Used for joining weekdays when there are multiple Starting or Ending days. "
+"Eg. \"Monday *or* Sunday\""
+msgstr ""
+"Se utiliza para unir los días de la semana cuando hay varios días de entrada "
+"o salida. P.ej. \"Lunes *or* Domingo\""
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr ""
+
+#: includes/base/admin/form/functions.php:94
+msgid "Weekday Separator"
+msgstr "Separador de días laborables"
+
+#. Name of the plugin
+msgid "WP Booking System - Advanced Booking Restrictions Add-on"
+msgstr ""

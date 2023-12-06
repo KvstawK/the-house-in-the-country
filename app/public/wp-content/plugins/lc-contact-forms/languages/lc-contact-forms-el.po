@@ -1,0 +1,213 @@
+# Copyright (C) 2023 Rental Collective
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RC Contact Forms 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lc-contact-"
+"forms\n"
+"POT-Creation-Date: 2023-05-31T11:53:14+00:00\n"
+"PO-Revision-Date: 2023-05-31 14:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: lc-contact-forms\n"
+
+#. Plugin Name of the plugin
+msgid "RC Contact Forms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.example.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "A contact forms plugin for WordPress, created by Lodgings Collective"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rental Collective"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rentalscollective.com/"
+msgstr ""
+
+#: views/lc-contact-form-shortcode.php:17
+msgid ""
+"You have exceeded the maximum number of submissions. Please try again later!"
+msgstr ""
+"Έχετε υπερβεί το μέγιστο επιτρεπόμενο αριθμό υποβολών. Παρακαλούμε "
+"προσπαθήστε ξανά αργότερα!"
+
+#: views/lc-contact-form-shortcode.php:24
+msgid "Please enter your name"
+msgstr "Παρακαλώ εισάγετε το όνομά σας"
+
+#: views/lc-contact-form-shortcode.php:24
+msgid "Your Name"
+msgstr "Το Όνομά Σας"
+
+#: views/lc-contact-form-shortcode.php:27
+#: views/lc-list-property-form-shortcode.php:44
+msgid "Please enter your email"
+msgstr "Παρακαλώ εισάγετε το email σας"
+
+#: views/lc-contact-form-shortcode.php:27
+msgid "Your Email"
+msgstr "Το Email Σας"
+
+#: views/lc-contact-form-shortcode.php:30
+msgid "Please enter your subject"
+msgstr "Παρακαλώ εισάγετε το θέμα σας"
+
+#: views/lc-contact-form-shortcode.php:30
+msgid "Subject"
+msgstr "Θέμα"
+
+#: views/lc-contact-form-shortcode.php:33
+msgid "Please enter your message"
+msgstr "Παρακαλώ εισάγετε το μήνυμά σας"
+
+#: views/lc-contact-form-shortcode.php:33
+#: views/lc-list-property-form-shortcode.php:62
+msgid "Your Message"
+msgstr "Το Μήνυμά Σας"
+
+#: views/lc-contact-form-shortcode.php:35
+#: views/lc-list-property-form-shortcode.php:66
+msgid "Send"
+msgstr "Αποστολή"
+
+#: views/lc-contact-form-shortcode.php:106
+msgid "Thanks for contacting me, expect a response soon!"
+msgstr ""
+"Ευχαριστώ που επικοινωνήσατε μαζί μου, περιμένετε την απάντηση μου σύντομα!"
+
+#: views/lc-list-property-form-shortcode.php:11
+msgid "Thanks for contacting us. We will get back to you soon!"
+msgstr "Ευχαριστούμε που επικοινωνήσατε μαζί μας. Θα σας απαντήσουμε σύντομα!"
+
+#: views/lc-list-property-form-shortcode.php:23
+msgid "Choose Your Package:"
+msgstr "Επιλέξτε Το Πακέτο Σας:"
+
+#: views/lc-list-property-form-shortcode.php:26
+msgid "Online Marketplaces Management Package, 5%"
+msgstr "Πακέτο Διαχείριση Σε Διαδικτυακές Αγορές Τουριστικών Καταλυμάτων, 5%"
+
+#: views/lc-list-property-form-shortcode.php:26
+msgid "Online Marketplaces Management Package, 5"
+msgstr "Πακέτο Διαχείριση Σε Διαδικτυακές Αγορές Τουριστικών Καταλυμάτων, 5"
+
+#: views/lc-list-property-form-shortcode.php:27
+msgid "Posting Your Rental In Our Platform Package, 10%"
+msgstr "Πακέτο Προβολή Του Ακινήτου Σας Στην Πλατφόρμα Μας, 10%"
+
+#: views/lc-list-property-form-shortcode.php:27
+msgid "Posting Your Rental In Our Platform Package, 10"
+msgstr "Πακέτο Προβολή Του Ακινήτου Σας Στην Πλατφόρμα Μας, 10"
+
+#: views/lc-list-property-form-shortcode.php:28
+msgid "Vacation Rental Website Creation & SEO Promotion Package, 10%"
+msgstr "Πακέτο Δημιουργία Ιστοσελίδας & SEO Προώθησης Της, 10%"
+
+#: views/lc-list-property-form-shortcode.php:28
+msgid "Vacation Rental Website Creation & SEO Promotion Package, 10"
+msgstr "Πακέτο Δημιουργία Ιστοσελίδας & SEO Προώθησης Της, 10"
+
+#: views/lc-list-property-form-shortcode.php:29
+msgid "Full Vacation Rental Online Solution Package, 10%"
+msgstr ""
+"Πακέτο Πλήρης Διαδικτυακή Λύση Διαχειρίσεως & Μάρκετινγκ Τουριστικών "
+"Ακινήτων, 10%"
+
+#: views/lc-list-property-form-shortcode.php:29
+msgid "Full Vacation Rental Online Solution Package, 10"
+msgstr ""
+"Πακέτο Πλήρης Διαδικτυακή Λύση Διαχειρίσεως & Μάρκετινγκ Τουριστικών "
+"Ακινήτων, 10"
+
+#: views/lc-list-property-form-shortcode.php:36
+msgid "Please enter your property's title"
+msgstr "Παρακαλώ εισάγετε τον τίτλο του ακινήτου σας"
+
+#: views/lc-list-property-form-shortcode.php:38
+msgid "ex: Villa Lovely"
+msgstr "π.χ. Villa Lovely"
+
+#: views/lc-list-property-form-shortcode.php:46
+msgid "Email"
+msgstr "Email"
+
+#: views/lc-list-property-form-shortcode.php:52
+msgid "Please enter the URLs of your vacation rental (one per line)"
+msgstr ""
+"Παρακαλώ εισάγετε τις διευθύνσεις URL του ακινήτου σας (μία ανά γραμμή)"
+
+#: views/lc-list-property-form-shortcode.php:54
+msgid ""
+"ex:\n"
+"https://www.airbnb.com/your-apartment-name.com,\n"
+"https://www.booking.com/your-villa-name.com,\n"
+"https://www.your-website.com"
+msgstr ""
+"π.χ.:\n"
+"https://www.airbnb.com/your-apartment-name.com,\n"
+"https://www.booking.com/your-villa-name.com,\n"
+"https://www.your-website.com"
+
+#: views/lc-list-property-form-shortcode.php:60
+msgid "Please enter a message for us (optional)"
+msgstr "Παρακαλώ εισάγετε ένα μήνυμα για μας (προαιρετικό)"
+
+#: views/lc-list-property-form-shortcode.php:85
+msgid ""
+"You have exceeded the maximum number of submissions. Please try again later."
+msgstr ""
+"Έχετε υπερβεί το μέγιστο επιτρεπόμενο αριθμό υποβολών. Παρακαλούμε "
+"προσπαθήστε ξανά αργότερα."
+
+#: views/lc-list-property-form-shortcode.php:90
+msgid "Invalid nonce"
+msgstr "Άκυρο nonce"
+
+#: views/lc-list-property-form-shortcode.php:102
+msgid "Please fill in all the required fields."
+msgstr "Παρακαλώ συμπληρώστε όλα τα απαιτούμενα πεδία."
+
+#: views/lc-list-property-form-shortcode.php:109
+msgid "Vacation Rental Submitted"
+msgstr "Το Τουριστικό Ακίνητο Υποβλήθηκε"
+
+#: views/lc-list-property-form-shortcode.php:118
+msgid "Promotion Package:"
+msgstr "Πακέτο Προώθησης:"
+
+#: views/lc-list-property-form-shortcode.php:121
+msgid "URLs:"
+msgstr ""
+
+#: views/lc-list-property-form-shortcode.php:131
+msgid "An unexpected error occurred"
+msgstr "Παρουσιάστηκε ένα μη αναμενόμενο σφάλμα"
+
+#~ msgid "Invalid email address."
+#~ msgstr "Μη έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου(email)."
+
+#, fuzzy
+#~| msgid "Online Marketplaces Management Package, 5%"
+#~ msgid "Online Marketplaces Management Package"
+#~ msgstr ""
+#~ "Πακέτο Διαχείριση Σε Διαδικτυακές Αγορές Τουριστικών Καταλυμάτων, 5%"
+
+#~ msgid ""
+#~ "Vacation Rental Website Creation & SEO Promotion + Online Marketplaces "
+#~ "Management Package, 10% & 5%"
+#~ msgstr ""
+#~ "Πακέτα Δημιουργία Ιστοσελίδας & SEO Προώθησης Της + Διαχείριση σε "
+#~ "διαδικτυακές αγορές τουριστικών καταλυμάτων, 10% & 5%"

@@ -1,0 +1,31 @@
+.wpbs-reporting-date-interval {float: right; margin-top: 12px;}
+.wpbs-reporting-date-interval span {position: relative; top:2px; right: 2px;}
+
+.wpbs-reporting-container {padding-top: 25px;}
+
+.wpbs-reporting-row {position: relative; padding-right: 305px; margin: 50px 0 0 0;}
+.wpbs-reporting-row:first-child {margin-top: 0;}
+
+.wpbs-reporting-row h2 {padding: 0; margin: 0; font-size: 22px; line-height: 30px;}
+.wpbs-reporting-row h3 {padding: 2px 0 5px 0; margin: 0; font-size: 50px; line-height: 50px; color: #0073aa;}
+.wpbs-reporting-row small {display: block; font-size: 16px;}
+
+.wpbs-reporting-row .wpbs-reporting-chart {background-color: #fff; border: 1px solid #dddddd; text-align: center; padding: 20px;}
+.wpbs-reporting-row .wpbs-reporting-chart-wrap {height: 504px; margin-top: 15px;}
+
+.wpbs-reporting-row .wpbs-reporting-chart-stats {position: absolute; right: 0; top: 0; width: 280px; }
+.wpbs-reporting-row .wpbs-reporting-chart-stat {background-color: #fff; border: 1px solid #dddddd; text-align: center; padding: 20px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; margin-top: 25px;}
+.wpbs-reporting-row .wpbs-reporting-chart-stat:first-child {margin-top: 0;}
+
+
+@media screen and (max-width: 1024px){
+    .wpbs-reporting-row {padding-right:255px}
+    .wpbs-reporting-row .wpbs-reporting-chart-stats {width:230px;}
+}
+
+@media screen and (max-width: 767px){
+    .wpbs-reporting-row {padding-right:0}
+    .wpbs-reporting-row .wpbs-reporting-chart {margin-bottom: 10px; padding: 10px;}
+    .wpbs-reporting-row .wpbs-reporting-chart-stats {position:static; width:100%;}
+    .wpbs-reporting-row .wpbs-reporting-chart-stat {margin-top: 0; margin-bottom: 10px;}
+}

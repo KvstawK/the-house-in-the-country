@@ -1,0 +1,26 @@
+#invoice_due_date,
+#invoice_vat,
+#invoice_number_offset {
+    max-width: 100px;
+}
+
+.wpbs-form-section-invoice .wpbs-email-tag--all-fields,
+.wpbs-form-section-invoice .wpbs-email-tag--start-date,
+.wpbs-form-section-invoice .wpbs-email-tag--end-date,
+.wpbs-form-section-invoice .wpbs-email-tag--booking-id,
+.wpbs-form-section-invoice .wpbs-email-tag--calendar-title,
+.wpbs-form-section-invoice .wpbs-email-tag--order-details,
+.wpbs-form-section-invoice .wpbs-email-tag--bank-transfer-instructions,
+.wpbs-form-section-invoice .wpbs-email-tag--final-payment-link {
+    display: none !important;
+}
+
+.wpbs-booking-details-modal-footer-actions-invoice a span {
+    position: relative;
+    top: 4px;
+    margin-right: 4px;
+}
+
+#wpbs-update-invoice-details {margin-bottom: 15px;}
+
+.wpbs-settings-field-wrapper.wpbs-settings-field-inline.wpbs-settings-field-invoice-attachment-payment-reminder .wpbs-settings-field-label {width:183px;}

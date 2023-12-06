@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Email Reminders Add-on\n"
+"POT-Creation-Date: 2021-01-30 01:07+0100\n"
+"PO-Revision-Date: 2021-02-02 02:31+0100\n"
+"Last-Translator: Tobias D. <info@td-projects.de>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:22
+msgid ""
+"You must add an Email field to the form in order to configure email "
+"reminders."
+msgstr ""
+"Du musst dem Formular ein E-Mail-Feld hinzufügen, um E-Mail-Erinnerungen zu "
+"konfigurieren."
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:29
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:29
+msgid ""
+"It appears you made changes to the form. Make sure you save the form before "
+"you make any changes on this page to ensure all email tags are up to date."
+msgstr ""
+"Es scheint, dass du Änderungen am Formular vorgenommen hast. Achte darauf, "
+"dass du das Formular speicherst, bevor du Änderungen auf dieser Seite "
+"vornimmst, um sicherzustellen, dass alle E-Mail-Tags auf dem neuesten Stand "
+"sind."
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:33
+#: includes/base/admin/functions-reminder-email.php:19
+msgid "Email Reminder Notification"
+msgstr "E-Mail-Benachrichtigung zur Erinnerung"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:40
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:40
+msgid "Enable Notification"
+msgstr "Aktiviere Benachrichtigungen"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:41
+msgid "Send a reminder email to the person who made the booking."
+msgstr ""
+"Sende eine Erinnerungsmail an die Person, die die Buchung vorgenommen hat."
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:56
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:56
+msgid "Email Tags"
+msgstr "E-Mail Tags"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:57
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:57
+msgid ""
+"You can use these dynamic tags in any of the fields. They will be replaced "
+"with the values submitted in the form."
+msgstr ""
+"Du kannst diese dynamischen Tags in jedem der Felder verwenden. Sie werden "
+"durch die im Formular eingegebenen Werte ersetzt."
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:64
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:64
+msgid "When to send"
+msgstr "Wann senden"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:68
+msgid "days before the booking starts"
+msgstr "Tage vor Buchungsbeginn"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:75
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:75
+msgid "Send To"
+msgstr "Senden an"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:84
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:84
+msgid "Options"
+msgstr "Optionen"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:91
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:91
+msgid "CC"
+msgstr "CC"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:99
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:99
+msgid "BCC"
+msgstr "BCC"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:109
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:109
+msgid "From Name"
+msgstr "Absender-Name"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:118
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:118
+msgid "From Email"
+msgstr "Von E-Mail"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:127
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:127
+msgid "Reply To"
+msgstr "Antwort an"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:138
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:138
+msgid "Subject"
+msgstr "Betreff"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:142
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:171
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:142
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:171
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#: includes/base/admin/form/views/view-edit-form-tab-email-reminder.php:167
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:167
+msgid "Message"
+msgstr "Nachricht"
+
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:22
+msgid ""
+"You must add an Email field to the form in order to configure follow up "
+"emails."
+msgstr ""
+"Du musst dem Formular ein E-Mail-Feld hinzufügen, um Folge-E-Mails zu "
+"konfigurieren."
+
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:33
+msgid "Follow Up Emails"
+msgstr "Folge-E-Mails"
+
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:41
+msgid "Send a follow up email to the person who made the booking."
+msgstr ""
+"Sende eine Folge-E-Mail an die Person, die die Buchung vorgenommen hat."
+
+#: includes/base/admin/form/views/view-edit-form-tab-follow-up-email.php:68
+msgid "days after the booking ends"
+msgstr "Tage nach Ende der Buchung"
+
+#: includes/base/admin/functions-follow-up-email.php:19
+msgid "Follow Up Email"
+msgstr "Folge-E-Mail"
+
+#: index.php:125
+msgid ""
+"The <strong>Email Reminders</strong> Add-on requires WP Booking System "
+"version "
+msgstr ""
+"Das <strong>Email Reminders</strong> Add-on benötigt WP Booking System "
+"Version "
+
+#. Plugin Name of the plugin/theme
+msgid "WP Booking System - Email Reminders Add-on"
+msgstr "WP Booking System - Email Reminders Add-on"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.wpbookingsystem.com/"
+msgstr "https://www.wpbookingsystem.com/"
+
+#. Description of the plugin/theme
+msgid "Automatically email your customers to remind them about their bookings."
+msgstr ""
+"Sende deinen Kunden automatisch E-Mails, um sie an ihre Buchungen zu "
+"erinnern."
+
+#. Author of the plugin/theme
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"

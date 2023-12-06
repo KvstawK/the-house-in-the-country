@@ -1,0 +1,107 @@
+.carousel {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.carousel__container {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.carousel__container-sliders {
+  height: 100vh;
+  width: 100%;
+  transition: 0.9s ease-out;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.carousel__container-sliders-slide {
+  height: 100vh;
+  min-height: 650px;
+  width: 100%;
+  position: absolute;
+  padding: 0;
+  margin: 0;
+}
+.carousel__container-sliders-slide-image img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 100vh;
+  min-height: 650px;
+  filter: brightness(0.6);
+}
+.carousel__container-sliders-slide-content {
+  width: 85%;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+@media screen and (min-width: 1240px) {
+  .carousel__container-sliders-slide-content {
+    width: 50%;
+  }
+}
+.carousel__container-sliders-slide-content button {
+  margin-top: 1.5rem;
+}
+.carousel__container-sliders-slide-content button a {
+  color: black !important;
+}
+.carousel__container-sliders-slide-content button:focus {
+  outline: 2px solid black;
+}
+.carousel__btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  z-index: 10;
+}
+.carousel__btn-left {
+  left: 10%;
+}
+.carousel__btn-right {
+  right: 10%;
+}
+.carousel__btn:focus {
+  outline: 2px solid black;
+}
+.carousel__nav {
+  z-index: 5;
+  width: 15px;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  transform: translateY(-50%);
+}
+.carousel__nav-dot {
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  border: 1px solid white;
+  border-radius: 50%;
+  background-color: transparent;
+  margin: 0.5rem 0;
+}
+.carousel__nav-dot.active {
+  background-color: orange;
+}
+
+.hide {
+  display: none;
+}
+
+.hide--not-using {
+  display: none;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Invoices\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-27 20:06+0000\n"
+"PO-Revision-Date: 2021-01-06 13:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.7-alpha-49938\n"
+"X-Domain: wp-booking-system-invoices"
+
+#: index.php:125
+msgid "\">update</a> to the latest version."
+msgstr ""
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:62
+#, php-format
+msgid "%s Email"
+msgstr "%s e-Mail"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:153
+msgid "Accent Color"
+msgstr "Couleur D'Accent"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:258
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:90
+msgid ""
+"Add some text to the bottom of the invoice, like payment instructions or a "
+"thank you message."
+msgstr ""
+"Ajoutez du texte au bas de la facture, comme les instructions de paiement ou "
+"un message de remerciement."
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:80
+msgid ""
+"Allows you to specify custom Seller Details and Footer Notes for bookings "
+"that are made with this form. If the fields are empty, the default values "
+"from the Invoice Settings page will be used."
+msgstr ""
+"Vous permet de spécifier personnalisé Vendeur de Détails et de Pied de page "
+"de Notes pour les réservations faites à ce formulaire. Si les champs sont "
+"vides, les valeurs par défaut à partir de la Facture de la page des "
+"Paramètres seront utilisés."
+
+#: includes/base/admin/booking/functions.php:107
+#: includes/base/admin/booking/functions.php:133
+msgid "Attach Invoice to Email"
+msgstr "Joindre la Facture à l'Email"
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:54
+msgid "Attach Invoice to Emails"
+msgstr "Joindre la Facture aux e-Mails"
+
+#: includes/base/admin/settings/functions.php:42
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:21
+msgid "Booking Details"
+msgstr "Les Détails De La Réservation"
+
+#: includes/base/admin/settings/functions.php:40
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:15
+msgid "Buyer"
+msgstr "L'acheteur"
+
+#: includes/base/admin/booking/views/view-modal-invoice.php:8
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:243
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:43
+msgid "Buyer Details"
+msgstr "L'Acheteur De Détails"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:247
+msgid ""
+"Buyer details are configured from the Invoice tab when editing a Form, as "
+"these values need to be directly linked to the form."
+msgstr ""
+"L'acheteur détails sont configurés à partir de l'onglet Facture lors de "
+"l'édition d'un Formulaire, que ces valeurs doivent être directement liées à "
+"la forme."
+
+#: includes/base/admin/settings/functions.php:43
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:24
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:265
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:279
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:97
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:111
+msgid "Content"
+msgstr "Contenu"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:193
+msgid "days"
+msgstr "jours"
+
+#: includes/base/admin/settings/functions.php:47
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:36
+msgid "Description"
+msgstr "Description"
+
+#: includes/base/admin/settings/functions.php:41
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:18
+msgid "Details"
+msgstr "Détails"
+
+#: includes/base/admin/booking/views/view-modal-invoice.php:16
+msgid "Details Updated"
+msgstr "Détails Mis À Jour"
+
+#: includes/base/admin/booking/functions.php:62
+#: includes/base/admin/booking/views/view-modal-invoice.php:21
+#: includes/base/admin/booking/views/view-modal-invoice.php:21
+msgid "Download Invoice"
+msgstr "Télécharger La Facture"
+
+#: includes/base/admin/settings/functions.php:46
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:33
+msgid "Due Date"
+msgstr "Date D'Échéance"
+
+#: includes/base/admin/booking/views/view-modal-invoice.php:4
+msgid "Edit Invoice Details"
+msgstr "Modifier Les Détails De La Facture"
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:29
+msgid "Email Tags"
+msgstr "Email Tags"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:257
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:89
+msgid "Footer Notes"
+msgstr "Notes De Pied De Page"
+
+#. Description of the plugin
+msgid ""
+"Generate professional looking invoices and email them to your customers."
+msgstr ""
+"Générer des professionnels à la recherche des factures et les envoyer par "
+"courriel à vos clients."
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:263
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:277
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:95
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:109
+msgid "Heading"
+msgstr "Rubrique"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr ""
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:68
+msgid "Image"
+msgstr "Image"
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:63
+#, php-format
+msgid ""
+"Include the invoice as an attachment to the %s Notification email when a "
+"booking is made."
+msgstr ""
+"La facture en pièce jointe, à la s %e-mail de Notification lorsqu'une "
+"réservation est faite."
+
+#: includes/base/admin/booking/functions.php:24
+#: includes/base/admin/booking/functions.php:61
+#: includes/base/admin/settings/functions.php:38
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:9
+msgid "Invoice"
+msgstr "Facture"
+
+#: includes/base/admin/settings/functions.php:45
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:30
+msgid "Invoice Date"
+msgstr "Date De La Facture"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:188
+msgid "Invoice Due Date"
+msgstr "Date D'Échéance Du Paiement"
+
+#: includes/base/admin/settings/functions.php:44
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:27
+msgid "Invoice Number"
+msgstr "Le Numéro De La Facture"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:176
+msgid "Invoice Number Offset"
+msgstr "Le Numéro De La Facture De Décalage"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:164
+msgid "Invoice Series"
+msgstr "La Facture De La Série"
+
+#: includes/base/admin/form/functions.php:19
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:59
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:36
+msgid "Invoice Settings"
+msgstr "Paramètres Des Factures"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:318
+msgid "Invoice Strings"
+msgstr "La Facture Des Chaînes"
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:24
+msgid ""
+"It appears you made changes to the form. Make sure you save the form before "
+"you make any changes on this page to ensure all email tags are up to date."
+msgstr ""
+"Il semble que vous a apporté des modifications à la forme. Assurez-vous que "
+"vous enregistrez le formulaire avant de faire des modifications sur cette "
+"page afin de vous assurer tous les e-mails, les balises sont à jour."
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:78
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:97
+msgid "Logo - Heading"
+msgstr "Logo - Titre"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:125
+msgid "Logo - Subheading"
+msgstr "Logo De La Sous - Position"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:63
+msgid "Logo Type"
+msgstr "Logo Type"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:165
+msgid ""
+"Optional. A string that will be prepended to the invoice number. For example "
+"if you add the series \"INV\", the invoice number will be displayed as "
+"INV1234"
+msgstr ""
+"Facultatif. Une chaîne de caractères qui sera précédé du numéro de facture. "
+"Par exemple, si vous ajoutez la série \"INV\", le numéro de la facture sera "
+"affiché comme INV1234"
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:79
+msgid "Overwrite Default Settings"
+msgstr "Remplacer Les Paramètres Par Défaut"
+
+#: includes/base/admin/booking/views/view-modal-invoice.php:16
+msgid "Please wait..."
+msgstr "Merci de patienter..."
+
+#: includes/base/admin/settings/functions.php:48
+msgid "Qty"
+msgstr "Qté"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:39
+msgid "Quantity"
+msgstr "Quantité"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:86
+msgid "remove image"
+msgstr "supprimer l'image"
+
+#: includes/base/admin/settings/functions.php:39
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:12
+msgid "Seller"
+msgstr "Le vendeur"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:216
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:123
+msgid "Seller Details"
+msgstr "Vendeur De Détails"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:306
+msgid "Show each booked day separately on the invoice."
+msgstr "Montrer chaque jour réservé séparément sur la facture."
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:291
+msgid ""
+"Show the booking details (booking ID, starting date...) at the bottom of the "
+"invoice"
+msgstr ""
+"Afficher les détails de la réservation (numéro de réservation, la date de "
+"début...) au bas de la facture"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:201
+msgid ""
+"Show the VAT on the invoice. VAT will be calcualted as a percentage from the "
+"existing prices. Leave 0 to disable VAT."
+msgstr ""
+"Afficher la TVA sur la facture. La TVA sera calcualted comme un pourcentage "
+"du prix de vente. Le congé de 0 pour désactiver la TVA."
+
+#: includes/base/admin/settings/functions.php:51
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:48
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:69
+msgid "Text"
+msgstr "Texte"
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:44
+msgid ""
+"The details that will appear on the invoice under the \"Buyer Details\" "
+"section. You can add text or Email Tags which will be replaced with the form "
+"field values."
+msgstr ""
+"Les détails qui apparaissent sur la facture \"\"l'Acheteur \"Détails\" de la "
+"section. Vous pouvez ajouter du texte ou Email Tags qui seront remplacées "
+"par les valeurs de champ de formulaire."
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:189
+msgid ""
+"The due date, in number of days. Leave 0 if you do not want to display the "
+"due date on the invoice."
+msgstr ""
+"La date d'échéance, en nombre de jours. Laissez 0 si vous ne souhaitez pas "
+"afficher la date d'échéance indiquée sur la facture."
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:177
+msgid ""
+"The invoice number will be the same as the Booking ID, which starts from 1. "
+"You can add an offset to this number, eg. if you want the first invoice "
+"number to be 101, add an offset of 100."
+msgstr ""
+"Le numéro de la facture sera la même que le numéro de Réservation, qui "
+"commence à partir de 1. Vous pouvez ajouter un offset à ce nombre, par "
+"exemple. si vous souhaitez que le premier numéro de la facture à 101, "
+"ajouter un décalage de 100."
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:98
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:126
+msgid "The payment method name that appears on the booking form."
+msgstr ""
+"La méthode de paiement nom qui apparaît sur le formulaire de réservation."
+
+#: includes/base/admin/settings/functions.php:52
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:51
+msgid "Total"
+msgstr "Total"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:103
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:131
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:222
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:266
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:332
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:98
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:129
+msgid "Translations"
+msgstr "Traductions"
+
+#: includes/base/admin/settings/functions.php:49
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:42
+msgid "Unit Price"
+msgstr "Prix À L'Unité"
+
+#: includes/base/admin/booking/views/view-modal-invoice.php:16
+msgid "Update Invoice Details"
+msgstr "Mettre À Jour Les Détails De La Facture"
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:85
+msgid "Upload Image"
+msgstr "Télécharger L'Image"
+
+#: includes/base/admin/settings/functions.php:50
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:45
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:200
+msgid "VAT"
+msgstr "La TVA"
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"
+
+#: includes/base/admin/booking/functions.php:62
+#: includes/base/admin/booking/views/view-modal-invoice.php:20
+#: includes/base/admin/booking/views/view-modal-invoice.php:20
+msgid "View Invoice"
+msgstr "Afficher La Facture"
+
+#. Name of the plugin
+msgid "WP Booking System - Invoices"
+msgstr "WP Système de Réservation les Factures"
+
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:30
+msgid ""
+"You can use these dynamic tags in the Buyer Details field. They will be "
+"replaced with the values submitted in the form."
+msgstr ""
+"Vous pouvez utiliser ces tags dynamiques dans les Détails d'Acheteur champ. "
+"Ils seront remplacés par les valeurs présentées dans le formulaire."
+
+#: includes/base/admin/settings/views/view-payment-settings-invoice.php:217
+#: includes/base/admin/form/views/view-edit-form-tab-invoice.php:124
+msgid "Your name, email address, company details, company address..."
+msgstr ""
+"Votre nom, adresse électronique, coordonnées de l'entreprise, adresse de "
+"l'entreprise..."

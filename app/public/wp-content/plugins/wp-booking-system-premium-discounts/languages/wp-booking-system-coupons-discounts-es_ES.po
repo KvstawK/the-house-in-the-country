@@ -1,0 +1,627 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Coupons & Discounts Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-11 23:01+0000\n"
+"PO-Revision-Date: 2021-11-22 22:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: wp-booking-system-coupons-discounts"
+
+#: index.php:148
+msgid "\">update</a> to the latest version."
+msgstr "\"> actualizar </a> a la última versión."
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:130
+#: includes/base/admin/coupons/class-list-table-coupons.php:132
+msgid "Active"
+msgstr "Activo"
+
+#: includes/base/admin/coupons/views/view-add-coupon.php:38
+msgid "Add Coupon"
+msgstr "Agregar cupón"
+
+#: includes/base/admin/discounts/views/view-add-discount.php:38
+msgid "Add Discount"
+msgstr "Agregar descuento"
+
+#: includes/base/admin/coupons/views/view-coupons.php:12
+#: includes/base/admin/coupons/views/view-add-coupon.php:21
+msgid "Add New Coupon"
+msgstr "Agregar nuevo cupón"
+
+#: includes/base/admin/discounts/views/view-discounts.php:12
+#: includes/base/admin/discounts/views/view-add-discount.php:21
+msgid "Add New Discount"
+msgstr "Agregar nuevo descuento"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:147
+msgid "add rule group"
+msgstr "agregar grupo de reglas"
+
+#: includes/base/admin/discounts/functions.php:141
+msgid "and"
+msgstr "y"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:191
+msgid "Applicable Weekdays"
+msgstr "Días laborables aplicables"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:177
+msgid "Application"
+msgstr "Solicitud"
+
+#: includes/base/coupons/functions-coupons.php:276
+#: includes/base/coupons/functions-coupons.php:298
+msgid "Apply Code"
+msgstr "Aplica el código"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:144
+msgid "Apply Coupon to"
+msgstr "Aplicar cupón a"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:162
+msgid "Apply Discount to"
+msgstr "Aplicar descuento a"
+
+#: includes/base/admin/coupons/class-list-table-coupons.php:232
+msgid "Are you sure you want to delete this coupon?"
+msgstr "¿Estás seguro de que deseas eliminar este cupón?"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:229
+msgid "Are you sure you want to delete this discount?"
+msgstr "¿Estás seguro de que deseas eliminar este descuento?"
+
+#: includes/base/admin/coupons/class-list-table-coupons.php:221
+msgid "Are you sure you want to send this coupon to the trash?"
+msgstr "¿Está seguro de que desea enviar este cupón a la papelera?"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:218
+msgid "Are you sure you want to send this discount to the trash?"
+msgstr "¿Estás seguro de que deseas enviar este descuento a la papelera?"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:40
+msgid "Back to all Coupons"
+msgstr "Volver a todos los cupones"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:38
+msgid "Back to all discounts"
+msgstr "Volver a todos los descuentos"
+
+#: includes/base/admin/discounts/functions.php:87
+msgid "Booking weekday"
+msgstr "Reserva entre semana"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:168
+#: includes/base/admin/coupons/views/view-edit-coupon.php:150
+msgid "Calendar and Form Prices"
+msgstr "Precios de calendario y formulario"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:169
+#: includes/base/admin/coupons/views/view-edit-coupon.php:151
+msgid "Calendar Price Only"
+msgstr "Precio del calendario solamente"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:207
+#: includes/base/admin/coupons/views/view-edit-coupon.php:159
+msgid "Calendars"
+msgstr "Calendarios"
+
+#: includes/base/admin/discounts/views/view-add-discount.php:37
+#: includes/base/admin/coupons/views/view-add-coupon.php:37
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:237
+msgid ""
+"Choose to apply the discount only if the start date is contained in the "
+"Validity Period, or the entire date selection is contained in the Validity "
+"Period."
+msgstr ""
+"Elija aplicar el descuento solo si la fecha de inicio está incluida en el "
+"Período de validez, o si la selección de fecha completa está incluida en el "
+"Período de validez."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:193
+msgid ""
+"Chose whether to show the discount in the pricing table, or hide the "
+"discount while subtracting the discount value from the Calendar Price (the "
+"price per day or per night)."
+msgstr ""
+"Elija si desea mostrar el descuento en la tabla de precios u ocultar el "
+"descuento mientras resta el valor del descuento del Precio del calendario "
+"(el precio por día o por noche)."
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:76
+msgid "Coupon Code"
+msgstr "Código promocional"
+
+#: includes/base/coupons/functions-coupons.php:295
+msgid "Coupon Codes"
+msgstr "Códigos de cupón"
+
+#: includes/base/admin/coupons/class-submenu-page-coupons.php:30
+msgid "Coupon created successfully."
+msgstr "Cupón creado con éxito."
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:87
+msgid "Coupon Description"
+msgstr "Descripción del cupón"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:114
+msgid "Coupon Discount Type"
+msgstr "Tipo de cupón de descuento"
+
+#: includes/base/admin/coupons/class-submenu-page-coupons.php:39
+msgid "Coupon has been successfully deleted."
+msgstr "El cupón se ha eliminado correctamente."
+
+#: includes/base/admin/coupons/class-submenu-page-coupons.php:36
+msgid "Coupon has been successfully restored."
+msgstr "El cupón se ha restaurado correctamente."
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:34
+#, php-format
+msgid "Coupon ID: %d"
+msgstr "ID de cupón: %d"
+
+#: includes/base/admin/coupons/views/view-add-coupon.php:30
+msgid "Coupon Name"
+msgstr "Nombre del cupón"
+
+#: includes/base/admin/coupons/class-submenu-page-coupons.php:33
+msgid "Coupon successfully moved to Trash."
+msgstr "El cupón se movió correctamente a la Papelera."
+
+#: includes/base/admin/coupons/class-submenu-page-coupons.php:42
+msgid "Coupon updated successfully."
+msgstr "Cupón actualizado correctamente."
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:126
+msgid "Coupon Value"
+msgstr "Valor del cupón"
+
+#: includes/base/admin/coupons/functions.php:51
+#: includes/base/admin/coupons/functions.php:52
+#: includes/base/admin/coupons/views/view-coupons.php:11
+msgid "Coupons"
+msgstr "Cupones"
+
+#. Description of the plugin
+msgid ""
+"Create discounts and coupon codes that are applied to the checkout form "
+"based on specific conditions."
+msgstr ""
+"Cree descuentos y códigos de cupón que se apliquen al formulario de pago en "
+"función de condiciones específicas."
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:87
+#: includes/base/admin/coupons/class-list-table-coupons.php:89
+msgid "Date Created"
+msgstr "Fecha de creacion"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:88
+#: includes/base/admin/coupons/class-list-table-coupons.php:90
+msgid "Date Modified"
+msgstr "Fecha modificada"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:229
+#: includes/base/admin/coupons/class-list-table-coupons.php:232
+msgid "Delete Permanently"
+msgstr "Borrar permanentemente"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:130
+msgid "Discount Conditions"
+msgstr "Condiciones de descuento"
+
+#: includes/base/admin/discounts/class-submenu-page-discounts.php:30
+msgid "Discount created successfully."
+msgstr "Descuento creado con éxito."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:76
+msgid "Discount Description"
+msgstr "Descripción del descuento"
+
+#: includes/base/admin/discounts/class-submenu-page-discounts.php:39
+msgid "Discount has been successfully deleted."
+msgstr "El descuento se ha eliminado correctamente."
+
+#: includes/base/admin/discounts/class-submenu-page-discounts.php:36
+msgid "Discount has been successfully restored."
+msgstr "El descuento se ha restablecido correctamente."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:32
+#, php-format
+msgid "Discount ID: %d"
+msgstr "ID de descuento: %d"
+
+#: includes/base/admin/discounts/views/view-add-discount.php:30
+msgid "Discount Name"
+msgstr "Nombre de descuento"
+
+#: includes/base/admin/discounts/class-submenu-page-discounts.php:33
+msgid "Discount successfully moved to Trash."
+msgstr "El descuento se movió correctamente a la Papelera."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:103
+msgid "Discount Type"
+msgstr "Tipo de descuento"
+
+#: includes/base/admin/discounts/class-submenu-page-discounts.php:42
+msgid "Discount updated successfully."
+msgstr "Descuento actualizado correctamente."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:115
+msgid "Discount Value"
+msgstr "Valor de descuento"
+
+#: includes/base/admin/discounts/functions.php:51
+#: includes/base/admin/discounts/functions.php:52
+#: includes/base/admin/discounts/views/view-discounts.php:11
+msgid "Discounts"
+msgstr "Descuentos."
+
+#: includes/base/admin/discounts/functions.php:75
+msgid "does not end on a"
+msgstr "no termina en un"
+
+#: includes/base/admin/discounts/functions.php:75
+msgid "does not start on a"
+msgstr "no comienza en un"
+
+#: includes/base/admin/coupons/class-list-table-coupons.php:220
+msgid "Duplicate coupon"
+msgstr "Cupón duplicado"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:217
+msgid "Duplicate discount"
+msgstr "Descuento duplicado"
+
+#: includes/base/admin/discounts/functions-actions-discount.php:292
+#: includes/base/admin/coupons/functions-actions-coupon.php:290
+msgid "Duplicate of"
+msgstr "Duplicado de"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:34
+msgid "Edit Coupon"
+msgstr "Editar cupón"
+
+#: includes/base/admin/coupons/class-list-table-coupons.php:219
+msgid "Edit coupon"
+msgstr "Editar cupón"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:32
+msgid "Edit Discount"
+msgstr "Editar descuento"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:216
+msgid "Edit discount"
+msgstr "Editar descuento"
+
+#: includes/base/admin/discounts/functions.php:75
+msgid "ends on a"
+msgstr "termina en un"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:107
+#: includes/base/admin/coupons/views/view-edit-coupon.php:118
+msgid "Fixed Amount"
+msgstr "Cantidad fija"
+
+#: includes/base/admin/discounts/functions.php:90
+msgid "Form Field"
+msgstr "Campo de formulario"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:228
+#: includes/base/admin/coupons/views/view-edit-coupon.php:222
+msgid "from"
+msgstr "de"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:199
+msgid "Hide Discount, subtract amount from Calendar Price"
+msgstr "Ocultar descuento, restar la cantidad del precio del calendario"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr ""
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:86
+#: includes/base/admin/coupons/class-list-table-coupons.php:88
+msgid "ID"
+msgstr ""
+
+#: includes/base/coupons/functions-coupons.php:301
+msgid "Invalid Code"
+msgstr "Codigo no válido"
+
+#: includes/base/coupons/functions-coupons.php:277
+msgid "Invalid Coupon Code"
+msgstr "Código de cupón inválido"
+
+#: includes/base/admin/discounts/functions.php:72
+#: includes/base/admin/discounts/functions.php:73
+#: includes/base/admin/discounts/functions.php:74
+#: includes/base/admin/discounts/functions.php:76
+#: includes/base/admin/discounts/functions.php:77
+#: includes/base/admin/discounts/functions.php:79
+msgid "is equal to"
+msgstr "es igual a"
+
+#: includes/base/admin/discounts/functions.php:72
+#: includes/base/admin/discounts/functions.php:73
+#: includes/base/admin/discounts/functions.php:74
+#: includes/base/admin/discounts/functions.php:76
+#: includes/base/admin/discounts/functions.php:77
+msgid "is greater than"
+msgstr "es mayor que"
+
+#: includes/base/admin/discounts/functions.php:78
+msgid "is logged in"
+msgstr "está registrado"
+
+#: includes/base/admin/discounts/functions.php:72
+#: includes/base/admin/discounts/functions.php:73
+#: includes/base/admin/discounts/functions.php:74
+#: includes/base/admin/discounts/functions.php:76
+#: includes/base/admin/discounts/functions.php:77
+msgid "is lower than"
+msgstr "es mas bajo que"
+
+#: includes/base/admin/discounts/functions.php:79
+msgid "is not equal to"
+msgstr ""
+
+#: includes/base/admin/discounts/functions.php:78
+msgid "is not logged in"
+msgstr "no está registrado"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:85
+#: includes/base/admin/coupons/class-list-table-coupons.php:87
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/base/admin/coupons/class-list-table-coupons.php:293
+msgid "No coupons found."
+msgstr "No se encontraron cupones."
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:290
+msgid "No discounts found."
+msgstr "No se encontraron descuentos."
+
+#: includes/base/admin/discounts/functions.php:85
+msgid "Number of booked days"
+msgstr "Número de días reservados"
+
+#: includes/base/admin/discounts/functions.php:88
+msgid "Number of days from current day"
+msgstr "Número de días desde el día actual"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:88
+msgid ""
+"Optional. A description that will appear in the pricing table, under the "
+"coupon's name."
+msgstr ""
+"Opcional. Una descripción que aparecerá en la tabla de precios, debajo del "
+"nombre del cupón."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:77
+msgid ""
+"Optional. A description that will appear in the pricing table, under the "
+"discount's name."
+msgstr ""
+"Opcional. Una descripción que aparecerá en la tabla de precios, bajo el "
+"nombre del descuento."
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:192
+msgid ""
+"Optional. The coupon will be valid only if the booking starts on a certain "
+"weekday."
+msgstr ""
+"Opcional. El cupón será válido solo si la reserva comienza en un determinado "
+"día de la semana."
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:176
+msgid "Optional. The number of times the coupon code can be used."
+msgstr "Opcional. La cantidad de veces que se puede usar el código de cupón."
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:218
+msgid "Optional. The period in which the coupon is valid."
+msgstr "Opcional. El período en el que el cupón es válido."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:224
+msgid "Optional. The period in which the discount is valid."
+msgstr "Opcional. El período en el que el descuento es válido."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:142
+msgid "or"
+msgstr "o"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:183
+msgid "Per Booking - Apply the discount only once"
+msgstr "Por reserva: aplique el descuento solo una vez"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:184
+msgid "Per Day - Apply the discount multiplied by the number of days booked"
+msgstr ""
+"Por día: aplique el descuento multiplicado por la cantidad de días reservados"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:108
+#: includes/base/admin/coupons/views/view-edit-coupon.php:119
+msgid "Percentage"
+msgstr "Porcentaje"
+
+#: includes/base/admin/coupons/functions-actions-coupon.php:23
+msgid "Please add a name for your new coupon."
+msgstr "Agregue un nombre para su nuevo cupón."
+
+#: includes/base/admin/discounts/functions-actions-discount.php:23
+msgid "Please add a name for your new discount."
+msgstr "Agregue un nombre para su nuevo descuento."
+
+#: includes/base/admin/discounts/functions.php:89
+msgid "Price per day"
+msgstr "Precio por dia"
+
+#: includes/base/admin/discounts/functions.php:143
+msgid "Remove"
+msgstr "Eliminar"
+
+#: includes/base/admin/coupons/class-list-table-coupons.php:231
+msgid "Restore coupon"
+msgstr "Restaurar cupón"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:228
+msgid "Restore discount"
+msgstr "Restaurar descuento"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:43
+#: includes/base/admin/coupons/views/view-edit-coupon.php:237
+msgid "Save Coupon"
+msgstr "Guardar cupón"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:41
+#: includes/base/admin/discounts/views/view-edit-discount.php:258
+msgid "Save Discount"
+msgstr "Ahorre descuento"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:178
+msgid ""
+"Select how to apply the discount. Once per booking or multiplied by the "
+"number of days booked."
+msgstr ""
+"Seleccione cómo aplicar el descuento. Una vez por reserva o multiplicado por "
+"el número de días reservados."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:163
+#: includes/base/admin/coupons/views/view-edit-coupon.php:145
+msgid ""
+"Select how to apply the discount. To all pricing items (calendar price per "
+"day and form product fields) or to calendar price only (calendar price per "
+"day)."
+msgstr ""
+"Seleccione cómo aplicar el descuento. A todos los elementos de precio "
+"(precio de calendario por día y campos de producto de formulario) o solo al "
+"precio de calendario (precio de calendario por día)."
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:160
+msgid ""
+"Select the calendars the coupon applies to. If no calendars are selected, "
+"the coupon will be applied to all calendars."
+msgstr ""
+"Seleccione los calendarios a los que se aplica el cupón. Si no se selecciona "
+"ningún calendario, el cupón se aplicará a todos los calendarios."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:208
+msgid ""
+"Select the calendars the discount applies to. If no calendars are selected, "
+"the discount will be applied to all calendars."
+msgstr ""
+"Seleccione los calendarios a los que se aplica el descuento. Si no se "
+"selecciona ningún calendario, el descuento se aplicará a todos los "
+"calendarios."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:198
+msgid "Show Discount"
+msgstr "Mostrar descuento"
+
+#: includes/base/admin/coupons/functions-actions-coupon.php:45
+msgid "Something went wrong. Could not create the coupon. Please try again."
+msgstr "Algo salió mal. No se pudo crear el cupón. Inténtalo de nuevo."
+
+#: includes/base/admin/discounts/functions-actions-discount.php:45
+msgid "Something went wrong. Could not create the discount. Please try again."
+msgstr "Algo salió mal. No se pudo crear el descuento. Inténtalo de nuevo."
+
+#: includes/base/admin/coupons/functions-actions-coupon.php:75
+msgid "Something went wrong. Could not update the coupon."
+msgstr "Algo salió mal. No se pudo actualizar el cupón."
+
+#: includes/base/admin/discounts/functions-actions-discount.php:74
+msgid "Something went wrong. Could not update the discount."
+msgstr "Algo salió mal. No se pudo actualizar el descuento."
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:242
+msgid "Start Date only"
+msgstr "Fecha de inicio solamente"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:243
+msgid "Start Date or End Date"
+msgstr "Fecha de inicio o fecha de finalización"
+
+#: includes/base/admin/discounts/functions.php:75
+msgid "starts on a"
+msgstr "comienza en un"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:229
+#: includes/base/admin/coupons/views/view-edit-coupon.php:223
+msgid "to"
+msgstr "hasta"
+
+#: includes/base/admin/discounts/functions.php:86
+msgid "Total order value"
+msgstr "Valor total del pedido"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:57
+msgid "Translate coupon title"
+msgstr "Traducir el título del cupón"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:55
+msgid "Translate discount title"
+msgstr "Traducir título de descuento"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:82
+#: includes/base/admin/coupons/views/view-edit-coupon.php:93
+msgid "Translations"
+msgstr "Traducciones"
+
+#: includes/base/admin/discounts/class-list-table-discounts.php:131
+#: includes/base/admin/discounts/class-list-table-discounts.php:218
+#: includes/base/admin/coupons/class-list-table-coupons.php:133
+#: includes/base/admin/coupons/class-list-table-coupons.php:221
+msgid "Trash"
+msgstr "Basura"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:175
+msgid "Usage Limit"
+msgstr "Límite de uso"
+
+#: includes/base/admin/coupons/views/view-edit-coupon.php:183
+#, php-format
+msgid "Used %d times so far (%d usages left)"
+msgstr "Utilizado %d veces hasta ahora (%d usos restantes)"
+
+#: includes/base/admin/discounts/functions.php:91
+msgid "User"
+msgstr "Usuario"
+
+#: includes/base/admin/discounts/functions.php:92
+msgid "User Role"
+msgstr ""
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:236
+msgid "Validity Inclusion"
+msgstr "Inclusión de validez"
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:223
+#: includes/base/admin/coupons/views/view-edit-coupon.php:217
+msgid "Validity Period"
+msgstr "Período de validez"
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr ""
+
+#: includes/base/admin/discounts/views/view-edit-discount.php:192
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#. Name of the plugin
+msgid "WP Booking System - Coupons & Discounts Add-on"
+msgstr ""

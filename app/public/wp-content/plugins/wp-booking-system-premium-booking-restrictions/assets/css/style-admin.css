@@ -1,0 +1,49 @@
+.wpbs-wrap .wpbs-br-field-inner-half {width:49.25%; margin-right:1.5%; float:left;}
+.wpbs-wrap .wpbs-br-field-inner-half-last {margin-right:0;}
+
+.wpbs-settings-field-wrapper:after {clear:both; content:""; display:block;}
+
+.wpbs-br-field-inner-week-days {width:13%; margin-right:1.5%; float:left;}
+
+.wpbs-br-field-inner-week-days-7 {margin-right:0;} 
+
+.wpbs-booking-restrictions input[type="number"] {width: 100%; margin-left: 0; height: 30px; }
+
+
+.wpbs-booking-restriction {display: block; float:left; clear:both;   }
+.wpbs-booking-restrictions:after {content:""; display: block; clear: both;}
+
+.wpbs-booking-restriction .wpbs-booking-restriction-remove {float: right; color: #f00; text-decoration: none; font-size: 13px;}
+.wpbs-booking-restriction:first-child .wpbs-booking-restriction-remove {display: none;}
+.wpbs-booking-restriction:first-child .wpbs-settings-br-validation-type {display: none;}
+.wpbs-booking-restriction .wpbs-booking-restriction-remove:hover {color:inherit}
+.wpbs-booking-restriction .wpbs-booking-restriction-remove i {position: relative; top: 1px;}
+
+.wpbs-enforce-days-field {position: relative; clear:both; margin-bottom:1.5%; }
+.wpbs-enforce-days-field .wpbs-br-field-inner-half-last {width:calc(49.25% - 24px);}
+.wpbs-enforce-days-field.wpbs-enforce-days-field-heading {margin-bottom: 0;}
+.wpbs-enforce-days-field:after {content:""; display: block; clear: both;}
+
+
+.wpbs-enforce-days-field > div {display: block;}
+
+.wpbs-enforce-days-field .wpbs-br-enforce-days-week-days {display: inline-block; text-align: left; margin-right:3px; margin-top:2px;}
+.wpbs-enforce-days-field .wpbs-br-enforce-days-week-days  input {margin:0;}
+.wpbs-enforce-days-field .wpbs-br-enforce-days-week-days span {display: block; text-align: center !important; line-height: 20px;}
+
+.wpbs-settings-br-date-range-type {display: none;}
+
+.wpbs-fixed-intervals {max-width: 620px;}
+.wpbs-fixed-intervals .inside {margin-top: 10px;}
+.wpbs-fixed-interval {max-width:calc(100% - 20px); clear:both; position:relative; margin-bottom: 10px;}
+
+.wpbs-fixed-interval .wpbs-fixed-interval-remove {position:absolute; color: #f00; text-decoration: none; font-size: 22px; top: 20px; right:-22px;}
+.wpbs-fixed-interval:after {content:""; display: block; clear: both;}
+
+.wpbs-fixed-interval:first-child .wpbs-fixed-interval-remove {display: none;}
+.wpbs-fixed-interval .wpbs-fixed-interval-remove:hover {color:inherit}
+.wpbs-fixed-interval .wpbs-fixed-interval-remove i {position: relative; top: 1px;}
+
+.wpbs-wrap .wpbs-br-field-inner-third {width:32.5%; margin-right:1.25%; float:left;}
+.wpbs-wrap .wpbs-br-field-inner-third-last {margin-right:0;}
+.wpbs-wrap .wpbs-br-field-inner-third input {width: 100%;}
